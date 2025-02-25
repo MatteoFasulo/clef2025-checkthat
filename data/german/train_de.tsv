@@ -1,0 +1,801 @@
+sentence_id	sentence	label
+4f9c8bcd60318b0d1257f35ebc7c4ede9f7930e1	Die Ausbreitung des Virus sei beschränkter als in anderen Ländern.	OBJ
+0531b165e42997e8eecbb84d1e774c728041db8c	Zwar sei ein Anstieg der Zahlen zu verzeichnen.	OBJ
+c34bac7a38d7959b0d3c340810f5d2ac3187a3ec	Der Arbeitsmarkt hat sich so zugunsten der Leiharbeitsfirmen verschoben, dass die Gesundheitseinrich­tungen alleine nicht mehr dagegen ankommen.	OBJ
+3c6b7daf4e0cce25f45c8497da669c8936a66113	Es wird das PCR-Pooling mit Antigen-Schnelltests als Screening-Tool verglichen und der Frage nachgegangen, wie gut Antigentests bei Delta und Geimpften funktionieren.	OBJ
+9d241c839c8b801bdbc526cd6e20f70ecd11f341	Als er bemerkte, dass Internetbetreiber die Geschwindigkeit drosseln, obwohl die Kunden eigentlich für mehr Leistung bezahlen, platzte dem Ingeneuer der Kragen!	OBJ
+d5be358f12ef0bb782130748de5abd63cff00e93	Das ist nicht gerade ein Vorgehen, das man mit einem Impfstoff erwarten müsste, der rund 40 mal gefährlicher ist als eine Grippeimpfung.	SUBJ
+8d244306a066f63c438aecf0a30cca532511d466	Sollen jetzt nicht einmal mehr die Menschen gehört werden, die ihre Kritik am Regierungskurs mit Samthandschuhen präsentieren?	SUBJ
+fcacc7c7814669e0b1593d96c7eb6ef7085729d6	Dies wäre etwa dann der Fall, wenn sich Menschen aus Angst vor einer Ansteckung nicht mehr ins Krankenhaus trauen.	OBJ
+7c5e6853a55426c073f293276a54de2aba29edbd	Einige davon sind sehr scharf und enthalten auf der Skala von Scoville einen sehr hohen Wert, z.B. Jalapeños und Habaneros.	OBJ
+1257d884f214a19cdde7b70924c469d696090285	Der Zeitraum ist zwar kurz, dafür wurden Daten aus fast der gesamten Bevölkerung mit einbezogen.	OBJ
+bc2e2e164f2e6a6a3b09f3c71d229457aa10f39e	Wenn es sehr viele COVID-„Fälle“ gibt und gleichzeitig so wenige sterben, könnte man das als Beleg für den Erfolg der Impfung ansehen.	SUBJ
+16027470e3feb096d22eb152a81755a533682dc9	Können wir das mal separat rechnen?	SUBJ
+f2a2092d7066350c7ddcf62c3f89cab6d3e2fcaa	Unbeirrt davon setzten die NGO’s, auch die „Alan Kurdi“, anschließend jedoch ihr Werk fort – und brachte fünf Tage später gleich die nächste Fracht nach Italien; diesmal 125 „Schiffbrüchige“, die in Sardinien abgesetzt wurden – wo sie ebenfalls von Protesten der wütenden Inselbevölkerung empfangen wurden.	SUBJ
+6916e84ecdcba0de6458ba1bc7767a63392ac03c	Es war 2 Uhr zur Nacht, als Omar Mateen seinen übrig gebliebenen Rest an Menschlichkeit ablegte.	SUBJ
+1114db5256d2dff42d5e304f160d7a9637e829e4	Es gab damals viele, die wollten die Flüchtlinge zu einem Geschenk für Deutschland, zu einem Kompliment für unsere Weltoffenheit und zur Arbeitsmarktreserve gegen den demografischen Wandel hochstilisieren.	SUBJ
+9e195a1e9a42bf4cbda3d472b6378581e246baf3	Im „Kleingedruckten“, oder genauer im langen Fließtext, gibt die Behörde im aktuellen Wochenbericht zu: Da fu¨r einen Teil der COVID-19-Fa¨lle die Angaben zum Impfstatus unvollsta¨ndig sind, ist von einer Untererfassung der geimpften COVID-Fa¨lle auszugehen.	SUBJ
+158bb0e7d5d4156f52022e96be37e12ff963c51d	"Den Beipackzettel des Impfstoffs Janssen® von Johnson & Johnson finden Sie in der ""Zusammenfassung der Merkmale des Arzneimittels"", das die EMA online in 25 Sprachen zur Verfügung stellt, ab Seite 27."	OBJ
+2492f7cb59a166fa09cb306a4a97b5d92d0a3a7d	Diese Initiative soll auch Einrichtungen der Eingliederungshilfe unterstützen.	OBJ
+41944ad87722b0109329e64b12d58054af150cba	Als Ergänzung zur Spritze bringt Pfizer eine Corona-Tablette auf den Markt.	OBJ
+64ad4b3e2da8cc4d3b92e6ecc4995524d2391bed	Wir haben ein Artenschutzportal beschlossen.	OBJ
+a91793e682659853914a9a634f2505908eec1c28	Das heißt, auch der heute analoge Prozess wird durch die Corona-Warn-App digitalisiert.	OBJ
+43fe88d514264026b28ea2e0bae55a583881805b	Natürlich werden wir auch die Ergebnisse, die wir jetzt aus der Implementierung erhalten, berücksichtigen.	OBJ
+996642bb3d38f5f0800244899ceb6f8426d70644	Akzeptieren Sie keine Erpressung.	SUBJ
+ff72c8006e8d63dd485d22438288ac7bdbb1e47c	Vorher zwei Bemerkungen: Erstens: Das RKI spricht bei positiven Corona-Testergebnissen immer noch von Fällen, obwohl es Virustrümmer-Nachweise ohne Beweis einer Infektion sind.	SUBJ
+6afef3d06ff1bb14f64634af6fff4c8040581219	In drei Fällen - es sind drei Doppelstaatlerfälle - haben wir leider immer noch keinen konsularischen Zugang.	SUBJ
+26b23c9e7093ba8a50c323cfda9bf94f13cfc755	Ihr Ableben trägt — medial aufbereitet — dazu bei, eine Drohkulisse aufzubauen, mit deren Hilfe schwerwiegende Zwangsmaßnahmen gegen die gesamte Bevölkerung durchgesetzt werden.	SUBJ
+ee3a79397b9b0bd6ddd9c5d6e68418df53dded99	Aber 773 davon gibt es gar nicht, sie wurden nur statistisch errechnet.	OBJ
+21dd5b84a5fb3410af977d5801c31a5bf46c3e7d	In den Zulassungsstudien der Impfstoffe erfolgte die SARS-CoV-2-Testung anlassbezogen in der Regel bei Symptomen.	OBJ
+7aa9a7925cad280a9abb59cd705b543dac47b209	Testkits für SARSCoV- 2 werden in China rar.	OBJ
+96c0deecf0bebe437541fb9e54ec02848de0c70a	Mindestens 165 Banken beschränken den Gesamtfreibetrag für ihre Kundinnen und Kunden bei 50.000 Euro oder weniger.	OBJ
+cd1a6d54098c057532b697d6ba7d5e596c7c39eb	Denn es gibt viele Freiheitsrechte zu verlieren.	SUBJ
+dbf326846ad2ea2b16dcb3b1126b849bf233b9df	Ich versuche im Bekanntenkreis mit diesen Informationen etwas die Angst vor dem Virus zu nehmen, aber es wird immer schwieriger.	SUBJ
+c30f29c07211310569342f07827f498be81a6a48	Dier ExpertInnen haben zudem mehr als 40 Studien zur Nützlichkeit von Masken untersucht und keine Hinweise auf eine Wirksamkeit zur Vorbeugung von respiratorischen Infekten bei der Ausdehnung der Maskenpflicht auf die gesamte Bevölkerung außerhalb der Gesundheitseinrichtungen gefunden.	OBJ
+8635babf6e3c49cf69178f5defa7aed8f6a78ce5	PIC steht für Pneumonia-Influenza-Covid (Lungenentzündung, Grippe, Covid).	OBJ
+a19333432a2f6257ed01a044d640a91ac1e8c0d3	Christian Drosten: Das stimmt, also es gibt natürlich Coronaviren, vier Stück in der menschlichen Bevölkerung.	OBJ
+894fe5134d26917a06dd4d4b2053448e6030a67b	Da ist jeder Dreck der Welt drin.	SUBJ
+f76d02a430399af5582b7d2311c00686aa6dff1e	"Im Schnitt überleben sie zwischen vier und fünf Tagen, schreibt ein Forschungsteam aus Greifswald und Bochum in Deutschland im ""Journal of Hospital Infection""."	OBJ
+618b744291520a535601aaf5943b5c9596c44fb7	„Man muss sich also fragen, was da gerade abgeht“, sagte Kingston.	OBJ
+183b50f29309276f125e605f0c83fc1e6a7bb67f	Der andere Angeklagte bekundete, er könne sich an den ganzen Vorgang nicht erinnern.	OBJ
+0248ad10b00054d479fe8ad364e6127bf5da6a70	Die hier nur stichpunkartig zusammengeführten Hinweise können ausführlicher im Artikel Toxizität und Zytotoxizität von Graphenoxid – Appendix nachgelsen werden.	OBJ
+6efe0b7b40c75cd90a9ff187d4fd7d9d62ca752f	Wer dann Neuwahlen ausschreibt unter Geltung welchen Wahlgesetzes, bleibt der Kunst der Staatsrechtler überlassen.	SUBJ
+fd41e7fdfabff54a337d0dbaeab633fcc2f59d54	Während der Pandemie wurden solche Subventionen also nicht tatsächlich gewährt, auch wenn es laut Verordnung möglich gewesen wäre.	OBJ
+af2412e89a0675b9c54c172cd7221792681301df	> Erlange die legale Steuerfreiheit & entziehe den Satanisten die Macht!	SUBJ
+0be2096d61651b2c6b5196b834f7ea519f4a62f0	Schon bei über 60-Jährigen soll mehr als jeder vierte Infizierte auf der Intensivstation landen.	SUBJ
+a2c3a95cb5ac88e7835029831e10d26893529110	Eine der wichtigsten Erkenntnisse: Der Schaden, den das Spike-Protein an Zellen anrichten kann, kann erheblich sein.	SUBJ
+dedc49eea5d50d27e06e448720a5e946c4aeee99	Die erkrankten Bewohner leben derzeit in Zimmerquarantäne.	OBJ
+3f966c9c1cc14ef52669e79d848f96e10c587a67	Wir folgen seinen Ausführungen zunächst dahingehend, dass es zutrifft, dass Zahlen und Daten in der Studie wild und beliebig durcheinandergewürfelt wurden.	SUBJ
+cefb72e9085a56c40f7a9d7b5ac9f535f09f5950	Daraufhin begannen die Patienten sich zu erholen und ihre Gesundheit begann sich zu verbessern.	OBJ
+4287fb6594807eb23af72f9013d4e644b10a01af	Angeblich hätte er behauptet, Bäume würde explodieren und Österreicher würden in Waldstädten leben.	SUBJ
+ebab9096b346b6ea22e2d4ee67fd4a21e53d0f8a	Wenn Sie sich die aktuelle Grafik vom ARD-Deutschlandtrend anschauen, dann stellen Sie fest, dass die Grünen die CDU/CSU als stärkste Kraft abgelöst haben.	OBJ
+c8719b331bebc254849fa64db8f808b73576d7da	(5) Warum melden die Niederlande deutlich mehr Nebenwirkungen der Covid-19-Impfstoffe als andere Länder?	SUBJ
+e323ecf2f3b70c85e15c710ba692e60e0fb66b79	Er kann erwerbsfähigen Bezieherinnen und Beziehern von Arbeitslosengeld II auch zumutbare Mitwirkungspflichten zur Überwindung der eigenen Bedürftigkeit auferlegen, und darf die Verletzung solcher Pflichten sanktionieren, indem er vorübergehend staatliche Leistungen entzieht.	OBJ
+dd1878eac6948a4c2c838cea63c40327f563c144	): Faktencheck von Correctiv Correctiv hat am 13.12. einen sogenannten Faktencheck zu diesem Beitrag veröffentlicht, auf den ich vor wenigen Tagen aufmerksam wurde.	SUBJ
+e0357872cd94c0c441102908cfff28a8d901a42c	Insgesamt nahmen die Mediziner den Tod von acht Verstorbenen unter die Lupe.	OBJ
+245a6bbe8391e53bd12528bcead5deddc0c6c2d2	Beim Dengue-Fieber verläuft die Reinfektion mit einem anderen Serotyp schwerer, wenn der Titer der schützenden Antikörper abnimmt.	OBJ
+1949cae7ff1952ee2c1c8fbb757cfe48a047af29	Die Grippe ist so schwer, dass die meisten Menschen es nicht einmal merken, wenn sie sie haben.	SUBJ
+a00da29b2d8563f6f9c0102e1a629d66d0ffd687	Nach Untersuchungen der Initiative Qualitätsmedizin und der InEK gab es in den Krankenhäuser mindestens zeitweise dreimal so viel abgerechnete Covid-Fälle ohne Infektionsnachweis wie solche mit Nachweis.	OBJ
+b95a187d51ed06d49dc714faee6806cf0508a157	Bei internationalen Vergleichsstatistiken für Staaten, wo sogar eine Millionen Einwohner als Vergleichswert herangezogen werden, stehen Kleinstaaten wie Qatar, Andorra oder der Vatikan folglich an der Spitze der Infektionszahlen.	OBJ
+687c4df18a60bf0b106eb54e8c591631aecc7918	Das Robert-Koch-Institut fälscht vorsätzlich die Statistiken und verstößt allein damit schon gegen das Infektionsschutzgesetz.	SUBJ
+9df758b7785956e80238438ced7526564a53b87f	Die Tage einfach wegzulassen wäre ein schwerwiegender Fehler, da dann nicht mehr gleichlange Zeiträume miteinander verglichen werden.	SUBJ
+76e4330678532a9f70f5cee52c871cd1fd08a64f	„Mit unseren Messungen können wir im Kleinen die Prozesse besser verstehen, die das Wachsen und Tauen von Meereis in der Natur beeinflussen“, erläutert Notz.	OBJ
+4209bf155712c6a9b63656715082ba9cf56e216d	Dadurch ist die Influenza jetzt zu Corona mutiert, die ich schon vor 40 Jahren erleiden musste.	SUBJ
+1e112ca24d7de0403e75126bd481e7e6b8fb0055	(14:00): Und du musst auch verstehen, dass in den anderthalb Jahren, in denen sie entwickelt wurden, jeder, der auftauchte und sagte: „Hey, dieser Virus ist gar nicht so schlimm“ verspottet wurde.	SUBJ
+0682d90a65d15df0326eca24ffec13d653fb00e1	Allerdings wird angemerkt, dass die Mütter, die lebende Kinder zur Welt brachten, mehrheitlich erst im dritten Schwangerschaftsdrittel geimpft wurden.	OBJ
+c6f6ecb5c9ac5715427907e2cb9f054cc35d0902	Die Studie trägt den Titel Preliminary Findings of mRNA Covid-19 Vaccine Safety in Pregnant Persons und erschien im renommierten New England Journal of Medicine.	OBJ
+45f5c59691910c0949ed6e15d711f7ca98d3b39b	Das Beispiel verdeutlicht die kolossalen Auswirkungen, die mit Klimaänderungen in geologischer Vorzeit verbunden waren.16.	SUBJ
+5ecbcc331d6f2360e998c348d49d6d8e4f0b1277	Studie zur Corona-Übersterblichkeit: Starben 45 Prozent infolge des Lockdowns?	SUBJ
+d6734ba6eb6701a84ac460b82e9b9cc0f93f9880	Die Autoren folgern dennoch, dass sowohl ein “freiwilliger” als auch ein erzwungener Lockdown möglicherweise nutzlos ist.	OBJ
+602b143f957eeffa579d5fa52f6ef167ef85f3a5	Inwieweit „Nebenwirkungen“ des Impfstoffs die Ursache war ist unklar.	SUBJ
+b30e5f9d9cd9a457c96fe0dbbff8e626f1bfc41f	"Auf die Frage, ob er jetzt lieber in der Opposition säße, um von dort den Regierungskurs zu geißeln, hat Michel Reimon eine klare Antwort: ""Nein, sicher nicht."	SUBJ
+16c1ae2e83edb97f3a3aa9649bb3e45ff5596426	Dazu gehören etwa Plattformen im sogenannten Darknet, auf denen illegale Güter wie Waffen, Drogen oder Kinderpornografie gehandelt oder verbreitet werden.	OBJ
+fe9fed442558e532a1282cdb43011d267a49155b	Auch und gerade mit offiziellen, weil es viele Unwägbarkeiten gibt, viele unentdeckte Infektionen im Verhältnis zu entdeckten Todesfällen zum Beispiel – oder die Frage, ob verschiedene Zahlen auf der Zeitachse überhaupt zusammenpassen.	SUBJ
+e13ce437f45e27c4a4910354bea4da306b553d97	Es braucht nicht mehr viel, und ich muss ihm recht geben.	SUBJ
+99d4c6d57f5324ab43952180b490db643cabea77	Es macht sehr viel Sinn zu behaupten, dass der Erreger der COVID19-Krankheit genau Graphenoxid ist.	SUBJ
+111917ebd94fedd8804d181f19c034a43a4271fd	Die Freien Wähler verbessern sich auf 3 Prozent, würden es damit aber nicht über die Fünf-Prozent-Hürde schaffen.	OBJ
+fa9c35690f4f248962ff2d308487d06e6097bc6b	Also wenn man dieser offiziellen Zahl der CDC Glauben schenkt, die ich stark anzweifle weil zu hoch, darf man von den 843'885 Toten weltweit nur 50'633 als reine Corona-Tote in SECHS MONATEN zählen.	SUBJ
+f57ec8e207d53edc0ea44011b473ddfed248933a	Laut Grippestatistik des regierungsamtlichen Robert Koch-Instituts (RKI) wurden 2020/2021 deutschlandweit nur 564 Influnzafälle gezählt.	OBJ
+9f657ec458f952f656d3f0f0d025aae6c2212a0a	In den nächsten Zeilen notieren Sie, wie viele Personen ab 14 Jahren und wie viele Personen unter 14 Jahren in Ihrem Haushalt leben.	OBJ
+2f810ea598919ffd21f2834c2443e7ec58893508	Und eine Infektion besteht nur, wenn ein vermehrungsfähiges Virus aufgenommen worden ist.Anmerkung: Genau genommen reicht es nach der juristischen Kommentarliteratur (Kiessling, § 2 IfSG, Rz. 5) für eine Infektion noch nicht einmal, dass ein vermehrungsfähiger Krankheitserreger in den Körper aufgenommen wurde; erforderlich ist auch eine Entwicklung oder Vermehrung im Körper.	OBJ
+ea2c44bce31295b7bb836e980827192046a5bf3d	Die Institute wollen dadurch verhindern, dass Anleger mit größeren Vermögen, die Schwierigkeiten mit ihrer eigenen Bank bekommen, in Scharen zu ihnen wechseln.	OBJ
+022d57d1f3a5b434ff5107460cf313768dabf7d6	"Es wäre natürlich einfacher, aber da könnten wir überhaupt nichts bewirken."""	OBJ
+63a20b3ae4663bcdd96d5e22c1aed3c4299e5e23	Der Körper des Individuums stellt ein fremdes Protein her, das das Immunsystem angreifen soll.	OBJ
+97326fb4702c437b9a43e14a9440a66377da057e	Heute werden sie zusätzlich in der großen Geschäftemacherei mit Corona ausgebeutet.	SUBJ
+7b994deb27d7b5258aaf1a54abaf2b9bd2de99ab	Doch dort hat er nach Angaben von dessen Leiter, Yehu Moran, in den vergangenen Jahren nicht gearbeitet.	OBJ
+35955c801aa8f3f8e4d2cc3753fe996e710b7791	So sieht es in einem Land aus, in dem noch Rechtsstaatlichkeit herrscht.	SUBJ
+6dd22b9f25851c68d1cd01131aa0461132cb7e6b	Zu einer lebhaften Debatte und zur Demokratie gehört es, erwachsenen Bürgern auch schwer verdauliche Kost vorzusetzen.	SUBJ
+76ad3d047585a2e27994d431bd00b924c229deb4	Die Direktorin der EMA, Frau Emer Cooke, war lange Jahre Chefin der Lobbying Agentur der pharmazeutischen Industrie, der European Federation of Pharmaceutical Industries and Associations (EFPIA).	OBJ
+e65b3180fe13713385c72b3c32b0be1a8b06ab71	Mein Anspruch ist, auch die kritischen Stimmen zu Wort kommen zu lassen, die anderswo ausgeblendet werden.	SUBJ
+73a47425efbc42da6f6cd2beec254692309c0cc1	Da haben wir seit 1968 insgesamt 121.988 Fälle von gemeldeten Nebenwirkungen.	OBJ
+07b4f71d62dc50bdfd269a327a49d2f34e879e5e	Quellenangaben, wie „Berichte im Internet“ und „gelöschte Nutzerkonten“, lassen offen, ob es sich um persönliche Erfahrungen handelt, die von sozialen Medien als unwahr eingestuft wurden, oder ob es sich um gezielte Fehlinformationen handelt.	OBJ
+6d3b6630634bfaca4e43d66b6b10ae4917e68c55	„Wir haben umfang­reiche Daten, die zeigen, dass zum Beispiel die Zahl der Fehl­ge­burten im Vergleich zum Fünf­jah­res­durch­schnitt um fast 300 Prozent gestiegen ist“, erklärte Renz auf dem Podium weiter.	OBJ
+a891433962fbc60eeb75ab902f406846ffefdea4	Es soll laut Rechnungshof schon vielfach vorgekommen sein, dass Krankenhausbetreiber die Zahl der Intensivbetten künstlich reduziert haben, um in den Genuss von Prämien für hohe Auslastung zu kommen.	OBJ
+1af9e7b5db38a49f78192a1392f15c195dc29710	"So heißt es in der Studie: ""Auffallend war ein deutlicher Anstieg (bei den Notfallzentralen, Anm."	OBJ
+984c40ac5f9415ef735940519f800259ebac648b	Und vor allem: Frauen sind drei Mal häufiger betroffen als Männer.	OBJ
+3e49e9680647361641040dd083e8a044c87974db	In jedem Fall werden die Impfstoff-Hersteller, die WHO und ihre Ableger in den nationalen Behörden versuchen, die Nebenwirkungen (aus militärischer Sicht: Hauptwirkungen) der mRNA-Impfung auf ein mutiertes Virus abzuschieben.	SUBJ
+a5b4c5c7242d3edb0237663ea9a43341a2096163	Gerade beim Impfen komme es sehr auf Vertrauen an.	OBJ
+ed67725afa7385211348908dad75a70350708f07	Die durch die Unwetter entstandenen Schäden waren damals geringer als erwartet.	OBJ
+b37584caf2692644d8f5f6f680e82e6915d86f8e	Die Besonderheit ist, dass diese anschaulichen Grafiken sowohl nach Einwohnern als auch nach Alter standardisiert sind.	SUBJ
+a4fac54844fa06fd94756ee5fc3f9192ae99bbcf	Die Maske hingegen ist als psychologisches Disziplinierungsinstrument für den permanenten Ausnahmezustand auch in Zukunft wichtig – deswegen wird sie nicht angetastet.	SUBJ
+fdf52a0c5aca12c0b0cd070bb30beeb4cbb06751	Linke Tafel: Bei der ADE wird die Internalisierung des Immunkomplexes durch die Beteiligung von aktivierenden Fc-Rezeptoren auf der Zelloberfläche vermittelt.	OBJ
+df9ceddf6d970e52bd01e012dec81afaa6bff5c4	Die Investitionen auch des Staates müssen sich amortisieren.	SUBJ
+fd93a966088400a31a1105d83f6dbca3ba9e8202	Können Sie uns kurz erläutern, wie Sie den PCR-Test damals etabliert haben und wer da drauf geguckt hat, laienhaft gesagt?	OBJ
+79e9c9b54f71a0588608e2bfd71efd8bc336ec07	Mitglied der Deutschen Akademie der Naturforscher Leopoldina ist er seit 2006, dort sind auch Personen wie Lothar Wieler und Joachim Sauer (Ehemann von Angela Merkel) Mitglied.	OBJ
+887991a9e90530ed2f4bded65d509dda7775d387	Schließlich hatte er als Bayerischer Ministerpräsident die unkontrollierte Masseneinwanderung eine „Herrschaft des Unrechts“ genannt.	SUBJ
+50efed23a600e7b54b66ccb083937721df0e4a13	Der eine oder andere Leser erinnert sich vielleicht an meinen Achgut.com-Beitrag bezüglich der falsch positiven Testungen.	OBJ
+a8fe8ff2cefa95fd8e29e7b0c44f2890cb55cafc	Es geht hier um die Motoraufwärmfunktion, die erst im Prüfzyklus NEFZ anspringt; im realen Verkehr hingegen kommt es nicht zu einer NOx-Schadstoffminderung.	OBJ
+51473322992a00000094dfed1d85bdf1081021be	Die weitere Folge wäre, dass die Spritzungen sofort eingestellt werden müssten.	OBJ
+8d87a6854deb31eeb4db4108f82eeffdf0236b65	Bei einer nach einer Moderna-Impfung verstorbenen Person fanden die Pathologen sogar Mikropartikel im Lungengewebe.	OBJ
+07d9f68b312221847385d49e23a10d655fcd4b2e	Dazu gesellt sich auch eine gewisse Ernüchterung, weil die Realität doch weniger perfekt ausfiel, als in den Zeiten der Willkommenskultur viele gehofft hatten.	SUBJ
+8d6d40ebef8ff6e27cbc3d678dd70d5e7e3948cc	Abgesehen davon, dass mir die Impfung im rechten Arm verabreicht wurde, ohne dass ich gefragt worden bin, ob ich Rechts- oder Linkshänder sei, sah die Folge bei mir so aus, dass mein Oberarm tiefrot, hart und heiß wurde.	SUBJ
+1f23349f05e581897dcc03bcff359a9f7b5cf0d2	Sie rechnet mit einer großen Migrationsbewegung nach Griechenland.	OBJ
+df248f90ec2e360b471543c310d11716e088579f	Insofern bekommen Sie diese vom Auswärtigen Amt heute nicht.	OBJ
+06e3b9085e165757f8276ee41c4f4bdeed2b00e7	Beirut leidet seit 2006 immer noch unter der Bombardierung durch Israel.	SUBJ
+08b89d5ed76592c34755dfb9927efd5c1f6f57e1	In diesem Beitrag präsentieren wir den Nachweis, dass eine Impfung im Gegensatz zu einer natürlichen Infektion eine tief greifende Beeinträchtigung der Typ-I-Interferon-Signalisierung hervorruft, die verschiedene negative Folgen für die menschliche Gesundheit hat.	OBJ
+779eadd453eda109a06b9eba2fe259deaffdc30a	"„Limitierender Faktor sind die Intensivpflegekräfte"", heißt es aus der Pressestelle."	OBJ
+016c6c1bcc55a003a6dec980146a5f21022dbc24	Mitten in der Pandemie hat man also nicht einmal alle verfügbaren Betten aufgestellt.	SUBJ
+812ec4b90a33e03cf96290c31ddcc651987db532	Früher war es vor allem die Textilproduktion, in der sich die kleinen Kinder verdingen mussten.	OBJ
+8c4ce5f19f8522fb31e5a04c76ba67711c3d9d6e	Die Symptome sind immer noch leicht.	OBJ
+150dcff2029bfae6738b1f11696233cc9b8db357	Und die Todesfälle wären eigentlich in der Statistik verborgen geblieben, wenn man nicht gezielt danach suchen würde.	SUBJ
+4aa9a22efdd79150ff686c2ab09b902d8b7c5ffd	Außerdem darf eine Bank ihren Kunden bei schon bestehenden Verträgen nicht nachträglich Negativzinsen aufbürden.	SUBJ
+888a0e934f83891d3cc64c6106806012cfe9d0bf	"Doch die Zunahme der ""Kollateralschäden"" lässt sich nicht nur darauf zurückführen, dass die Menschen aus Angst vor einer Ansteckung mit dem Virus nicht mehr zum Arzt gingen."	SUBJ
+5223d2719b0d70920db4ec22ecc45d8f166c7af8	Und genau das prophe­zeite UNSER MITTELEUROPA schon vor einem Jahr.	SUBJ
+f039d2049c91902b9b3dbf75512e075e97bd3d9b	Wir hatten keine Übersterblichkeit und die alte Grippe, an der auch schwache Menschen starben, ist verschwunden.	OBJ
+1109134c0997d8c584a8e3df7574181b5fe2cb20	"""Letztlich wird erst eine epidemiologische Nachbetrachtung ergeben können, wieviele Fälle als kausal anzusehen sind"", schrieb die Sprecherin des Landesamts."	OBJ
+a1ccdd1996a4f11cef99b9f0d6a0688aa466c7cc	Ob dies daran liegt, dass die Dänen in Lockdown-freien Regionen sich freiwillig restriktiv verhielten, können die Wissenschaftler allerdings nicht sagen.	OBJ
+f91648f0012a49479be91fb65382259ad85603cb	"""Auf die Stimmung der Bewohner wirkt sich auch die mangelhafte Kommunikation über die Vorgänge im Pflegeheim aus."	OBJ
+6a168bb01e62e612fc02b397ff4396de1b8ed925	Hier schlossen die Autoren, dass bei einem insignifikanten Ergebnis von 98 % aller Vergleiche nicht mehr davon gesprochen werden kann, dass die Maßnahmen Einfluss auf die Mortalität gehabt haben konnten.	OBJ
+04af27e361dac620678c7732dd8f9835aa8871aa	Die Stärke von Grippe­wellen hat sich in der Vergangenheit auch in den gesamten Sterbe­fallzahlen wider­gespiegelt und zu erhöhten Fallzahlen in den Winter­monaten geführt.	OBJ
+62fbb0a5862b6fa270945782129072db44f91840	Wenn die Maske eine ausreichende Filterwirkung zeigt, wird sie zertifiziert.	OBJ
+e423a29e95f6ce7f3bb8189909dd78f0eb07d9e4	Schon ein einziger Todesfall unter 20’000 würde die Gefahr statistisch um das Doppelte überzeichnen.	OBJ
+5e92800bea173e3f856b3bad68e21e9f4c50d281	Dort ist zu lesen: 700 Teilnehmerinnen erhielten ihre erste Impfdosis im dritten Schwangerschaftsdrittel.	OBJ
+d724c0ee72952c244fb31f10b09917559f24fefa	Dazu sagt die Pressemeldung von Destatis: „In Thüringen, Sachsen und Bayern erklären die bislang beim RKI gemeldeten COVID-19-Todesfälle jedoch nur ungefähr die Hälfte des Anstiegs der Sterbefallzahlen in der 45.	OBJ
+55c2353ff31b10dd045c64b7b4eaab6b089f44b7	Und ebenso natürlich hat die NASA auch eine bombensichere Erklärung für den Rückgang des Ozonlochs: Das Wetter war so gut, die Temperaturen so warm.	SUBJ
+406803c147162bc2364b9996b125a1da60db915d	Die Agenda der „Elite“ ist es, uns auszulöschen.	SUBJ
+dda160228784403a13e2167eaebcabf28840cd4b	Haben sie ihren Zweck erfüllt, lösen sie sich wieder auf.	OBJ
+cd3a09e187aae4879b1d995dcd042d665664c0f8	Die Koligation der inhibitorischen Rezeptoren führt dann zur Hemmung der antiviralen Reaktionen, was zu einer erhöhten viralen Replikation führt.	OBJ
+6c30a82492a5deffc64cd78b16c403b9b4861225	Ich bin COMPACT dankbar, dass diesen heute vergessenen Opfern mit der Geschichtsausgabe „Dresden 1945“ eine Stimme gegeben wird.	SUBJ
+d10a580d51b668605815f0663479ea8037298a98	Und wenn wir nicht jetzt etwas tun, und zwar drastisch und einschneidend, dann wird das so weitergehen.	SUBJ
+4e568e0c430dfa3a8ba573df22a9ad91f74ec3f8	Verbreiten Sie dieses Interview solange es geht und fordern sie einen offenen Diskurs!	SUBJ
+c3574544bf384ddb25b42ca8d424953166029dff	Die Organisation gießt damit nämlich Wasser auf die Mühlen genau jener Kritiker, die schon seit langem die Aussagekraft der PCR-Tests bemängeln.	SUBJ
+bcb28d78147f61c4aa913344888d7ca38ebe0961	Laut EMA wurden bis zum 27. August 2021 insgesamt 6.367 Todesfälle und 121.528 schwerwiegende Fälle von Impfnebenwirkungen für den Europäischen Wirtschaftsraum gemeldet.	OBJ
+b4e7306f4c70a66b056b7cf8b0a550579ad3b71e	In den Sondierungen zu R2G stellt sich heraus, dass die Vorstellungen der Kommunisten zu den Themen Europa, Außen- und Sicherheitspolitik mit der Richtlinienkompetenz eines Kanzlers Scholz unvereinbar sind.	SUBJ
+ff50748516ef1d5d682c56542d8666d1d844cf28	Es ist viele Jahrzehnte her, dass ein Mensch, der hustet oder niest so viel Misstrauen und Ablehnung hervorrief.	SUBJ
+5d401ceb6487f68f5eb661d98cce5149e0f9610b	Bei sieben bis 15 Prozent der Erkrankten mit Grippesymptomen würden schließlich auch bisher schon immer Coronaviren gefunden.	OBJ
+74155e750beac6ac96623cb8a7d0613796bf90c0	Wenn diese Zahlen der Wahrheit entsprechen, hat das absurde, in weiten Teilen rechtswidrige Treiben rund um die Corona-19-Impfstoffe einen neuen, tragischen Höhepunkt erreicht.	SUBJ
+0e574e4d93f1acc08a59b45f63d0f85aaa7bd92c	Nimmt man dazu die Informationen des RKI, die man irgendwo auf Seite 700-irgendetwas suchen muss, die besagen, dass möglicherweise die gemeldeten Impfschäden und Impftoten nur fünf, wiederhole fünf, Prozent des tatsächlichen Geschehens abbilden, dann könnte man auf dumme Ideen kommen.	SUBJ
+77acbf0ac803e13f3f7242b6e1faf2d09017dbff	Angeblich, um die Fallzahlen international besser abzugleichen.	SUBJ
+01770ed886aef3ea3f94d4a424622425cd476227	Die USA waren nicht so besinnlich ges­timmt und blieben bei der Bedeu­tung ‘Mil­liarde’.	SUBJ
+97492d4508ed7f51941865e910de70b5b17fc9bc	Warum bekommen schwangere Frauen diesen Impfstoff?	OBJ
+f499d730e319829bbb3dba78daf9c2ff569dbc10	Bereits eine Fehlerquote von 0,1 Prozent – bei einer angenommen Test-Genauigkeit von 99,9 Prozent – führt jedoch dazu, dass unter 100.000 nachweislich gesunden Menschen 100 falsch-positive Testergebnisse zu erwarten sind.	OBJ
+5ba7cdd31d8fe76235c02aee3a609a0859b1a67f	"Allerdings sei Voigtsberger selbst erst vor Kurzem in der Freien Presse mit der Aussage ""Wir sind voll"" zitiert worden, wie die WSZ weiter zu berichten weiß."	OBJ
+6e5b4d2f06c824aa6f461149b27f5a8a215f21e9	Nach den Angaben der Uniformierten hatte Julia S. eine schlecht sichtbare Narbe am Kinn (ca.	OBJ
+f875b389fe0f8a529361b28710922fe5aa8c2db3	Griechenland und andere Urlaubsländer dringen hingegen darauf, Reiseerleichterungen mit einem solchen Dokument zu verbinden.	OBJ
+e41677988a59bb3cfe512100560b3bd7b7eafbc4	Ich hab kein Verständnis für Leute, die uns sagen, wir sollen sofort alles hinschmeißen.	SUBJ
+d31dabbaf0b2a388f96a3276633fa4e066e63715	Seit der Verabreichung der COVID-Impfungen fordern Mediziner nach aufgetretenen Todesfällen und schweren Nebenwirkungen umfangreiche Forschungen.	OBJ
+e5aa05e42813b4985347d90727f9904ee55d62ca	Und deren Absatzmärkte in Südamerika könnten nur beliefert werden, wenn Südamerika mit „Naturalien“, sprich Lebensmitteln, zahlen dürfe.	OBJ
+836cab0b4b610f21875ab340999791f91590f462	Er beschreibt eine auffällige und einzigartige lymphozytäre Infiltration, die in den Blutgefäßen zentriert ist, aber viele weitere Organe betreffen kann, allen voran Herz und Lunge.	OBJ
+6a038ccfd09fa01caf310f32d3388b792f101b61	Im Landkreis Fulda beispielsweise gab es im Jahr 2018 mit 111 Meldungen ebenfalls einen deutlichen Anstieg.	OBJ
+c82f81d0c80c862b48cfb8a03e2cc719581aae04	Inwieweit halten Sie denn das im Ganzen gesehen für übertragbar auf Deutschland?	OBJ
+c9d34c20b80fb1f56408c58cb93b6adbaa5fba0e	Im Totenschein gibt es auch keine gesetzlichen Vorgaben, dass ein Impfstatus wie der gegen COVID abzufragen ist.	OBJ
+ee64a4785ccc2a8a9f8590dc7dcf4da71ffe59cf	Bei den Zahlen zum GBS gibt es im aktuellen Bericht leider auch einige Auffälligkeiten.	SUBJ
+a2f3ac4033adfcf0dc0f28c70ce8995c630988db	Das Amtsgericht sollte noch am Freitag entscheiden, ob Merkel in Untersuchungshaft kommt.	SUBJ
+fec127894d160f29c699590099196b015ceacaf2	Damit die Staatsanwaltschaft schon früher als geplant umfänglich gegen die 62-Jährige ermitteln kann, hatte der Landtag am Samstagabend die Immunität der Politikerin aufgehoben.	OBJ
+3ee2a3d9a79489629dd0153ced1ca1c125aa211e	Okay, Statistik hat ihre eigenen Regeln, und die Schnittpunkte mit der Empirie sind gering.	SUBJ
+e072d80719bcdd7f9636bf9c7bf18880c864961e	"Aber ""auch wenn eine Kausalität nicht mit absoluter Sicherheit nachgewiesen werden kann, erscheint sie doch sehr plausibel"", heißt es in der Studie."	OBJ
+ea497e4e61466fddd2d3c113d35b878ae810fd63	Wenn Monsanto, Bayer, Syngenta und die anderen endlich mal die Wahrheit sagen würden, würden sie erklären, dass es bei GVO keineswegs darum geht, mit Hightech-Methoden die Ernteerträge zu steigern, damit man »die Welt sattmachen« kann.	SUBJ
+34e0c2e00f46c621c7876770fae38882001466ab	In der gesamten Provinz seien zudem Gesundheitsteams unterwegs, die von Tür zu Tür gingen und für eine Impfung werben.	OBJ
+54b2a6d59fe141cfaba1b384bfb2d51f113a111a	Davon wird offenbar in Krankenhäusern recht gern Gebrauch gemacht.	SUBJ
+7b13afabc52fd8e9b97e889a0240df3786aadc31	Die Bewohner werden nach Darstellung von Kurz dreimal in der Woche mit einem Schnelltest getestet – die Mitarbeiter machen täglich einen Test vor Arbeitsbeginn.	OBJ
+aa7fe89bc337796de0137c7ed2405192a32975fb	Jeder Dreck der Welt Die Politikerinnen, die uns diesen Chemiecocktail mit Mikroplastik als Masken verordnen, gehen von völlig falschen Voraussetzungen aus, so Michael Braungart.	OBJ
+32bdd14869ed044c45e6d3f8a7f1871d755cef05	Innerhalb der Bundesländer lagen deutliche Unterschiede bezüglich der Suizidraten vor: Betrachtet man die Sterberate je 100 000 Einwohner gab es in Nordrhein-Westfalen mit 7,6 Suiziden pro 100 000 Einwohner die wenigsten Selbsttötungen.	OBJ
+91e21f5064787c629a65725c5c45b36ab04e8f2b	Der mutmaßliche Doppelmörder konnte von mehreren Streifenwagen-Besatzungen der Polizei unter Einsatz von Pfefferspray festgenommen werden.	OBJ
+04ce9c1ec3f791b1e884da5223fb6a9e4b59d7ec	Dieser habe die Jacke zunächst angezogen und dann an den Türsteher weitergereicht.	OBJ
+56226f81e442a954d1b43fae480cf6d9da7b1f36	Solange die vom Immunsystem in Schach gehalten werden, ist das kein Problem.	OBJ
+4d3f4ce39969a15cb84b4935005cef99c8f56412	Mindestens drei Whistleblower gaben Zahlen aus der Datenbank bekannt, der Anwalt Thomas Renz berichtete von diesen bei der Anhörung.	OBJ
+c0f2845881729e4a9b89e864757350a1afe963fd	Diese Offenlegung muss an prominenter Stelle und unabhängig erfolgen, um den Standard der medizinischen Ethik für das Verständnis und eine informierte Einwilligung der Patienten zu erfüllen.	OBJ
+cefca9b06b32b44b296447057b8c9bc8cdcf91f7	Aber wenn ihr all diesen Schwachsinn nicht mehr 2x im Jahr erleiden wollt und auch eure Eltern oder Großeltern beschützen wollt, sodass sie nicht mehr daran versterben können, dann senden sie mir einfach ein Mail und sie erhalten gratis die Info, wie einfach das in 1-2 Stunden zu machen ist.	SUBJ
+73066fe195ce15568e4f210474ddc92199f0eaf4	Zudem sollten die geltenden Kontaktbeschränkungen, so die Mediziner, vor allem im privaten Umfeld kritisch überprüft und auf ein Minimum reduziert werden.	OBJ
+839008ddfa9be74e16ea3facf902f3e4257f9d0e	In indischer Sprache schildert er das Geschehen.	OBJ
+b1f0e9fedb2ce45b4d11588fbb04880acf1f9023	Ein Umstand, der vielen bis heute nicht bewusst ist.	SUBJ
+1eb028e04c1eafd430883de42f7374131e1fc263	Da der Gesetzgeber an die Eigenverantwortung der Betroffenen anknüpfen muss, wenn er existenzsichernde Leistungen suspendiert, weil zumutbare Mitwirkung verweigert wird, ist dies nur zumutbar, wenn eine solche Sanktion grundsätzlich endet, sobald die Mitwirkung erfolgt.	SUBJ
+7cc848ceea377bce7bd891cf10c81793bf9ee835	Sie ist der ultimative Argumenten-Hammer gegen die 2.	SUBJ
+48631210b1258192863d971bc640981ced1c58e4	Sport wird in geschlossenen Räumen untersagt, ebenfalls der Betrieb von Fitnessstudios.	OBJ
+4f777988316b9f4f3fa330a53054f80fade2dd78	Einen Transport in ein Krankenhaus lehnte die Schwangere ab.	OBJ
+575db1e1e7285b1fd40e6cf2a13b0e47e7534c22	Die Impfung kann die Krankheit aber nicht auslösen.	OBJ
+50930648719ad69df3f9358268eb2bde23e048e4	Die Türken wählen gezielt aus, was sie behalten und was sie uns schicken.	SUBJ
+763d94857acda61dd920bd2edd8d6f0fb1635a53	Sie beleuchteten unter anderem den derzeitigen Wissensstand über frühe Krankenhausbehandlungen, die Wirksamkeit von Impfungen und sie gingen der Frage nach, was rückblickend falsch oder richtig lief, was jetzt gemacht und was für die Zukunft geplant werden sollte.	OBJ
+a3f3f83de098baaf46660c1cec6d4fd7ab1d4a46	Hier können deutsche Panik-Propheten wie Karl Lauterbach (SPD) noch was lernen.	SUBJ
+8947c91e4234f4b5400059f7976993635023952b	Wählen gehen, auch wenn die Wahl nicht leichtfällt.	SUBJ
+aaa6f422e1f76aa28c97f270e98c9c7b43e37ae5	Die Finanzexperten der Verbraucherzentrale Baden-Württemberg betonen, dass individuelle Vereinbarungen Voraussetzung dafür sind, dass Institute solche Verwahrentgelte einführen können.	OBJ
+7d43016ee7484d031793f99329d3b967e0c6c3fc	Zieht man aber dazu in Betracht, wie viele „plötzlich und unerwartet“ aus der Mitte des Lebens gerissen worden sind, nicht nur Sportler und Künstler, dann fragt man sich, ob sich diese Übersterblichkeit nicht im Bereich der 20 bis 60-jährigen findet.	SUBJ
+c48e1eed75bb3611548b3b3c1c893405c3c464d6	Gerade denjenigen, die sich über die Hochleistungspresse informieren.	SUBJ
+eb0b046ab987970180b367d49d704574c252ccce	Ihre Erbinformation wird nicht in die menschliche DNA eingebaut, weder in Körperzellen noch in Keimbahnzellen.	OBJ
+2126294418f36b06244dee288454ebec6d8fc41e	Das heißt, 60 Prozent der positiven Tests liegt tatsächlich eine Corona-Infektion zugrunde.	OBJ
+7b0baa20c735933415891213318c6093d05d7a6e	Alle Migranten werden nach den einschlägigen internationalen Standards und in Bezug auf den Grundsatz der Nicht-Zurückweisung geschützt.	OBJ
+5a237ec4343ba4be4ee59605f57e8a8dc498f396	Palmer: Ich schreibe, dass die großen Einwanderungsländer auf eine solche Quote achten, damit die Integration gelingt, also USA, Kanada, Australien.	OBJ
+e8c917cf2b2a0be9ee11427418f8049619f7dc24	Einblicke in die pathologischen Befunde von obduzierten COVID-19-Geimpften gibt Professor Arne Burkhardt gemeinsam mit seinem Kollegen Professor Walter Lang in einer Pressekonferenz in Reutlingen, die für 16 Uhr angesetzt ist.	OBJ
+037f4db0c4d2b9e001aad3c572ba049aeb6ba566	"Ohnehin erkennt es bei lediglich 48 Todesfällen einen ""wahrscheinlichen"" Zusammenhang an."	SUBJ
+120538d0cb6caebdde4c8240be58b83a8de34815	Besonders bitter ist, wenn man liest, dass sehr früh erkannt wurde, dass die zu frühe künstliche Beatmung von Corona-Patienten für eine große Anzahl von Todesfällen verantwortlich ist.	SUBJ
+8048226e6d1a2653e70b1586866d83b87108292f	Mit 1,94% ist die Impfquote in der Ivermectin-Gruppe sehr niedrig, in der Gruppe ohne IVM mit 12,4% zwar deutlich höher, aber auch noch erheblich unter dem was in den industrialisierten Ländern zu finden ist.	OBJ
+275d6362593d0b768c3a26fd3464261f0dcc9a78	Das Ende vom Lied: Scholz resigniert unter den Druck der mächtigen SPD-Linken und macht den Weg frei für Esken, die sich dann auch auf die neue, noch weiter nach links gerückte SPD-Bundestagsfraktion stützen könnte.	SUBJ
+135b766174c2f74b32286bc30d723f67360bfb4a	"""Der türkische Präsident fühlt sich im Augenblick nicht ausreichend unterstützt"", sagte Merkel in Berlin."	OBJ
+ca53bd34af8ba7741146c97b877085987824876e	Inzwischen wäre es doch eine schöne Aufgabe für das Bundesgesundheitsministerium, mal die von Bund und Ländern verordneten Masken auf ihre Gesundheitsschädlichkeit zu überprüfen.	SUBJ
+6ceaf68b7cfa54d73ebf1061e4cce7d1b61a52cc	Aus 2021 liegen die Daten zwar nur bis Oktober vor, dennoch könne man sehen, ob es einen Anstieg in den Fallzahlen gegeben habe oder nicht.	OBJ
+dabfecca840eea683057225d1d4bbddfe49e12e4	Dieses Phänomen ist nicht nur für das Verständnis der viralen Pathogenese, sondern auch für die Entwicklung antiviraler Strategien, insbesondere von Impfstoffen, von enormer Bedeutung.	SUBJ
+a398b48779352a25100abcdee826d62d9120d9a3	Bei Frauen wurden 29.914 unerwünschte Ereignisse registriert, bei Männern dagegen nur 9.182.	OBJ
+3c95307fa9452be79dd684911b31b9a12891f8cb	Und weil die Chemie allein nicht auszureichen scheint, atmen wir auch noch Mikrofaserpartikel ein, die genau die richtige Größe haben, um sich in unserer Lunge festzusetzen oder von dort aus weiter durch den Körper zu wandern.	SUBJ
+45de21fedfb208aab581641a2207ece51484c202	Nach §12 gibt es dafür je nach Ausmaß des Bettenabbaus zwischen 4500 und 12.000 Euro Subvention je Bett.	OBJ
+e0e14380bff4c04af068f2a4e6244cd13d1c6272	(…) Am Dresdner Altmarkt fanden sie in ausgegrabenen Kellern drei Meter unter Straßenniveau Verfärbungen des Sandsteins von Weißbeige nach Rot.	OBJ
+96547bcf49a53dbea1f6948f83f912f53ac6d069	Man habe aber ein klares Notfallstufenkonzept entwickelt, Mitarbeiter geschult und ein zusätzliches Gaselager eingerichtet, um diese Betten bei Bedarf schnell in Betrieb zu nehmen.	OBJ
+6ca132d712b619c6e396d9891a184f55585cb5e3	Über 90% der Bundesbürger erkranken einfach nicht schwer genug, sodass trotz aller von den embedded Medien verbreiteten Panik rund 35% die Impfung ablehnen.	SUBJ
+11d7289480c781c8602da0e3a468e30d0f604ff3	Wenn die Politik nun -zig Millionen Deutschen und Österreichern das permanente Tragen dieser Masken zwingend vorschreibt, die über all diese Sicherheitsvorschriften überhaupt nicht aufgeklärt werden, kann dies nur bedeuten: Entweder waren alle diese Vorschriften bislang völlig überflüssig.	SUBJ
+6fc4baab53c8fdc18904eb2ef413f8d9cdc636e9	Im Übrigen dürfe Deutschland keine „Schuldenunion“ auf europäischer Ebene eingehen.	OBJ
+9af8a97adf4b5b1c9712ab3b240e5de8efd65927	Und auf welche Zeitdauer wurden diese verkürzt?	OBJ
+96d2e016100aee9e2912505297c07aed3a4cc75b	Diese offizielle Untersuchung, die im Mainstream selbstverständlich ausgeblendet wird, sagt also aus, dass die Wahrscheinlichkeit an der sogenannten Delta-Variante zu sterben bei geimpften Menschen rund 3,25-mal höher ist.	SUBJ
+c2189b744d32d7e1df97d3af0a107952d8ec94c8	Sie haben Obduktionen ausgewertet, haben Fallbeispiele zusammengetragen, fotografische Dokumente: Am 20. September haben Professor Arne Burkhardt und seine Kollegen Professor Walter Lang sowie Prof. Dr. Werner Bergholz auf einer Pressekonferenz in Reutlingen Einblicke in die pathologischen Befunde von Menschen gegeben, die vor ihrem Tod gegen COVID-19 geimpft waren.	OBJ
+14cb42005686246150393befa27080285f588ce3	Wir brauchen Namen, Zeugen, Videos, Geschichten dazu.	SUBJ
+6d35909684aecb4454eb3ae3bd17666edd125dd5	"""Auch im Pflegeheim Königin Paulinenstift in der Nachbargemeinde Friedrichshafen gibt es Corona-Fälle nach der Impfung: Sechs Bewohner sind seit dem 18. Januar positiv auf das Coronavirus getestet worden, bestätigt Leiter Christian Muth dem Südkurier."	OBJ
+69a2e5f8686acd520ec06729dd9ca71a288826d9	Es ist auch die strenge Stimme von mindestens einer erwachsenen Frau zu vernehmen.	SUBJ
+486c53fbf0e6964fe350c4391d540c732935ccd6	Dabei folgten wir den Ausführungen des Kopp-Verlages.	OBJ
+5def197daa2cb5d09bbb8b896f08135e01834239	„Wir wissen nicht genau, was das letztlich für die Gesundheit bedeutet.	OBJ
+5ac70b219d417453db8a51e92e9dae8d7e08f5eb	Diese sind in der Grafik rot markiert und wurden in der Studie „herausgerechnet“ und nicht betrachtet.	OBJ
+4b9d86405e15c6eb44b3bee84d0aa6608a9e88dd	Ich möchte die geschätzten Leserinnen und Leser aber darauf aufmerksam machen, dass auch der Deep State sehr bald nicht nur eine sondern mehrere Schippen drauflegen wird.	SUBJ
+c1cfa4e1029412432ed516cbe76d54dd969e7d0e	Es sollte darüber gesprochen werden, ob es einen einheitlichen Schwellenwert geben solle, ab dem regional zusätzliche Maßnahmen ergriffen werden müssten.	SUBJ
+fb7a0ff5d1d0538d34b6a84bb7f1b3987601be02	Was bisher immer als „Verschwörungstheorie“ abgetan wurde, bestätigte er nun in mehreren Tweets.	SUBJ
+a6fbd2937a2186090d4d25f5a6926991217f33ef	Um nur noch einmal ein paar Details zu nennen: Wir haben jeglichen Programmcode öffentlich als Open Source zur Verfügung gestellt, davor sogar die Architektur und die Konzepte.	OBJ
+d43c2321b76458bf50724b2a3f00d80fa5c10153	Auch Erfahrungen mit Kleinkindern, die einen inaktiven RSV-Impfstoff erhielten und anschliessend mit natürlich vorkommendem RSV (humanes respiratorisches Synzytial-Virus) in Kontakt kamen, zeigten dasselbe Problem.	OBJ
+f47c804aa73f6cc5df191055b002889827beb4ee	Da hat man auf Wunsch der Politik und eigenem Geschäftssinn ein halbwegs hilfreiches Serum eiligst zusammengestopselt und in Mengen verfügbar gemacht und schafft dadurch die Nachfrage danach ab.	SUBJ
+4baf4948d2fe4993828eee1330a2bcd0922b8885	Alles in allem tragen wir einen Chemiecocktail vor Nase und Mund, der nie auf seine Giftigkeit und niemals auf etwaige Langzeitwirkungen untersucht wurde.	SUBJ
+840d9528632ad117a5f8da3b2302d0417346b449	Solche Fälle wurden in letzter Zeit mehrfach von den Verbraucherzentralen, dem Portal Lebensmittelklarheit und der Wettbewerbszentrale abgemahnt, mehrere Klagen wurden bereits vor Gerichten durchgesetzt.	OBJ
+994e856211aa835a8839b8b8dafa49ceb3bfa40b	So sind 497 Fälle von Erblindung und 153 Fälle von einseitiger Erblindung registriert.	OBJ
+1ff4dd64c960f2413d38496d8c95e9a0fc75b715	Wir haben keine Hinweise auf deutsche Verletzte, also auf andere Personen, die eventuell verletzt sind.	OBJ
+bb57f3f3ebb96781975135483441b62a14534220	Geschlossene Schulen und Kinderbetreuungseinrichtungen, ausgesetzte Präsenzpflicht bzw. Distanzunterricht in Schulen über einen längeren Zeitraum bleibt nicht ohne negative Folgen für die Bildungsbiographien und die soziale Teilhabe der Kinder und Jugendlichen.	SUBJ
+2919aa1a13fb757f87fa24e9cdd08e6c37935d72	Lungenschaden geht auch ohne Virus.	SUBJ
+ceb882737350bd841a3c000dada2d561f2907d37	Dann haben wir im Juni, Juli ein Problem.	SUBJ
+ad7a4516bc4213feb7155ad627c83377f82dd918	Abbildung 1 zeigt die Gesamt-ARE-Rate in den Saisons 2018/19 bis 2020/21 sowie (zum Vergleich) die COVID-19-Rate von der 27.	OBJ
+00464c73538dfc7056dae30bb4acb8bd39b788ed	Das sind Eiweißstoffe, mit denen die Viren gezielt bekämpft werden können.	OBJ
+bc20a2146a9e48cc0aeea70880b40d878f4a2c8c	Aber die haben mit dem neuen Coronavirus nichts zu tun.	OBJ
+58da17ed5128d410ac6df18b0f22ded38c2b24e8	Es ist natürlich nicht so, dass sich jetzt innerhalb von einer Saison, also in den Wintermonaten, wo wir diese normalen Coronaviren haben, ganz viele, also ein signifikanter Teil der Bevölkerung, mit diesen Viren infiziert.	SUBJ
+9b4ad37ea9adfbafdf4d818eeb030286d3b3d2ca	Es war das dritte Treffen seit November 2015 zur Vertiefung der Beziehungen zwischen der Türkei und der EU und zur Bewältigung der Migrationskrise.	OBJ
+5f34949a484920b8f0fb869a60fb9ef3bdef018b	Das COVID-19-Virus ist ebenfalls ein Coronavirus mit der Bezeichnung SARS-CoV-2.	OBJ
+71540e4b98c02716912a2de635f23d310174b411	Wie auch hier vor allem von zwangsgetesteten Kindern oft berichtet wurde, wird von den Testdurchführenden oftmals der Nasentupfer zu weit in das Innere der Nase eingeführt.	SUBJ
+5033da768b41ce89428369e987ce8b98610683d9	Als Corona dann Japan und Thailand erreichte, wussten wir, dass es auch in Europa ankommen würde.	OBJ
+8be5c29e502b3d4c9ebda87cbd02d7cbe617dbb0	Wie alle Tröpfcheninfektionen verbreite sich das Virus auch über Hände und Oberflächen, die häufig angegriffen werden.	OBJ
+3cb30da72ad8bf020cd54070a1195d1e62250f94	Die Beweislage für diese Theorie verdichtet sich jedenfalls zunehmend.	SUBJ
+04de3685d9b97d15464d346348f3e578c8829e8a	Aus diesem Grund wirkten die Behandlungen mit N-Acetyl-Cystein (NAC), einer Vorstufe von Glutathion, oder Glutathion, das den Patienten direkt verabreicht wurde.	OBJ
+20f3141510de0f92010d6f2c023f93f0119d5f89	Insgesamt wurden in Großbritannien 107 „tödliche Ereignisse“ als Folge des Impfstoffs von Pfizer gemeldet.	OBJ
+4f0554e655e8447b58ea97a7ac057848a1a7e989	Allerdings gibt es gar kein gemeinsames Krisenzentrum für Berlin und Brandenburg.	OBJ
+ead52813d69729698d0ae4259280ad9bcc4a42b5	"Dieses Schlüsselwort wird verwendet, wenn bei der Entdeckung einer leblosen Person eindeutige Hinweise darauf vorliegen, dass die Person längere Zeit dort gelegen hat oder dass es sichere Anzeichen für den Tod gibt."""	OBJ
+21ccf471608c1b63e4527386a3081ef8d6987e78	Außerdem geben die Autoren zu bedenken: „Es besteht ein nicht unerhebliches Risiko, dass das Impfvirus zu einer Wildtyp-Virulenz zurückkehrt, wie es manchmal beim oralen Polio-Impfstoff der Fall war.“ Mit anderen Worten: Mutationen des zuvor gentechnisch veränderten Impfstoffs könnten nicht ausgeschlossen werden.	OBJ
+afbdbe401265e218c430fb035d0b7d2dcc153c10	Eine Studie mit Tausenden von Personen während einer Pilgerreise nach Mekka ergab mehr Atemwegsinfektionen in der Gruppe, die ständig Masken trug.	OBJ
+11493134dc275f506eca7d0987be7a945245a3ca	Polen, Ungarn, die Tschechische Republik und die Slowakei sollten sich als Gegenleistung für weiterhin üppige Strukturhilfen bei der Migration bewegen.	SUBJ
+edc10cfa56009a138351ffee12c1ac701b2a9cc8	Folglich haben diese keine Resistenz gegen den Schädling entwickelt.	OBJ
+293aeabbba99022462b593cf10d2effa6cbeb2b6	Diese Forscher fanden später heraus, dass dies auch für Moderna gilt.	OBJ
+82126ec8801787f3ae7c829af03094bfb09596ab	Aber an den Tests nahmen keine Personen von über 80 Jahren und solche mit Vorerkrankungen teil.	OBJ
+d1dadc5cd91ce2bc2e23d4ccbbe7d06d631de717	"Knaus sagte der Zeitung ""Welt"", die EU müsse ein zweites Abkommen mit der Türkei schließen und der Regierung in Ankara sechs Milliarden Euro zahlen, um eine neue Flüchtlingskrise abzuwenden."	OBJ
+d563ad3a91c83286fbc5e6c04dac2182bbcfc58b	Der Personaleinsatz auf diesen Stationen wird so koordiniert, dass jederzeit die höchstmögliche Expertise zur Verfügung steht.	OBJ
+823f769a4eed86ce436b181530d7f5b6aff50821	Deutschlands Stabilität und Berechenbarkeit stünden auf dem Spiel“ („Focus online“).	OBJ
+9d475fce39cf1e02929ce9c0ba5229ee6b88e01f	Eine Meta-Analyse mehrerer Studien zur Zuverlässigkeit von Schnelltests einige Zeit vor der Ausbreitung von Delta, bei der Erdmann Co-Autor war, hatte allerdings ergeben: Durchschnittlich fünf bis zehn Prozent aller Infektionen mit hohen Viruslasten wurden davon nicht erkannt.	OBJ
+3bf609a17c5d098edfd5b9791ee04b2482809006	Der erste bestätigte Fall einer Reinfektion wurde Ende August in Hongkong gemeldet.	OBJ
+bad337c6d3fc8fd012bc87217c8df64c185ec44c	Da es noch nie einen lizenzierten mRNA-Impfstoff gegeben hat, wissen wir wirklich nicht, wie solche Schäden aussehen werden.	SUBJ
+2217ce7abdee3e7e11db1f71f7824c2644edd054	Vor allem Wasserdampf und Kohlendioxid absorbieren einen Teil der von der Erdoberfläche abgegebenen Wärmestrahlung und verringern deshalb den Anteil der in den Weltraum abgegebenen Wärmestrahlung.	OBJ
+d99322fe4540bd9f2b50e35fef1fc6c999fa9dcd	Jeder mag und muss aber für sich selbst entscheiden, was er aus diesen Informationen macht.	SUBJ
+d35a66e5f3cb41370d008688f3741f0317225a5c	In dem Check zu diesem Thema kommt die österreichische Presseagentur zu dem Ergebnis, dass Impfdurchbrüche schon bei mehreren Krankheiten vorgekommen sind.	OBJ
+1f309b42e236492f94e2539620740f49696ac474	Denn bisher sind lediglich 48 Prozent der lettischen Bevölkerung gegen das Coronavirus geimpft.	SUBJ
+5d6476636eecfb510ea956f8d84f39d94d374b0f	Das scheint der Bundesregierung nicht klar zu sein, da sie den Rentnerinnen nur sechs vergünstigte Masken für zwei volle Monate zur Verfügung stellt.	SUBJ
+ab1bed7070ff14fa92048887036922a4b494b796	Das ist eine Intersektionalität, an der MS-Medien-Vertreter und andere Gutmenschen zu knabbern haben: ein guter Asylbewerber, Opfer unzähliger Nervenleiden, der homophob ist?	SUBJ
+e97a8451b9929b46bb7f20682b962b5d27fcf3cd	Doch die pseudowissenschaftlichen Desinformationskampagnen gegen diese Mittel sind bezeichnend für den Zustand unserer Medizin.	SUBJ
+cf4000554a3a371de0dd364613aa872630564b0e	Viele Ungeimpfte haben inzwischen Antikörper und wissen es nicht einmal.	OBJ
+5a58fd1cbf6e35cdce7dff38bf8a3dad20afbb0d	mRNA-Impfungen schützen nicht vor Coronaviren, sondern machen sie zu einer tödlichen Gefahr!	SUBJ
+693341bf72ab5ce3813b3cb238e5eb44ddc82f11	Und dann bekommen hauptsächlich die Älteren auch noch einen Brief von der Bundesregierung mit zwei Gutscheinen, mit denen sie sich jeweils sechs Masken gegen Zuzahlung von zwei Euro in der Apotheke abholen können.	SUBJ
+c949c7ca31c32b16ea27fe1b3593167bee0fd9a3	Auch sollte regelmäßig gelüftet werden.	OBJ
+e086b0109f3ff7896f6091fce25f95006a2bb6c6	Von Dr. med. Gunter Frank Gestern Abend teilte mir der leitende Arzt einer großen Klinik Folgendes mit: Es gibt, gültig seit 1. November, für jeden positiv Corona-getesteten und an das Gesundheitsamt gemeldeten Patienten im Krankenhaus zusätzlich zur normalen Abrechnung 7.800 Euro, wenn er mindestens 2 Nächte im Krankenhaus verbleibt, steigerungsfähig bei längerem Aufenthalt bis knapp 10.000 Euro.	OBJ
+a6428e263f7c3d71de1677d833c3ca864041f68e	Auch die mechanische Beanspruchung beim Auf- und Absetzen führt zu einem erhöhten Faserabrieb.	OBJ
+4b635fff16adc08a2eb880d62dbf45ff6f882e73	Seit Monaten müssen Menschen in Deutschland Masken tragen, allen voran Pflegepersonen.	OBJ
+f4886e3a85ea7bf1486d8f4afcf60c042b2968ae	"Die Chinesen kauften ""auf Teufel komm raus""."	SUBJ
+bfbc5db4eb0381ac0cef339ebf9437ae02ce120a	Grenzen kann man schützen, auch darüber ist man sich weitgehend einig.	OBJ
+d05599c36f16bcbdbf281b40750f3dcd38364f87	Hier kommt es zu mehr Krankenhauseinweisungen bei Geimpften gegenüber Ungeimpften.	OBJ
+7875dcef3576e01f922d6b8e42bc622924b4c038	Der Umstieg sollte das Risiko eines weiteren Ausbreitens von Impfpolio-Erregern vermeiden.	OBJ
+1e7ce93d2482ce8ae140c9f1ae055146c4207037	Aus den USA eingeführter Mais sei häufig von Braunfäule befallen, außerdem könne der Mais für transgene Pflanzen verwendet werden, so die Behörde.	OBJ
+fd4db0e0e2b79b85e0a6826c9dd03ca23a790963	Die Indizes werden dann zu einer einzigen Zahl zwischen 0 und 100 zusammengefasst.	OBJ
+f43cf82222d51ca053a4e2ed10036ae2ec2c329f	Warum nicht mal wieder die Gitarre auspacken, die Briefmarkenalben suchen oder die Nähmaschine aufbauen und dem Kind das Hobby nahebringen?	SUBJ
+9d68f88f36721d1f7ab572d23204144b74bf082a	Ein Titel einer Myokarditis Quellenangabe lautet „Incidence of three presentations of acute myocarditis in young men in military service“ und wir vermuten es handelt sich um die Quelle, die zu Zeile 1 gehört.	SUBJ
+c448a283681e26dca3f2cba26f3f02ad835760d3	Die Mainstream-Medien sind bereits damit beschäftigt, die Sache herunterzuspielen, während die Kreuzfahrtgesellschaft sich selbst auf die Schulter klopft, weil sie so schnell reagiert hat.	SUBJ
+45be168f82891bd9cbc7d3c52f6aa3c52a583c6f	Schließlich müsse die Zunahme des Atemwiderstands und die damit verbundene Zunahme der Arbeit der Atemmuskulatur (pressure drop) bei Verwendung von FFP2-Masken berücksichtigt werden.	OBJ
+29b1fdaf21e3f54418bba94aae7742a66735f088	Dennoch erklärt Renz, dass die Zahlen auf einen Anstieg der hospitalisierten Patienten hinweisen würden.	OBJ
+fcf547625f2b094bc4992a87bd001790897fe2f9	In der Studie werden auch Behauptungen von „Corona-Experten“ wie dem US-amerikanischem Immunologen Dr. Anthony Fauci und anderen zurückgewiesen, wonach die Amerikaner den von der CDC und anderen Seuchenbekämpfungsbehörden verbreiteten Leitlinien nicht folgen würden.	OBJ
+7a3331459c423eac05c6290ac30d453dd0af745f	Scholz erkennt, dass er als Kanzler in einer Koalition mit der Linken „keinen Staat machen kann.	SUBJ
+c858d2307bbc3dcc4b8d5b5195feac9a4b82dfec	Während in Deutschland die RKI-Datenlage völlig intransparent ist (und bewusst gehalten wird), bieten die US-Daten der CDCs (Centers for Desease Control and Prevention) einen besseren Überblick.	SUBJ
+01a57aac912df7bb17a8c92e31e5c235a43439e4	Kein großes Medium hat bisher seine Enthüllungen aufgegriffen – obwohl das RKI sie ja sogar auf seiner Internet-Seite einräumt und die Daten nachlesbar sind – was aber offenbar kein „Qualitätsmedium“ zum Anlass nahm, sie zu thematisieren.	SUBJ
+98a0c952eb5e3475aed2aab23844027c20b4acfe	Im Laufe der nächsten 22 Jahre verkündet der Prophet Mohammad zunächst in Mekka und dann in Medina die Lehre von dem einen unsichtbaren Gott.	OBJ
+c5a67e7882d189941bab8e6eb883b733acf5c3a4	Demnach sterben rund 5,16 Millionen Menschen mit oder an dem Virus, seit dieses im Dezember 2019 erstmals im chinesischen Wuhan nachgewiesen wurde.	OBJ
+a3be27880325701e3eb62bdb2d6e37a22143a35e	Der Fünfjahresdurchschnitt der abgerechneten Codes von Fehlgeburten pro Jahr läge bei 1.499.	OBJ
+2d46e55b6c8a0e62ffcaccadfcfdd7f4e4f97ce7	Und: je mehr Menschen man testet, desto mehr positive Fälle werden gemeldet – auch wenn es sich – um mit den Worten Drostens zu sprechen – um völlig kerngesunde Menschen handelt.	SUBJ
+14cb85718e8be8365c5cb6c9a33a83e9b1889fe7	Beweise, dass Polizisten, Lehrer, Schulleiter, Arbeitgeber usw. konkret angeordnet haben, dass Ihr eine Maske tragen sollt.	SUBJ
+d836252da704e3f1cdffe6fb5e97e2ba4e5d76ec	Es ist grundsätzlich ein trauriges Thema: die Kinderarbeit.	SUBJ
+0ce7d0c675ffd29894603da71cc071455481ca59	Und plötzlich, schwupp, wird es zur Pandemie.	SUBJ
+6284188ca4c58ac1e41d752236fc3410b4a5cd26	Das kann jeder Depp mit IQ 90 sehen, wenn er sich Zahlen und Graphiken dazu anschaut und mit der Zeitachse, Zeitskala(Impfung) vergleicht.	SUBJ
+bfb7cc78bbdd2ed07c3967a5b6571ac2d896d96d	Ich habe eine Reihe einzigartiger Fähigkeiten.	SUBJ
+64e4f871fc6dd185b54d3748165c92a0b92a690d	Michael Braungart, wissenschaftlicher Leiter des Hamburger Umweltinstituts äußert sich nun zum Thema Masken und spricht von einem Chemiecocktail vor Mund und Nase.	OBJ
+c4cff14ccb1bb645d914da051cae323d11ee8781	Die Stadt mit mehr als 300.000 Einwohnern liegt etwa eine Autostunde westlich von London.	OBJ
+ac71896cad6b1481d57d944ed929d943acdb8745	Die Zensoren dürften nicht kapiert haben, wer Luigi Warren ist.	SUBJ
+18efdce284c36d1e2272edc6d0f185bfa04ce4c7	Gut dazu passt, dass im Deutschen Infektionsschutzgesetz Paragraph 21 Schutzimpfungen zulässig sind, bei denen Mikroorganismen von Geimpften auf die Nichtgeimpften übertragen werden.	SUBJ
+729a5dab15d87fc57585068fdd7df8367482ffbf	Ein zusätzlicher Mechanismus, der den Eintritt von Viruszellen und die nachfolgende Schädigung erleichtert, könnte die so genannte antikörperabhängige Verstärkung (ADE) sein.	SUBJ
+d0be4c1878fb105cc823e65843bfc3c60ba773b4	Eine erste Liste konkreter Projekte für Flüchtlinge, insbesondere Projekte in den Bereichen Gesundheit, Bildung, Infrastruktur, Lebensmittelversorgung und sonstige Lebenshaltungskosten, die rasch aus der Fazilität finanziert werden können, werden innerhalb einer Woche gemeinsam bestimmt.	OBJ
+5b08f1a782ca64cf1ee529ef70b893fcbdf2ad9b	Eine Ampel-Koalition aus SPD, „Grünen“ und FDP wäre zahlenmäßig ebenso möglich wie eine rot-„grün“-stasirote Linkskoalition (R2G) oder ein sogenanntes Jamaika-Bündnis aus Union, „Grünen“ und FDP.	OBJ
+2d124520804f824571e0c95af8cbea565c2a3667	Der ICD-Code ist ein weltweit anerkanntes System, mit dem medizinische Diagnosen einheitlich benannt werden.	OBJ
+76cf38b053a47c02963eeb414f4de70ba84566b1	Auch wenn das Vlies der meisten FFP2-Masken wie Papier erscheint, es handelt sich um einen thermoplastischen Kunststoff: Polypropylen.	OBJ
+eed99ad55fd21b1bd9a71090ebcd6e7d23c6f6ee	Eigentlich müsste den Verantwortlichen daher klar sein, dass ein fortgesetzter exponentieller Ausbau der Windenergie, wie er aufgrund des europäischen „Green Deal“ geplant ist, ein Abschalten des natürlichen Windhaushalts bedeutet, das sehr bald in eine Katastrophe münden wird – wenn uns nicht die Katastrophe bereits eingeholt hat!	SUBJ
+52a43bba670e01acc6e54d2fe61a0f17e17af8ba	Inzwischen ist das Tragen von FFP2- oder medizinischen OP-Masken in Geschäften und öffentlichen Verkehrsmitteln zur Pflicht geworden.	OBJ
+6e184f73c22c10b3d7db5f2294d231de39478586	Ich habe eine Vermutung, die aber noch nicht ausreichend bestätigt ist, um sie zu äußern.	SUBJ
+59a44d018253b45e21de2e5262ad7fe81b38fb2d	Noch beeindruckender ist die Tatsache, dass Capsaicin nicht nur Krebszellen abtöten kann, sondern die gesunden und normalen Zellen, die den Tumor umgeben, unversehrt lässt.	SUBJ
+4cf259877bff58597c83b2b124108de88ad2a45e	Stew: (12:43): Also, wenn du das weißt, wenn du diese Bestätigung bringst, warum sollte die, ich meine, das ist eine Meinung.	OBJ
+afc4744a7faba7a025edf813deb0678ddd0e6425	Sie sind selbst mittlerweile ganz verzweifelt, weil sie Stillschweigen bewahren müssten und diese Belastung riesengroß ist.	SUBJ
+6987b574d515372143c4c8c58515949a577c79fd	Ihr Ziel – durch Zwangsimpfungen die Zahl der Toten zu maximieren – wird in seiner ganzen Skrupellosigkeit erkennbar.	SUBJ
+400805981f0168a6141851eb3088d49614151950	Das lege ich auch gerne alles offen.	OBJ
+8d1a340fd9f8d81affc6b2052c62ff0961793236	Es ist schwer, öffentlich zugängliche geschützte Inhaltsstoffe zu überprüfen.	SUBJ
+683d0e3ef543f6e63e3dd0d79723b2c6e12f62c7	Bei den blau eingefärbten OP-Masken wird zusätzlich meistens noch Cobalt als Farbstoff verwendet.	OBJ
+e300f1ca3ee06c32400370eba3ac31dd224809f7	Allerdings ist darunter sehr wahrscheinlich auch ein großer Prozentsatz von solchen Patienten, die nicht an, sondern nur mit Corona verstorben sind.	SUBJ
+9223a01e39dde83b147fc76f6a43eb4da7f1d144	Leider ist ihre Identität für uns aufgrund der von ihr preisgegebenen Angaben nicht vollends nachprüfbar.	SUBJ
+0f682b58ae1a2d6d95830768ef2ac9cd808ff968	Dies gilt aber nicht für die Flanken- oder Randbereiche der 15 µm – Bande.	OBJ
+3d95a6855d90fdeb20093c2d61be6eb9ded12655	Dies ist ganz offensichtlich falsch, wie es Beda Stadler sehr eindrücklich erklärt hat.	SUBJ
+1fc27ace098f18b074f73b4126aa0957009db816	Seltsamerweise verzichtet das PEI hier auf eine detaillierte Altersaufschlüsselung wie bei AstraZeneca.	SUBJ
+f9930f3c5c6c3ae53664e434203e3204ad0d2789	Die Videopräsentation der Ergebnisse ist hier zu sehen.	OBJ
+26b142a8bb37c2631c380eb6a2e74381b534eec9	Vielleicht möchten ja auch Jens Spahn und Lothar Wieler wissen, was sie da im Gesicht haben.	SUBJ
+b6d9510d488f606236385d464d44304a85c2056c	99 % (bezogen auf das verwendete Testaerosol)) -Masken bestehen FFP-Masken immer aus mehrlagigen Kunststoffen mit bestimmten Eigenschaften.	OBJ
+df5ca1e19e6e0027a7962ffa2fc093e59d61d623	Drei Tage nach Aufhebung der Quarantäne entwickelte sie Symptome der Sinusvenenthrombose.	OBJ
+c435d2505aff1c8cfd8c3dd24c108634fc4023e4	Etwa zwei Wochen nach der ersten Impfung waren fünf weitere Bewohner verstorben.	OBJ
+639ae284615b633d8de010d50edb697b0f62430d	Die Scharia ist göttlichen Ursprungs und versteckt sich in der Offenbarung, ohne eine juristisch präzise Artikulation erfahren zu haben.	SUBJ
+7ab019aee7673449c208dffa0d24004745a2285b	Das sieht bei Mers ganz anders aus: Hier infizieren sich Menschen immer wieder direkt bei Tieren.	OBJ
+cb633906b1f3b3fcd8830fc3d467aceb45a21c9a	Alles sei noch da, die Computer, Fingerabdruckscanner, Toiletten, Zäune, Zelte.	OBJ
+e73946c9bf7df76c8dd31078b81ef1138ea58141	Während seines Wehrdiensts bei der IDF (1990–93) setzte er bereits 1992 seine Studien fort und war Coautor bei ersten Veröffentlichungen zur Astrophysik.	OBJ
+11b0b535d7ee6cf2f2ae25875748fe7848a137ec	Laut des Gesundheitsministeriums geschehe dies, um die Zahlen international vergleichbar zu halten.	OBJ
+c42fd1668d00c546c922ae59595f79e783030c96	US-Präsident Trump hat wiederholt behauptet - ohne Beweise vorzulegen -, dass allgemeine Briefwahl zu großflächigem Betrug führe.	OBJ
+424f1e4cd59165eaa4885d02143ddad8d9f271b0	Wie bei Grippewellen auch gibt es bei Covid-19 natürliche Verläufe, die sich dadurch auszeichnen, dass sich zu Beginn die Infektion schnell ausbreitet, um dann nach einer “Pause” eine Folgewelle zu generieren.	OBJ
+cc3545c2c4fb309fdefe6987bc2d4dfd9174ab69	Wir und Herr Günter Adams freuen uns über einen sachlichen Diskurs.	SUBJ
+e695b049a8f52c5766166e04a030326e0fa4f793	Eher Pandemie der Unwissenheit – oder der Lügen?	SUBJ
+e4caa2959413691c43ea384688e6e5b151587909	Der kleine Bundesstaat Tamil Nadu mit 10 Millionen Einwohnern, setzte dagegen auf Remdesivir und hatte wesentlich schlechtere Ergebnisse.	OBJ
+1c90ce53d622c131e0a086d1d33ff55c29381ce4	"Demnach gingen bis Ende August 1.228 Verdachtsmeldungen für geimpfte 12- bis 17-Jährige ein, bei denen ""über mindestens eine Impfreaktion berichtet worden ist""."	OBJ
+fc338124d75b0ebaec5f36f012f2f155b6ac05b4	Andere entwickeln möglicherweise erst Tage nach der tatsächlichen Infektion Symptome.	OBJ
+02c07bfd90063952be60f8863b9e89ee396eb613	Zwei Frauen hatten eine Fehlgeburt, nachdem sie die AstraZeneca-Spritze erhalten hatten.	OBJ
+ea1b21e0b2e496ab3a00c51c4ac2399258a1f95b	Sind es die selben Stäbchen, die unseren Kindern in die Nase gesteckt werden?	OBJ
+5b70d337520a85ea893e972763f3b9e08abd0032	Sie stelle dieses Können sowohl für Ärzte wie auch für Pharmaunternehmen und Verbraucher zur Verfügung.	OBJ
+1f33580a9b7de38c3feaa391473e2a12c4033df5	712 Schwangerschaften wären weitgehend normal verlaufen, inklusive Zwillingen kamen 724 Kinder zur Welt.	OBJ
+6486917763bf236ff5908add69f8a57bd766d9ea	Steigende Wassertemperaturen nagen an den großen Eisschilden mit Kontakt zum Meer.	OBJ
+20431c5632f3f8af9a71b41e743d2ef530caccca	Als Argument für die Existenz wird seitens der Zwangsmaßnahmenbefürworter immer das “Krankheitsbild von Covid-19” heran gezogen und dass weder Regierungen, Medien noch Wissenschaft die Menschen belügen würde.	SUBJ
+576557b12239367e2fc4d05592f920e674609cc4	Und dann zusätzlich noch eine weitere Komponente, und zwar entweder die Haushaltsquarantäne, das heißt, dass auch hier wieder der Fall isoliert wird und der ganze Haushalt dazu.	OBJ
+8a071d1e2c931a3f1b8ac367c6266b8f5188b8d5	Die britische Regierung hat einen schockierenden Bericht über die Nebenwirkungen der Corona-Impfstoffe von Pfizer und AstraZeneca veröffentlicht.	SUBJ
+edb77a1c073e6060897d38657c7116eff58703c0	Dabei wären diese ganz entscheidend in diesen turbulenten Zeiten.	SUBJ
+29f01bcee34568d8ba212b889460b7f51623ca9c	Mit Ischgl-Studie, Heinsberg-Studie, Schulstudie Sachsen, dem Whistleblower-Papier aus dem Innenministerium und der großen Impfdebatte Kennedy contra Dershowitz.	OBJ
+98f79cbae8d629efd6834c709aab140141d8e184	»Impfstoffe gegen SARS, MERS und RSV wurden nie zugelassen, und die bei der Entwicklung und Erprobung dieser Impfstoffe gewonnenen Daten deuten auf eine ernsthafte Besorgnis hin: Dass Impfstoffe, die empirisch mit dem traditionellen Ansatz (bestehend aus dem unmodifizierten oder minimal modifizierten Coronavirus-Virus-Spike, der neutralisierende Antikörper hervorruft) entwickelt wurden, unabhängig davon, ob sie aus Protein, viralem Vektor, DNA oder RNA bestehen und unabhängig von der Verabreichungsmethode, die COVID-19-Krankheit durch antikörperabhängige Verstärkung (ADE) verschlimmern können«, heißt es in dem Papier.	OBJ
+d8bcdaa340100fea11954cde41c24376cbe193a1	Auch Esken wird mit Mails und Anrufen traktiert.	SUBJ
+3d9145b6f37e42a416d80caccab1ad6908979e6a	Zwei Männer kommen in die Intensivstation.	OBJ
+a628b5c323512919af61a0a2494d3189e79bc2b8	An Entscheidungen, welche Themen wie umgesetzt werden, bin ich in meiner aktuellen Position nicht beteiligt.	OBJ
+65a2a16377427d4e42dcb7970266f81d108951fa	Wir erklären den Mechanismus, durch den Immunzellen große Mengen von Exosomen in den Blutkreislauf freisetzen, die Spike-Proteine zusammen mit kritischen microRNAs enthalten, die eine Signalreaktion in Empfängerzellen an entfernten Stellen auslösen.	OBJ
+8b7f2d4ae6e7d101e505d92c776f9269dd25ecbe	Das Forscherteam konstatiert, dass dies den natürlichen Gegebenheiten entspricht und vergleichbare Prozentzahlen auch bei Studien vor der Covid-19 Pandemie beobachtet wurden.	OBJ
+0e0ec37d32200613d078ad95c9843315b540f9f7	Wir haben unser Projekt der EU vorgestellt, hier dem eHealth Network der EU, das sich damit beschäftigt.	OBJ
+a71a23725d68ff662aece4fbfb601f15ef977329	Der absolute Superstar unter den ausländischen Ländern, die sich mit COVID befassen, ist jedoch mit Abstand Japan.	SUBJ
+caf3b022553c18318fd2daa82a112bc458a8b21f	Der Kanzler war erst wenige Tage zuvor trotz drei­fa­cher Impfung positiv auf CoV gestestet worden.	OBJ
+125ead47e4b24dcb3d2ea45d4d0c1433b770d0b5	Ein Foto sorgt auf Social Media für große Aufregung!	SUBJ
+e962aa52b2e6f2390cde44e5cea0125a368d7037	Die NBER-Autoren sehen voraus, dass dieser Trend über die nächsten 20 Jahre anhalten wird.	OBJ
+72fb390167b89bc0f80a9ec8330e74ccc977b8ea	Für jedes Jahr sind die genauen Sterblichkeitsraten in Prozent zur jeweiligen Bevölkerungsgröße angegeben.	OBJ
+01a48d75f941547a96fc90f1b5cb11e3cd34dcdc	Und jetzt einen Vergleich anzustellen und zu sagen, dieses neue Coronavirus, das ist ja bisher gar nicht aufgetreten gegenüber den Fällen in der Bevölkerung, die sowieso sterben, das ist natürlich richtig.	SUBJ
+a67eda28d427314f50b49dbd50a6acd2f6dd6898	Da die Studien mit bestimmten Pilzzubereitungen durchgeführt wurden, lässt sich eine Wirkaussage für einzelne Nahrungsergänzungsmittel daraus nicht ableiten.	OBJ
+70f073d1843a4eaa8998410a962a2d0fa46145a7	"Diese Frau war ohnehin hochgradig Herzinfarkt-gefährdet."""	OBJ
+8addae38d08eb291e9e9e7193aaf67cc00d7dda1	Kalenderwoche (21. bis 27. Dezember 2020) in Deutschland mindestens 24 470 Menschen gestorben.	OBJ
+4466dbff647f2057994f4620b7a9c16c36885deb	Er wird nun im Tableau durch den «Lucky Loser» Salvatore Caruso (ATP 150) ersetzt werden.	OBJ
+807071cf02c535c0e2ad7e597e9e877514487105	Sie glauben, dass Sie dank eines experimentellen „Impfstoffs“ Ihr Leben zurückbekommen und Ihre Familie und Freunde wiedersehen können.	SUBJ
+e22b040d403a392ce432a14c5575e2450de5d3a3	Wie beurteilen Sie diese Rechnung?	OBJ
+f6d3650ba79896ae8c89a976b13f797e16686f4c	Ich müsste die jetzt aufmachen auf meinem Computer, um noch mal auf die Zahlen zurückzugehen.	OBJ
+07b1f550b376b57caba7e670997acde1b595b8b4	Die Senatsverwaltung erklärte, dass es sich im Zusammenhang mit dem Gesetz um ein „vermehrungsfähiges Agens (Virus, Bakterium, Pilz, Parasit) oder ein sonstiges biologisches transmissibles Agens, das bei Menschen eine Infektion oder übertragbare Krankheit verursachen kann“ handeln müsse, damit von einem „Krankheitserreger“ gesprochen werden könne.	OBJ
+b6c74bccc52bc95acd8769e972a88ea43ac576e8	In der Mikrowelle werden keine gleichmäßigen Temperaturen erreicht, sodass die Temperatur an einigen Stellen der Maske zu niedrig und damit unwirksam und an anderen Stellen zu hoch sein kann, was die Maske wiederum beschädigen kann.	OBJ
+1b58697e0ebe13b0d824b5ea9d5f1ad4e666bb8e	Ein aktuelles Beispiel ist das sachliche und wissenschaftlich transparente Video des Informatikers Marcel Barz.	SUBJ
+d37fd80d48ce2ebc14a882eb802d37ca20cf9eef	"Also ich bin eigentlich ein ""Genesener""."	SUBJ
+65eda35eaef8a927b63b8d219225c4b2572b023f	Beide Systeme nutzen dazu bestimmte Botenstoffe.	OBJ
+eb4d9913c5d77848a1125df15d1986d4c1dec701	Hochgerechnet werden daraus 32.000 Fälle, also mehr als es Einwohner gibt.	OBJ
+0269a6aaffca1ab4c8ab2f122bed2a4357169f56	Zusätzlich als Kindle-Version verfügbar.	OBJ
+7e966340650f57180f69c92712ef85d8eab1b6df	(7) Ivermectin hat auch in Tschechien und der Slowakei eine vorläufige Zulassung für die Behandlung von Covid-19-Patienten.	OBJ
+c4b5df9c1aa1a509b0789c7598eae1438d5e774e	Ich danke Correctiv für den Hinweis.	SUBJ
+a6bf7a880a72e4632ff55d362024730eba312e73	Wenn Sie teilnehmen, sammeln Sie automatisch Punkte.	OBJ
+c146d3d70aa9f5787c7cfc346e9ab3ffc878b791	Es wäre also sehr nett von Ihnen, wenn Sie mir die Fragen beantworten könnten und mir zeigen könnten, warum so viele widersprüchliche Informationen kursieren und Sie mir meine Denkfehler erläutern könnten.	SUBJ
+17949af3d925acb3964f30bb271601680d827df0	Eigentlich sollte sie negativ sein.	SUBJ
+7ada1153a6afd9bd37b2a6fdd4e116c857c6f567	Überdies geht auch nach 1998 bis etwa 2003 der Temperaturtrend noch steil nach oben.	OBJ
+b37433e364199f638872ec6b1d49d36364434746	6 Eine ungleich starke Mehrheit der Kinderbelästiger ist heterosexuell.	OBJ
+e9cdc78b25e85c789df4971e40a0a2bac2d31840	Das könnte damit zusammenhängen, dass es mindestens zeitweise für nicht belegte Betten sehr viel Geld gab.	SUBJ
+2f8d319b337fdfce71472e3820f166d30d860ffb	Doch wie ist es bezüglich der positiven Testergebnisse aufgrund anderer, für Menschen harmloserer Coronaviren?	OBJ
+fc869209c3859b7a3cc9053ccabe3077e526ebab	Die Krebszellen machen sich zu unzerstörbaren Zellen, da sie dem Mechanismus der Apoptose geschickt ausweichen können.	SUBJ
+1e3752af00b15383590e6d2cf769e9a54b648f2e	„Diese Effekte bleiben bei einer großen Bevölkerung, die über einen ganzen Kontinent verteilt ist, wahrscheinlich unbemerkt“, glaubt Seligmann.	OBJ
+427d186d4e30f2e7f65934b115acb1101a9ec7fd	Tatsächlich schafft man damit fiktive Fälle.	OBJ
+83981e45bb1ded2a2047f65f3f271b4703985665	Besonders eng wird es in den rot eingefärbten Kreisen.	SUBJ
+d6d50c0a1527179ae6e926ae0a8c344263821bc9	Infolgedessen waren sie nicht vor einer Reinfektion geschützt, und als sie MERS ein zweites Mal ausgesetzt wurden, erkrankten sie wieder, und zwar noch schwerer.	OBJ
+604f70f69350d9b3a6ce1bd34c923be7c3c62c2c	Denn die soll angeblich den Vorschlag gemacht haben, national eingerichtete Spezialfonds aufzustellen.	SUBJ
+56e3350710662734106e89eafd4ccfdd399a7988	Sie fordern ihn auf, sein Versprechen zu halten: kein Linksrutsch!	OBJ
+4501fd5443b773052bccaa0107d2523e58f297c2	Das Imperial College in London hat eine neue Prognose veröffentlich, wie es mit Infektionszahlen und Todesfällen weitergeht.	OBJ
+3fe2875892ead0bb6864adde8ab053b50e810fe9	Dr. Fred Wagshul empfahl in diesem Fall die Anwendung von Ivermectin und verschrieb dem Patienten das Medikament.	OBJ
+c8c9c5f2b2e94b89c60dcda6a614d14970b44542	Es handelt sich daher um ein riesiges Gen-Experiment an den Menschen, denen dies in der Regel vorher nicht mitgeteilt wird.	SUBJ
+1e5902ece8c7fa7e073fdfe19634821a6a85eea7	Nach Erhalt der europäischen „CE“-Kennzeichnung wird der Test in Europa und anderen Ländern, die diese Zertifizierung anerkennen, erhältlich sein.	OBJ
+8b2ac2e3fe28544d3104ca19aa04d247246ffd8c	Um diese Viren in einer Zelle zu produzieren, muss die Wellenlänge der externen Wellen kürzer als die Grösse der Zelle sein.	OBJ
+34ab36ea2301d6e5f70a4efa5b9c34449af8a828	Doch damit dieser Topf öffentlich dieses Etikett erhält, langt es nicht, dass sich darin nur pensionierte (emeritierte) Wissenschaftler, selbstständige, praktische Ärzte und Wissenschaftler, die in der Privatwirtschaft tätig sind, tummeln.	SUBJ
+55e8e95105e2b06f6f4ac65fe1400b1659e6bf3d	In interventionellen und auch in nicht interventionellen Studien muss ein Studienprotokoll erstellt werden ( 6 13 ).	OBJ
+3247fec57d378ee8590516ca10a8024ef4f38ca5	Ebenso unglaublich: Bei den ab 60-Jährigen sind in den Kalenderwochen 35-38 von den mit Symptomen Erkrankten mit bekanntem Impfstatus 49 Prozent geimpft, also fast die Hälfte.	SUBJ
+143b6739e66f5df2a442a9dffc48984cb531bd84	Natürlich gibt es noch schwere Infektionen bis hin zu lethalen Folgen, aber das geschieht bei der Grippe auch.	OBJ
+f91868632a442c34239bb2d1ade20bb17cc6f385	Oder könnte es vielleicht sein, dass an Grippe erkrankte Menschen der Einfachheit halber gleich den Covid-Fällen zugeschlagen wurden?	SUBJ
+f92255bbf2dc688c37168ca170d0468ca8b52ef4	Sowohl Christian Drosten im NDR wie auch die Virologin Monika Redelberger-Fritz auf derstandard.at weisen hier darauf hin, dass respiratorische Infekte über schwerere Tröpfchen übertragen werden.	OBJ
+af305a55b3ec54b5b3a052c7b14337062d5d8172	Die lassen nämlich weniger sach- und fachkompetentes Handeln aufscheinen als eher ideologisch getriebene Eile: „Das Gesetz muss noch in dieser Legislaturperiode beschlossen werden.	SUBJ
+ee9a93253e0f348adbd690b05d0e4899f8d1247b	Foto: Bundesregierung/Kugler 13 / 13 Die Webasto Gruppe beschäftigt mehr als 13.000 Mitarbeiter weltweit.	OBJ
+6bb3ed74f9890638f2f7f81b6510b4ccfb639cde	Es geht mir um eine Größenordnung.	SUBJ
+583da4094cbaf3a50ce97ef01e41f951a664cf06	Demnach kann man wohl mit Fug und Recht behaupten, dass die Täuschungsmanöver der Bundesregierung mehr als verantwortungslos sind.	SUBJ
+f2131b59ef16c21a784369288435c54dee1ffb95	Die frühere Meinungsforscherin Samira Tarrass fügt hinzu: “Jetzt geht’s los.	OBJ
+55d680b9ed35ce4603735ce67eb97d9b9415416c	Ausgenommen sind Geschäfte, in denen Dinge des täglichen Bedarfs verkauft werden.	OBJ
+b3285b49986b88fb9d2b7ce20468add4f9532515	Verantwortlich sieht sie die hohe Windraddichte in Deutschland, die in der unteren Atmosphäre für zunehmende Probleme beim Feuchtigkeits-Transport sorgt:Rückläufige Windgeschwindigkeiten für Deutschland bezeugen die Ergebnisse einer am 5. Oktober 2020 veröffentlichten Studie der Deutschen WindGuard im Auftrag des Bundesverbands WindEnergie e.V.	OBJ
+51b27f78c334b5d6c2e5e067bf6cdcfe3c5b70d8	Jeweils 21 Prozent sprechen sich für den Unions-Kandidaten Armin Laschet beziehungsweise den SPD-Kandidaten Olaf Scholz aus.	OBJ
+64c022f80528d7c601b27582405dbc1cfd929024	Der Impfstoff von AstraZeneca führte zu 21.032 unerwünschten Reaktionen.	OBJ
+e0fb41fd3963858ef1129f2c8d6b4e74a0d9aff7	Folgt uns gerne bei Telegram – Corona ist nicht das Problem	SUBJ
+08d000f897853fc4ef132a7e34ec590c6552102a	Es ist ein von Menschen mitgestaltetes Recht, welches durchaus fehlbar ist und einem menschlichen Eingriff nicht entzogen werden darf.	SUBJ
+a799ad7d8a8fb818e2a61b3f0ab774d3c0bb27cb	Jemand, der ein bestimmtes Ziel verfolgen will, vielleicht?	SUBJ
+534a6744fa73d4b5a75229e8d1baecac96b6309b	Die Gemeindeärzte wurden von den Bezirkshauptmannschaften in Niederösterreich darüber informiert.	OBJ
+abdcf44342a09186810e6c2a18c06877d4bc4612	Experten haben den Schutz von Masken vor einer Verbreitung von Viren von Anbeginn der Corona-Krise in Frage gestellt.	OBJ
+840e9ef3ac6dcf3c5a380d2c776c81db930a8331	Bei genauerer Betrachtung erkennt man auch umherschwirrende Insekten.	OBJ
+5ea0ee26b29e7485532bb4da0dffde9c5e293b50	Der Bericht der IPC bestätigt den Zusammenhang zwischen Impfung und erhöhter Sterblichkeit und liefert weitere entscheidende Informationen bezüglich der Altersgruppen.	OBJ
+943128e59da6d7d87a5a47ed16df9a2b23e11260	Entgegen früheren Medienberichten waren nicht alle der 13 Toten zuvor geimpft worden.	OBJ
+64db3776795f0adccc9e3e5b5a39ff561f83970c	Die Treibjagd auf die Ungeimpften nimmt immer groteskere Ausmaße an.	SUBJ
+90c9549ae8c8964853eb51857808d6d3c9a4f233	Es sah perfekt aus [aber als] die Kinder dem Wildvirus ausgesetzt wurden, wurden sie alle krank.	SUBJ
+bb348200b34764d3cf710e4c58012676b4dd866e	Aber da die meisten Menschen in China, wo die meisten Masken produziert werden, noch nie über Umwelt nachgedacht haben, verwenden sie halt alles, was funktioniert.	SUBJ
+d8a051161f2b9cf8ea00b582832028b095a64f7d	Eine Grundgesetzänderung ist in Deutschland nur nach Verabschiedung eines eigens für die Änderung geschaffenen Gesetzes möglich, dass den Wortlaut der betroffenen Passage in der Verfassung ausdrücklich ändert oder ergänzt.	OBJ
+64183ef1a60e676ff884802e42cffdbe22db65d7	Man bekommt dadurch aber schnell ein Horrorergebnis.	SUBJ
+c7fa920762ac7916441f128cfa615ea8c33079e0	Es ist aber anzunehmen, dass das enge Antikörperspektrum und die nicht-neutralisierende Wirkung der Antikörper eine Teilerklärung dafür bietet, warum die auf dem Spike-Protein beruhenden Impfstoffe nicht auf die schweren COVID-Verläufe wirken.	SUBJ
+3408ea15983e43856d103b80d5336b784a77d426	Bei einer Injektion von kleinen Stahlpartikeln in den Muskel sei allenfalls eine Reaktion an der Einstichstelle, aber kein darüber hinausgehendes erhöhtes medizinisches Risiko zu erwarten.	OBJ
+a5f787ea24de6182a72931ee66ba535e0349944b	Herr Braungart geht auf die Zusammensetzung von FFP Masken und „medizinischen Masken – OP Masken“ ein.	OBJ
+f4a647910c5385232937a827edcd71dc24bac102	"Kein Grund aber für stärkere Bedenken, sagt Kaufmann: ""Es ist halt ein bisschen unangenehm."""	OBJ
+7a45dc038a9993b09c7ecfa2fac455d0601602b2	Heute ist es möglicherweise ein gegenderter Kanarienvogel*innin.	SUBJ
+98527abc906b4244b2cf0e942225138daf7132cd	Der Beweis für die Sicherheit ist jedoch nur für einen kurzen Beobachtungszeitraum erbracht worden.	OBJ
+5d64e971921724b7a487f5c6142b209a2a4f9b3c	Schliesslich verlieren die Theragripper ihren Halt am Gewebe und werden über eine normale gastrointestinale Muskelfunktion aus dem Darm entfernt.	OBJ
+e6871674bfc619b626e57a37cd31a597c4245213	Natürlich kann niemand zu 100 % sagen, dass es der Impfstoff für den Tod dieses kleinen Mädchens verantwortlich war.	SUBJ
+8fe948371d0c47b8779e160fc839779faf191d97	Die „Kronprins Haakon“ ist ein norwegisches Forschungsschiff voller Forscher, die den Klimawandel vor Ort, in der Arktis, beobachten, messen, kontrollieren wollen.	OBJ
+9c424c331af05e1e70c944b8494808d0a4c97bf6	Zehntausende von Menschen mit Grunderkrankungen starben, nachdem sie positiv auf Corona getestet wurden.	OBJ
+3527a4d769e0933dbfc2d7cd85cab527e4e885a0	In manchen waren auch große Mengen Formaldehyd oder Anilin und dann zusätzlich künstliche Duftstoffe, die den unangenehmen Chemiegeruch überlagern sollen.	SUBJ
+e07a5bb95b3163cd1f60a5aaa294a9ddacc4f10f	Das geht laut Servus-TV über die Berechnung der sogenannten “Sieben-Tage-Inzidenz”, eines Wertes, der die positiven Tests ins Verhältnis zur Bevölkerungszahl einer Ortschaft stellt.	OBJ
+a13c6b7cb20bc5774005581856df49a3e7487bc2	In der ersten Zeile ist die Referenz-Inzidenz 13,9 und dagegen in der zweiten 4,4.	OBJ
+76fc7a7e5cf45715ff8047f3dbfaeeb2a65a2d49	Seit Monaten, Woche für Woche, Tag für Tag.	OBJ
+a533bea29cf5a804fc172875671a8c938bd19f17	Abgelehnt, doch die AfD sorgt für eine besondere Pointe Alle Fraktionen im Raum seien sich auffällig schnell darüber einig, dass man über den Antrag nicht debattieren, sondern lieber ganz, ganz schnell abstimmen sollte, schildert die AfD-Fraktion.	SUBJ
+7108cec8112b28d10fb942fd66277a34ce5a715f	Bei einer gewöhnlichen Leichenschau sind in der Regel die Auswirkungen eines Impfschadens nicht erkennbar.	OBJ
+2283e7e30f82a6ee90882c5a6f057b0a4bd6d0b8	Die syrischen Soldaten haben bei ihrem Vormarsch auch mehrere türkische Beobachtungsposten passiert, sodass diese nun hinter der Frontlinie liegen.	OBJ
+71c951dec346368e49b06a657dc8cf445ab96baa	Man blieb laut der Dokumente des Gerichts stur beim Behandlungsprotokoll für Covid-19 und zog dies so lange durch, bis man sich nur noch durch Sedierung, Intubation und Beatmung des Patienten dazu in der Lage sah, ihn am Leben zu erhalten.	SUBJ
+13c0ca5e6dd69ca6edfa2e19f8614e018eb4f16d	Der verlinkte Artikel von NPR schlägt drei Hypothesen vor, die alle nicht sehr plausibel wirken: 1.	SUBJ
+5432284269e8d4687bcd3694118a867cf0257d84	Ihr muss entschieden begegnet werden – wie beispielsweise mit der Festnahme von Lina E., die im Verdacht steht, der Kopf einer gewalttätigen linksextremistischen Kleingruppe in Leipzig gewesen zu sein.	SUBJ
+222bad8f80da592ee78ab1410e5356e476b576cf	Demonstranten haben Botschaften wie „Die Maßnahmen sind illegal“ gesungen.	OBJ
+0ceb0470bcb9294b6e54cbd57f0d59b52431465a	Ungeimpfte haben es seit kurzem im Alltag deutlich schwerer.	SUBJ
+631a98bd5c33fd4ba054884a34748ed9640c04c2	Der Bericht besagt auch, dass sie keine anderen lebensbedrohlichen Zustände, keine Geburtsfehler, keine dauerhafte Behinderung und keine Vorerkrankungen hatte.	OBJ
+1c408c67a009d5fe0b7dfa66ef997419cbc6460d	Dabei gibt es bei Kindern – anders als bei Erwachsenen – nicht einmal eine Notfallzulassung.	OBJ
+f0f459b47ba26a438729134f109503c9f1269ffc	Das sind einfach viel weniger Infektionen.	OBJ
+a19c7573ccfcab8975dd71c9eb021701f5cb5a1e	Zur Desinfektion empfehlen die Forscher Mittel auf der Basis von Alkohol (Ethanol), Wasserstoffperoxid oder Natriumhypochlorit.	OBJ
+273fdc2d5022fb321e118fc7861dada8aabc4dc3	Sehen Sie es mir nach, dass es zum Dokument, wie gesagt, von mir hier im Moment keine Bewertung gibt.	SUBJ
+a12e29a8c0a5ffffa2556f8c5b6a64523ef19112	Nach seiner Aussage könnte der Tod von 30 bis 40 Prozent der nach Impfung Verstorbenen auf die Impfung zurückzuführen sein.	OBJ
+01824784a2b7e16ed9fda344277aea90f5b00aab	Wäre es nicht eigentlich sinnvoll, die älteren Patienten komplett zu isolieren und die anderen währenddessen eine Herdenimmunität entwickeln zu lassen?	SUBJ
+523cda777a4f497463f59a8ed68b87e0c2fa2fc8	Darin heißt es: „Der Bundeskanzler wird auf Vorschlag des Bundespräsidenten vom Bundestage ohne Aussprache gewählt.	OBJ
+0acf6841ac62a96725e98e816a18b9c293a8b1ed	Er berichtet in dem Video, dass bei Fehlgeburten ein Plus von 300 Prozent gegenüber den vorigen Jahren beobachtet wird, ebenso bei Krebs, Neurologische Probleme, die die Piloten beeinflussen können, verzeichnen ein Plus von über 1000%.	OBJ
+708943265a91bbbd67362b2c34252c0fa0774bfc	Wenn später ein neues Coronavirus das Immunsystem aktiviert, erkennt es die selbst produzierten Spike-Proteine als Gefahr und startet einen Grossangriff gegen die eigenen Körperzellen.	OBJ
+6e78b78a6724d77b306d1fd0dff06a72bd968085	Cannabidiol (CBD): In der aktuellen Krise scheuen sich Anbieter auch nicht, das als Lebens- bzw. Nahrungsergänzungsmittel nicht erlaubte CBD als Hilfsmittel gegen Corona anzubieten.	SUBJ
+732066db1554fcebb732e15909ffec55d9bed428	Nur gelegentlich tauchen unbestätigte Angaben auf, dass alleine während des ersten Lockdowns in Berlin mehr als zehnmal über dem Normaldurchschnitt dies untersuchten Zeitraums liegende Suizidzahlen beobachtet wurden.	OBJ
+1f30b65272e5cf8019a8a9ee1654bb8e829f8e8c	Bohn berichtet von reihenweise Selbstmorden aus einem Milieu, das das geistige Rückgrat dieses Landes darstellt und dem die Luft zum Atmen genommen wird.	OBJ
+542cdc7c0224ebbb9568f36fcaef592494bbc4b2	Dies könne aber auch ohne den Ausnahmezustand der sogenannten epidemischen Lage von nationaler Tragweite geregelt werden.	SUBJ
+39c1c1e98eb7862e8d1e4dd1629ae062b92fc317	Und darum kann man das alles gar nicht vergleichen.	SUBJ
+a8d3371792c980f894d30adbf214f2346bafc415	Diese interne über E-Mail verbreitete Anweisung sehen Sie hier.	OBJ
+5d18b6296e115bd24b995a2d67bcc110cc318ac9	Noch scheint der Leidensdruck nicht groß genug zu sein, um dem Spuk durch „Druck von unten“ ein Ende zu bereiten.	SUBJ
+183d81c4a4a7b8135b603c9707b4da25685c785a	Auf dieser Grundlage kam eine von der Weltgesundheitsorganisation (WHO) einberufene Strategie-Expertengruppe zu dem Schluss, dass nur seropositive Dengue-Personen geimpft werden sollten, wenn Dengue-Kontrollprogramme geplant sind, die eine Impfung beinhalten«.	OBJ
+f99500b611852313bdcc3192b9c2e4270a972556	Das Testergebnis könne „freies Reisen, Kontakte knüpfen, arbeiten und andere tägliche Aktivitäten“ ermöglichen.	OBJ
+51437daf40d794ad69f56f9f5aa6aa1c7338f3f5	Ein starkes Toxin, das unter anderem Thrombogenität verursacht: Aber darüber hinaus verursacht Graphenoxid auch mitochondriale Schäden, das postinflammatorisches Syndrom, Lungenfibrose und es beeinträchtigt das Immunsystem und führt zum befürchteten und mehrmals bereits aufgegriffenen Zytokinsturm: Graphenoxid verursacht mitochondriale Schäden, postinflammatorisches Syndrom, Lungenfibrose, beeinträchtigtes Immunsystem und Zytokinsturm.	OBJ
+66f99b67ed000ad6589c59b4d9e1392c7850dff1	In den Laborversuchen in den USA überlebte das Coronavirus unter bestimmten Bedingungen auf Kupferoberflächen bis zu vier Stunden, auf Karton war es etwa ein Tag, 48 Stunden auf rostfreiem Stahl und bis zu drei Tagen auf Plastik.	OBJ
+d7315e8e1cacfb2452c577753306aab68363175f	Die Ständige Impfkommission(STIKO) empfiehlt für Deutschland, dass eine Booster-Impfung in der Re­gel nach drei Monaten nach der letzten Impfstoffdosis der Grundimmunisierung erfolgen soll.	OBJ
+b171a0703e353ba999d2174b316cd9c647c43eec	Denn die Europäische Zentralbank (EZB) hält unbeirrt an ihrer Zinspolitik fest, mit der die Banken die Erhebung von Negativzinsen gegenüber den Kunden begründen.	SUBJ
+63de2c8a97041130059de0dacbf87b8ef5186bea	Mit dem Grundgesetz unvereinbar sind die Sanktionen zudem, soweit der Regelbedarf bei einer Pflichtverletzung auch im Fall außergewöhnlicher Härten zwingend zu mindern ist und soweit für alle Leistungsminderungen eine starre Dauer von drei Monaten vorgegeben wird.	OBJ
+c6ca18b6ad3badafb05108476f80c1882871aed8	Sinngemäß sagt Wodarg: Da freuen sich die Virologen bloß, weil sie mal was Neues entdeckt haben.	OBJ
+c5691d6002b90b938416096c5c26bbc320f05d13	Auf den Ende 2017 ausgewiesenen und in Aufstellung befindlichen Flächen könnten bundesweit bei einer idealen Auslastung der Flächen unter Berücksichtigung des Bestandes theoretisch bis 2030 81,6 GW installiert sein.	OBJ
+0ccb283bbbbf91f054253520600f3ef226e1887a	Seinen Mangel an Abgrenzung von der extremistischen Antifa, hat Info-DIREKT schon beleuchtet.	SUBJ
+390a75bb348360eaceea3ed1590b3b4fc20c797e	Die Ergebnisse hinsichtlich der Fehlgeburten in Relation zur Schwangerschaftswoche finden sich allerdings nicht im Abstract sondern in den Fußnoten zu Tabelle 4.	OBJ
+8a1868657e6d0986823555957348acec7c733329	Eine wöchentliche Steigerung der Impfung um zwei Prozent bedeute 58 zusätzliche Todesfälle unter 60 Millionen Kindern unter 15 Jahren.	OBJ
+bd9a5c2742772a097e7348b68acdd70829b62439	Ab sofort gilt ein Bußgeld in Höhe von 150 Euro.	OBJ
+be20a9e3bfe144d692638430fe034f92964e3338	Das können wir schaffen, aber wir müssen zusätzlich etwas anderes finden.	SUBJ
+8d765270803d8f773d8d390f965f6ef0f008ea4c	Das Gewicht des Eises drückt das Magma praktisch zu Boden.	OBJ
+5101ff18aa9fa67d4fb84a959bd004ba70d67ba0	Seit Mittwoch seien nicht mehr die Impffreien auf den Normalstationen in Überzahl, sondern die Geimpften, nämlich mit 58 Prozent.	OBJ
+2e03ed58c6692aa707de2fea4dda94edff0459f7	Wichtig zu wissen: Extrakte sind bei Nahrungsergänzungsmitteln (im Gegensatz zu Arzneimitteln) nicht definiert, kein Extrakt gleicht dem anderen und vermutlich keiner davon dem in zitierten Studien verwendeten Wirkstoff.	SUBJ
+a88912ab2ae1be452294e772fea606bb50bed037	Die Stäbchen, die später wohl in die Atemwege europäischer Kinder eingeführt werden sollen, liegen neben den nackten Füßen der indischen Kinderarbeiter auf dem Boden.	SUBJ
+22b6336bd045dcd633b69837d608dc1e365a74c7	Impfen tötet und erzeugt Corona!	SUBJ
+a973e6113a99f714923e8bf5d988de7d2822fdc8	Zudem ist fraglich, wie zulässig und aussagekräftig so eine beliebige Durchmischung der Probandinnen hinsichtlich des Impfzeitpunktes ist.	SUBJ
+1b6c0c90299ddfa9769e83857034482001bd98e0	In alternativen Medien wird immer mehr das Thema Graphenoxid als möglicher “Krankheitsverursacher” diskutiert.	OBJ
+62c7639e388ceab0d3d5df42d8549de4adf3f998	Ein Video zeigt, wie indische Kinder unter unhygienischen Bedingungen Teststäbchen für Testkits einpacken.	OBJ
+25e7c1dca39493ec97ffc4500d8079ebdd7b797a	Das heißt, es wird eine Infektionswelle geben, wenn wir nichts tun.	SUBJ
+497b60ca618edc8c9f04db20a3c45610c1d1fd34	Ansonsten hat das Thema in den Medien keine große Bedeutung gehabt.	OBJ
+7ff4e81015aba876312d2571b8d7863a16962028	„Alles in allem tragen wir einen Chemiecocktail vor Nase und Mund, der nie auf seine Giftigkeit und niemals auf etwaige Langzeitwirkungen untersucht wurde“, so schreiben es die Buchkomplizen in einem Artikel.	OBJ
+0da2e8a578337a88b012b9c52d081e2041bfc1e3	Das ist ein Anstieg um 8.987, also 19 Prozent, innerhalb einer Woche.	OBJ
+50ee6cb4007cc78afb3aaf8e42728943b6913ad6	Gleichwohl ist darauf hinzuweisen, dass die im Flyer vorgestellten Verfahren keine Garantie für einen sicheren Infektionsschutz bieten können und entsprechende Masken, sofern möglich, auch im Privatgebrauch immer nur nach den Vorgaben des Herstellers angewendet werden sollten.	OBJ
+2fc3bc7fa196c92132ecf6b8cf2186a4ac9f50ef	Vielleicht riskiere ich hiermit gar nicht meinen Job, und Meinungsfreiheit und Pluralismus sind nicht gefährdet.	SUBJ
+338beab77489d6e897e0c1561043bc9d4602525a	Den Vergleich hätte sich das PEI direkt sparen können.	SUBJ
+4f58b74ea80d51836905a275e884ad76a1f5d714	Michael Braungart, wissenschaftliche Leiter des Hamburger Umweltinstituts.	OBJ
+097a78f89992702bfcac5bc7e5609ecbba2acb52	Für die Pandemie-Macher ist es zugleich von strategischer Bedeutung, die Kontrollgruppe der Ungeimpften zu eliminieren – und dies möglichst schnell.	SUBJ
+a2404d7528af8e26a5be6ce4336b64a7f795a3bd	Der sonst bestehende weite Einschätzungsspielraum des Gesetzgebers ist enger, wenn er auf existenzsichernde Leistungen zugreift.	SUBJ
+bfca0995dadfe1b6800354ea7fdbb8c782c12882	Im Abschnitt 10 beschreibt das Patent eine fiktive „Jane“, die bei mehreren religiösen Veranstaltungen war und damit als risikoreich eingestuft wird.	OBJ
+d4b708eacc5e81c406dca35335c462e126525482	Der Globaleismus hat sich als das Gegenteil dessen erwiesen, was er vorgibt zu sein: Er ist nicht die Rettung der Menschheit vor Krieg und Vernichtung, sondern im Gegenteil das beste Mittel, die Menschheit mittels einer winzigen ideologisch, religiös und finanziell motivierten Elite in alle Ewigkeit zu versklaven.	SUBJ
+6b7027dc388e4aa32207299bfa96fadde34298bf	Der russische Nachrichtendienst Tass.ru berichtete darüber unter der Schlagzeile »Russische Forscher widerlegen Studien zur Gefährlichkeit von GVO«.	OBJ
+e12e88db05c1ee981648e626b25fb0790b39eea9	Ebenso wenig können in Zusammenhang mit Zellkulturexperimenten umfassende Aussagen zu möglichen Nebenwirkungen getroffen werden.	OBJ
+53d6ff4d0c80bf2bcd2815f3d0f74baf4846ccdf	Vom Meereis, das die Insel im Winter gewöhnlich fest im Griff hat, war keine Spur zu sehen.	OBJ
+e888ab192e761f1478c57cb14ccaf86468579b44	Die wenigsten Menschen mit Sicherheit.	SUBJ
+27b02413a7dfe2244642b3b1d936d1ac80d4e005	Fragt euch einmal, wer hat schon mal eine Influenza also eine echte Grippe erleben müssen?	OBJ
+5595ae625d6c420966daa2296268406476615cae	Christian Drosten: Na ja, dieses neue Coronavirus kommt jetzt als Pandemie zu uns.	OBJ
+b0bdba0b2b07c2fc998c16e3b57426814fce0502	(Tipp: Auch wenn Sie kein Geld investieren möchten, empfehle ich Ihnen, sich jetzt Anzumelden, da es kostenlos ist und die Neuregistrierung für Schweizer jederzeit beendet werden kann)Als nächstes werden Sie aufgefordert, Geld auf Ihr Trading-Konto einzuzahlen.	SUBJ
+5be472265858c4e457f79f7781b4ea5ff5068ba6	Ist es das, was das Rutte-Regime will?	SUBJ
+e3e643b35194bf27a40fff967e3fdec38266a2ce	Damit hat sich der Verfassungsschutz unter seinem neuen Präsidenten Thomas Haldenwang dem links-grünen Zeitgeist ergeben, in dem die Antifa den Ton angibt.	SUBJ
+9087446af3d665838623927f05722c84452bc79f	Dr. Fauci’s NIH sagte 2005, dass “Konzentrationen von 10 µM die SARS-CoV-Infektion vollständig abgeschafft haben”.	OBJ
+b6a7ac1f95aced6fc3483a71aefccf53ecf201eb	Allerdings liegen die Daten oft nur lückenhaft vor, muß die Bundesregierung jetzt einräumen.	OBJ
+16bf1ed998c6e03fed5086bce344d0384ed782ab	Doch jetzt würde eine noch nie dagewesene Zahl von toten Neugeborenen verzeichnet – zehnmal so viele.	OBJ
+c9cde2bfdc9308284c5548b03b6ae156f0f396d6	(vgl. Pfizer, S. 132 ) Damit bestätigt der Pharmakonzern, dass der mRNA-Impfstoff negative Auswirkungen auf die menschliche Reproduktion haben kann und es wird trotzdem geimpft!	SUBJ
+8f594658d3d0fc8597a8e90d72d35b0e454d3add	Vorläufige Forschungsergebnisse, die Ende März 2020 auf dem Preprint-Server medRxiv veröffentlicht wurden, berichteten, dass COVID-19-Patienten mittleren und älteren Alters weit höhere Konzentrationen von Anti-Spike-Antikörpern – die wiederum die Infektiosität erhöhen – aufweisen als jüngere Patienten.	OBJ
+e66e7d1ff9d98f8222b6a36eaf73c24adf97b290	Er entscheidet sich dafür, die Sondierungen mit der Linken abzubrechen und nur noch mit der FDP und den „Grünen“ zu verhandeln.	OBJ
+d5b48deac13ea4a1a2feefa57b3bb18b73e97d3d	Dazu kommt dann noch zusätzlich, dass der Verlauf mit diesem neuen Coronavirus nicht so harmlos ist wie mit diesen altbekannten, alteingesessenen Coronaviren.	SUBJ
+d60592c44c3f4bfbbbdea449486f6423f323537f	Damals waren 11.669 Neuinfektionen registriert worden.	OBJ
+68d24ad43abad08c485dc9a263131a7ccdd6b1b1	Dieser Verdacht wird genährt von den Umständen am Anfang, den unsauberen Geschäften um die Masken unter Patronat der Politik.	SUBJ
+14ab83981f390dc08cb1908cf896a209d164b430	Für sechs Personen liegen umfassende Ergebnisse vor, zwei sind noch nicht ausgewertet.	OBJ
+77306cbc9763da61db273082f1173c8a36714746	Und man wird das nicht nur in der Statistik sehen, sondern man wird das in den Krankenhäusern sehen.	SUBJ
+74abfeedd390bb79117545771cb9d36c2b11d657	Dort ist festgehalten, wie viele Frauen eine Fehlgeburt erlitten und auch in welchem Schwangerschaftsdrittel sie geimpft wurden.	OBJ
+2e7d658aa43ef77ed3df2c3fa376a50020ecd132	In jedem Fall sind die Masken nicht für mehrfache Nutzung geeignet.	OBJ
+8862e4a926a1566e3393200eb7c874eb45cf7d8e	Damit begehen die Öffentlich-Rechtlichen genau den Fehler, den sie #allesaufdentisch vorwerfen.	SUBJ
+011cd64deed0da77a6bca24a3543f06cf4685ce6	Einige Senioren verweigerten Essen und Trinken.	OBJ
+36ad50dc0e4e4e36208443db2e2fab7b9ad6ecd7	Weltweit kann man davon ausgehen das schon tausende an den folgen der Impfung gestorben sind.	SUBJ
+eb55105439bbe97d4739f47ebcbc061c1a0e58c8	Die Behandlungszeiten waren um 3,00 Tage länger (2,20 bis 3,80).	OBJ
+610c3d336f846a8df69127de34ea7ce1409219c1	Die Unterdrückungsmaschine läuft auf vollen Touren.	SUBJ
+4bd203537a0de776b68e0392ecd776b8d548dcb1	Die Entwicklungen dieser Krise finden auf so vielen Ebenen statt und haben Auswirkungen auf alle Teile der Gesellschaft, dass es genau jetzt nicht weniger, sondern mehr freien Debattenraum braucht.	SUBJ
+e16993b60d88853e79a06ad92c38c96f8eab5819	Eine der meistgestellten Hörerfragen ist mittlerweile die: Was sagt Professor Drosten dazu?	OBJ
+8420e1c395126d556660e615d7b8df3fffcbd9b0	Dies ist ausschlaggebend dafür, dass das Capsaicin nur Krebszellen wählt und vernichtet.	OBJ
+4dd4dd2dbaa2322862454f21af8e114e2bd4b07b	Für manche ist sie ein Geschäft.	SUBJ
+140ef768ef99e3c0f11202a07a8a619be21bd7d6	Schon hat man ein “verseuchtes” Dorf.	SUBJ
+43ddbd3375c08535709f8ab4f910650d5e026038	Es gibt auch 69 Berichte über die Bell’sche Gesichtslähmung.	OBJ
+5f3a09bd05fbc539f5f369ce815438b0ced1c5a5	Eine Videoaufzeichnung der Pressekonferenz wurde von Youtube umgehend zensiert.	OBJ
+38bb99def7936f17b87266a78c2e323bfa3acf2f	Die offi­zi­elle Website des RKI warnt ausdrück­lich vor unqua­li­fi­ziertem Gebrauch der FFP-2-Masken.	OBJ
+1a3d385aff1693633866757c2b007a085375b855	Die beiden hatten zehn Verstorbene untersucht.	OBJ
+69f3d952610745d44bd7e1c3f2f3d2d98257e8bc	Es gibt neue Rechnungen aus London, die wir dringend unter die Lupe nehmen wollen.	SUBJ
+ba9579f9679688b18f629bd1a2fa1ee1ad39d059	Ernsthafte Folgen sieht er auch bei Menschen, für die das Coronavirus kein Hochrisiko-Erreger sei.	OBJ
+73d4ecd5577da8d2c2f0ae7c35f935696220725c	Die meisten Medien verschweigen das aber.	SUBJ
+e1757fd297e071e04ff7d04fa82947ae410ba051	Nach wie vor gibt es kein Isolat des “Coronavirus”.	OBJ
+383c8f6f68ebb0d42383ca0bdc51183d21fd08bb	Und diese Infektionswelle ist eben das gleichzeitige Auftreten ganz vieler Coronavirus-Infektionen.	OBJ
+3945a4b3f581f17dd9eae620b6e28d09e7677312	Nach Betrachtung des indischen Videos wird nun niemand mehr über die Verunreinigungen auf den Teststäbchen verwundert sein.	SUBJ
+d1f13bdaa6b452a4a484ce734cd968953adaa77b	Es umfasst integrierte rechtliche, kommunikative und politische Strategienfür die kommende Präsidentschaftswahl.	OBJ
+0e4cb43a6564c1647ff7c303c0b1b2507633a06b	Dank des Impfstoffs von Pfizer sind fünf Menschen erblindet und weitere 31 sehbehindert.	SUBJ
+ada7def1f1202fb42af7e61b20c14eba609bd703	Er erklärt in einem etwa 15-minütigen Statement den Sachverhalt hinsichtlich der beiden Inhaltsstoffe.	OBJ
+8d7591f3018ae6fafbd14bb4427e85972bb50420	(Quelle 1, Quelle 2, Quelle 3) Interessanterweisse löst Graphenoxid auch eines der “wichtigsten Symptome zur Erkennung von Covid-19” aus.	SUBJ
+45fd1ed2e10cd81f5d0c696064a46ec7eb624558	Bayerischer Rundfunk will in seiner Berichterstattung nur noch geimpfte Menschen vor die Kamera lassen.	OBJ
+f6b0016891a7b7c73ce507b09fa7292be6ffeec5	Gerade bei älteren Menschen sind es oft die Familienangehörigen und das nahe Umfeld, die sich um diese sorgen und einen Arztbesuch veranlassen.	OBJ
+68ecc695d5da8999ebaa0070a6ed0a80aaf59e02	Zur Effektivität der COVID-19 Vaccine Janssen siehe FAQ: Wie verhält es sich mit der Wirksamkeit und Impfdurchbrüchen beim Janssen Impfstoff (COVID-19 Vaccine Janssen)?	OBJ
+23d66295f01f27e82a4de73ebc3c99dc5c98a531	Außerdem hatte die WHO bisher 45 „Amplifikations“-Zyklen des Tests empfohlen, um festzustellen, ob jemand positiv für COVID ist oder nicht.	OBJ
+39a5bcfbb270815c9ef012289fb84b87f57093fc	Hierbei hatte er festgestellt, dass sich bei einer Untersuchung von über 80 Covid-19-Studien herausstellte, dass sich viele davon auf falsche Voraussetzungen stützten.	OBJ
+a61511be1b3ac7a46be7457a7a9adae87f2d4f34	Die einzige merkbare Reaktion war, alle Kritiker über die Alt-Medien sofort für unzurechnungsfähig und „rechts“ zu erklären.	SUBJ
+64f3977bdc624b12587980ff144a8e8db26b987f	Nur Bremen und das Saarland verzeichnen sinkende Inzidenzen.	OBJ
+30c0e1e0691b431288baec65801999969bb954a2	Dies gelte sowohl bei der „zentralen Auswertung und Analyse“ als auch beim „Einsatz operativer Technik“ und der Schwerpunktsetzung.	OBJ
+ce695f7ce327060f5fc0fde0ce0f82475e884cc9	Die zentralen Fragen der Folge im Überblick Was sagen Sie zu den Kritikern im Netz, die sinngemäß sagen: Coronaviren gab es doch schon immer, das jetzt ist ein spezielles mehr?	OBJ
+3bebb27f588120506a7a16f8b77c4607347d1551	Es wird aber mit noch stärkeren Niederschlägen bei uns gerechnet.	OBJ
+e00cf3f3a0813755a5e32126ee85fd93ec3d9401	Laut einer Studie, in der untersucht wurde, wie die Einwilligungserklärung für die Teilnahme an der COVID-19-Impfstoffstudie erteilt wird, werden die Freiwilligen in den Offenlegungsformularen nicht darüber informiert, dass der Impfstoff sie für eine schwerere Krankheit empfänglich machen könnte, wenn sie dem Virus ausgesetzt sind.	OBJ
+457a50a3aa6508ad0cbacfa5d34c5610f866c709	Sie müssen im Fall von Medizinprodukten der zuständigen Behörde angezeigt und bei der Prüfung von Arzneimitteln auch von dieser genehmigt werden.	OBJ
+1033d560bed623de96284e942611c384362abe3e	In den 21 Jahren bis 31.12.2020 starben 206 Menschen in Deutschland im Zusammenhang mit Impfungen.	OBJ
+f25c58b8f93df4f8a7100dd76068cbc0731c721c	Die größte Gefahr besteht in der Geschwindigkeit, mit der die gegenwärtige Klimaerwärmung vonstattengeht und laut Projektionen auch fortschreiten wird.	SUBJ
+d060016705dcc80e1904c1a52bb313855f281727	Darüber hinaus bereitet es ihm Sorgen, dass sie nicht wie bisher angenommen hauptsächlich an der Impfstelle am Schultermuskel verbleiben.	OBJ
+2fd58ee76af39d1cde1818cc8b636faeba328629	Beispiel: In der Gemeinde Hüttschlag (im Salzburger Pongau) mit 900 Einwohnern gab es sieben positiv Getestete.	OBJ
+2de302a6018f4dc0602676efd80dccc60eba9525	Bei zwei Todesfällen in Niederösterreich sei jedoch kein Zusammenhang mit der Impfung festgestellt worden, hieß es von Seiten der Landesregierung.	OBJ
+8c45e6dba53c31628b83743cdd49c4b6e722672d	Mit den Meldesystemen VAERS und der EudraVigilance Datenbank der EMA werden viele davon nicht erfasst.	OBJ
+f16b29241b9868df2b0b41614ffd5ffed7999d7d	Ob da vielleicht auch bei Zweifelsfällen (und nicht so zweifelhaften Fällen) bei der Klassifikation von Krankheiten der Patienten die monetären Anreize eine Rolle spielen?	SUBJ
+9d18a9dd46cfd9342a85566883beae31982b58c7	Da sich die Informationen nicht auf einen an der Studie teilnehmenden Teilnehmer beziehen, werden die Informationen NICHT in einem CFR aufgezeichnet.	OBJ
+ca1f65392ce1dacdfe9977519f01805719621c88	Karen: (04:11): Ich würde sagen, der Hauptgrund dafür ist, dass es für Menschen giftig ist und das ist bekannt, dass es für Menschen giftig ist.	OBJ
+7479c17fb45b1503434db3eb74aef24ea9310703	Und dieser steht im Verdacht, in seltenen Fällen sogenannte Hirnvenenthrombosen zu verursachen.	OBJ
+6214d315fffc32d9c74ea439d26124a9e50d1fbb	Das behandelnde West Chester Hospital blieb und bleibt jedoch stur bei seinem Protokoll für Covid-19-Erkrankungen.	SUBJ
+067edfffb772623545c45dd5a5def1d09db45c46	Sonderbar nur, dass mitten in diesem Notstand Krankenhausbetreiber bis zu 12.000 Euro Subvention für jedes Bett bekommen können, das sie nicht etwa aufbauen, sonder ABBAUEN.	SUBJ
+5cda227aed46bd1002f6ba1f0ad54f9523413d9f	Wer medizinische oder FFP2-Masken trägt, atmet also einen gefährlichen Chemiecocktail ein, der über die Lunge eingeatmet direkt in den Blutkreislauf gerät.	SUBJ
+16be6c319ebcb725af7400c264fc7f6b9da29615	Jetzt sind ihre Warnungen deutlicher.	SUBJ
+37337619404796f33b765cfa17552f0617970756	Zahlreicher sind jene, die weiterreisen: nach Frankreich, Deutschland, Großbritannien.	OBJ
+66528c20dd66ff645a4b347e74cd2c0067c7316e	Unklar ist ebenfalls, ob und welche gesundheitlichen Wirkungen Geimpfte auf andere Menschen in Ihrer Umgebung ausüben.	OBJ
+8ff2f674a1edf6a8052df84d4ea86851b62249b5	Beide Frequenzen muss man sich wie zwei Autobahnen vorstellen, die besonders im „Feierabendverkehr“, also dann, wenn die meisten Ihrer Nachbarn zu Hause sind und drahtlos im Netz surfen, frequentiert werden.	OBJ
+7b4d0706bcffa7bbcce60da85c316972f4c7cc7f	Sie haben das Pech, dass man ihre Thrombozytenzahl nicht mehr feststellen kann, da sie bereits tot sind und tauchen deshalb nicht in dieser Statistik auf.	SUBJ
+52fe2a9ee242542809c30bbdff260710ae4d2254	Das Resultat: 2.457.386 gemeldete Fälle von Nebenwirkungen.	OBJ
+cbd38fb056b6dba1bbe4fee6a5ec623ee66abdf2	„Die PCR ist da einfach zweifelsfrei.“, zitiert ihn der Tagesspiegel, allerdings ohne genau zu erklären worauf sich die Aussage bezieht.	OBJ
+478782953c0c2a4feed78998ddc76b0fce785d2f	Darin wird sehr genau – schon im Abstract- dargelegt, warum Klimamodelle, die sich allein auf den AGW beziehen, versagen müssen.	OBJ
+fcf85dfd6ce3cf07dd0fd97aa3242e6784c2dec0	Doch das Einzige, was sie sehen, ist ein Ladebalken, der selbst nach 10 Minuten noch nicht verschwunden ist.	SUBJ
+514c9758900ff35fb9881cd1b7a2034b0188bd9d	Zudem müssen sich alle Angestellten des öffentlichen Dienstes bis spätestens zum 15. November komplett gegen das Coronavirus impfen lassen.	OBJ
+42807228fa2eb26fb068a0fbe4c495141d065950	Maaßen würde – Köhr sagt es tatsächlich: – „Fake News über Twitter“ verbreiten.	SUBJ
+43f37e88ce1dc85d24b8d951a2bf720dfe25e697	Und selbst wenn diese Coronavirus-Infektionen mit dem neuen Coronavirus genauso harmlos verliefen wie die mit den vier altbekannten Coronaviren des Menschen, wäre das bedenklich.	SUBJ
+7cdd89fcf63aced2f8cc3f6e58de5938283730fd	Außerdem können Sie die Hersteller nicht für eventuelle Schäden haftbar machen.	OBJ
+c68f9b18f1099cbf7f8c587ecb329dfb58eba312	Wie viele inzwischen wissen, gab es 2020 viel Geld von den Krankenkassen für neue Intensivbetten.	OBJ
+292e092fd2203641c07ee425414f7f4c688851c0	Wir gehen davon aus, dass gegenüber dem analogen Prozess bis zu vier Tage gewonnen werden können.	OBJ
+6d7be24b4faed54c0ce6fa178ff8344d70f43da5	Eine Stellungnahme wird folgen.	OBJ
+6721461cf226aa5e188eb466b095e0e25ff1141e	Viele der ehemals an Polio erkrankten Kinder können als Erwachsene ein halbwegs normales Leben führen.	OBJ
+7193acf350206b8e98c5936807846e75650a866d	Und was ist mit der Polio-Impfung?	SUBJ
+06c6941474d8c9aa15d75e3395565ec85f090a09	1 Woher glaubst du, kommt deine Heterosexualität?	SUBJ
+c0690be39169abde2a6147a31e6687b686f4bc6c	Lediglich in Bulgarien, Rumänien und Kroatien haben sich bisher noch weniger Menschen gegen Corona impfen gelassen.	OBJ
+1f41850cb63a8e8d928ba42b9ef174a0c4c940f6	Das kostet viel Geld, aber die Alternative einer Welle von Unternehmenspleiten und Entlassungen wäre noch viel teurer für uns alle.	SUBJ
+b15632594396921a8aae8ca2b155ebf91dfc667f	9,4% der Schwangerschaften führten zu einer Frühgeburt, 3,2% der Babys waren unterentwickelt.	OBJ
+984cc5733d4f7001ce39135cf15f8c44dfa942d2	Wir bitten alle Sammelt Beweise.	SUBJ
+af8ac9802909ad34cd37fd01bad67b647f0ddfc7	Identifiziert man die Scharia im Wesentlichen mit diesen primären Quellen, so erhält man zunächst den Eindruck großer Geschlossenheit.	SUBJ
+3c603dde7aa129ecb7fe45f51c0ccc4d506b0f98	Am Ende sieht sie es genauso wie die Mehrheit der SPD-Funktionäre, die auf Parteitagen regelmäßig für linke Mehrheiten sorgen.	SUBJ
+d729de875cd934934b213c98f7fc2a9aa6eda432	Ihre Antwort: Sie sehen das richtig.	OBJ
+948ce012dcc8e03fefd6624a3841604952ca66ae	Wir sind nun mal jetzt gerade in der ansteigenden Flanke einer exponentiellen Wachstumskinetik.	SUBJ
+e2d3916eae3e8207651081e196c0abfafda3596a	Darin werde ich mich auch dazu äußern, inwiefern der Tenor meines Beitrags trotz notwendiger Korrekturen Bestand hat.	SUBJ
+6c8ed710b4556196a08e73f9c52db1912c9444c4	Der Schnelltest-PPV liegt bei etwa 1,5 Prozent.	OBJ
+88b7a034f4347f03cdfd930cd7c6d7998c641b58	Die WHO empfiehlt derzeit, eine MNB nur für eine erkrankte Person mit respiratorischen Symptomen, oder im gegenteiligen Fall, wenn man sich um eine erkrankte Person kümmert: diese Bestimmung kann jedoch von den jeweiligen Staaten ausgedehnt werden.	OBJ
+fec931188fe02e036c7b029797f4c07ab059aef2	Im Fokus stehen Sicherheit und Verträglichkeit des Impfstoffs sowie seine Fähigkeit, eine Immunabwehrreaktion hervorzurufen.	OBJ
+40849ce8cb63899d3cca3883f312b15f6c803c3d	Das bedeutet: Das Meereis in der Arktis passt sich relativ schnell an die herrschenden Klimabedingungen an – und es würde weitgehend stabil bleiben, wenn der Klimawandel gestoppt würde.	SUBJ
+3bd6d10f1aad9a3a8e5e1ca07f6d64affdea9366	Sie können sie an ihre Schule schicken.	OBJ
+63c7372c2a175847d0a15651388a7530f7b210bd	Sogar Schulschließungen haben langfristige Auswirkungen auf die Dauer der Lebenszeit.	SUBJ
+42af80b83ac5e9dec7fbb3244c06ae17542d91d2	Das lässt sich aus der Chronik der Corona-Tests ermitteln.	OBJ
+6977a03809eb5ecd556d5f0c61c2d0639493f10b	Natürlich produziere die Zelle das Protein, wenn die mRNA-Nanopartikel wirken.	OBJ
+0642bf2fc1316d64a73a68378090d3a74980bd02	Das neue Gesetz erlaubt es der russischen Regierung auch noch, die Einfuhr von Produkten zu verbieten, die GVO enthalten.	OBJ
+ac9b3b913ae23be43a9783c7c393a8c32f9c1076	Aus diesem Grund wurden nun Maßnahmen getroffen, um die Ausbreitung des Coronavirus zu erschweren und gleichzeitig Druck auf die Menschen auszuüben, um sich impfen zu lassen.	SUBJ
+1cd4c16c69d5ffdb53a7c5522e8e7035534d9c63	Auch könnten Menschen mit potenziell lebensbedrohlichen Kontraindikationen nicht verhindern, dass sie „geimpft“ werden – und möglicherweise daran sterben.	SUBJ
+76b9f2b94a8445c7b3e3c3c3eea7a147223c2b86	Das Coronavirus ist seit Jahrzehnten bekannt, der Wissenschaft, der Öffentlichkeit und den Immunsystemen der jeweils lebenden Menschen.	OBJ
+ea3186f2da026eeb19f6b58920451f94bd4c5de8	Wir sind ausschließlich privat finanziert und erhalten weder vom Staat noch von politischen Parteien irgendwelche Zuwendungen – was uns auch sehr wichtig ist, um unsere Unabhängigkeit zu bewahren.	SUBJ
+c6c63037934eb39ed64e190dfc2aeaca236fc98f	Es gab während der Pandemie laut der Auskunft auch keine entsprechenden Anträge.	OBJ
+aef45a2e9d8800766c412287e3024a3ad035ad96	Dies kann zu starken Gewebeschäden und -zerstörungen, Mikrothrombosen und sekundären Immunkomplikationen führen.	OBJ
+adfaae0c3e3bc73f012a10e60db95090a4ecad08	Aber mit einer besonders dünnen Stoffmaske könnte es funktionieren.	SUBJ
+9af528796a8eb50e9f55d276f9e6d99fd7596928	Als schwere Nebenwirkungen werden 2885 Gesichtslähmungen angeführt, 1073 Fehlgeburten, 3906 Herzattacken, 2466 Fälle von Herzmuskelentzündungen, 2552 Fälle von Thrombocytopenie und in 8832 Fällen bestand akute Lebensgefahr.	OBJ
+32ffe7706c5a20c328c51a91390325e81e200dc0	Pandemie jemals etwas anderes als eine böse Grippe?	SUBJ
+436ae450b048efc62cd5214c8f42c3c97d799358	Und das RKI, das für die technische Umsetzung verantwortlich ist, erklärte: „Eine konkrete Frist zur Umsetzung der neuen Anforderungen (...) ist uns nicht bekannt.“ Der Prozess der Implementierung brauche „einige Zeit“.	OBJ
+a0b16a4330e41a50b00700befeb593c166387bc8	Im Basisszenario hingegen gehen die IfW-Forscher zwar immer noch von einer hohen Zuwanderung aus, bei der im gleichen Zeitraum rund 3,8 Millionen Menschen kommen werden - was sich mit der Zahl deckt, mit der die Bundesregierung intern rechnet.	OBJ
+e91a8ac14b66ea6ba77d8aa3b01801ab75b65def	Am Montagnachmittag informierte die Regierung nach Beratungen über die aktuelle Coronavirus-Situation in Österreich.	OBJ
+af4e6f7e79f01a1b5b364b75c92f753cb66bb303	Er hatte mich nämlich vor dem Dreh angerufen und sich die Zusammenhänge im Detail erklären lassen samt Hinweise zu die entsprechenden Quellen.	OBJ
+6b0f3d0c3cbc1c7e5113feedecffe3b94af967f2	Mit anderen Worten: Pfizer teilte der FDA mit, dass seine Impfstoffe tödlich sein könnten und dass es keine Informationen über die Wirksamkeit des Impfstoffs hatte.	SUBJ
+e5755cc1749e8691521975ed278e2b5caefae981	„Ich kommentiere keine Umfragen“, sagte er.	OBJ
+9e2410944cc3a36a46e7cab71ce420f9448b0383	Atemschutzmasken sind gemäss diversen Experten eher kontraproduktiv, weil sie unter anderem den Sauerstoffhaushalt im Körper beeinträchtigen.	OBJ
+6dae6a67091b03b7d9d7c51f95fe33d3a02c7377	Allesamt unannehmbare Bedingungen für „Grüne“ und SPD!	SUBJ
+4ad5d422205152344d22fa7eab7db58f57fe4c05	Hier wurde bisher Jedem nach eigener Risikoabwägung selbst überlassen, sich selbst zu schützen oder Impfangebote anzunehmen.	OBJ
+ab582caa6a74d7cbe65186fa55dce06162d5605c	Anlass zur Sorge gaben Todesfälle und schwere Nebenwirkungen, die nach einer Impfung auftraten.	SUBJ
+d3f7b533d61f33ab71c685341a0f001700ed1303	Am heutigen 20. September werden erstmals Ergebnisse vieler Monate Arbeit offengelegt.	OBJ
+c701ee7f36eb112e09ada0d6ef636a7385f67100	Ich finde, das Argument ist unschlagbar.	SUBJ
+d2ed190a149a4cb0aa5d56894791b49691e81778	Eine davon startete letzte Woche in Stanford Medicine, mit Kindern zwischen 2 und 5 Jahren.	OBJ
+6e4299aa619771040442d6ff0c24160d027631c8	Kritiker befürchten, dass auf diese Weise künftig Impfungen ohne Wissen der Geimpften durchgeführt werden könnten.	OBJ
+f4abb658584424e1df6817bdbfa5610a888f9ec9	Die schwarzen Flächen zeigen die Wellenlängen bei denen eine Absorption von Wärmestrahlung durch die entsprechenden Moleküle erfolgt.	OBJ
+c58067177bc53b875b2487ff2679f977ff753077	Viele haben das noch nicht verstanden.	SUBJ
+5ee96f4f037f98b01f79d4ddf062012b7c5a66c9	„Bei Coronaviren tritt ein seltenes Phänomen auf: die sogenannten infektionsverstärkenden Antikörper“, sagt Mikrobiologe Prof. Dr. med. Peter Palese vom Mount Sinai Hospital in New York.	OBJ
+f03c7000eb3257fdbf3bd5df5ce0e3fab09f75fc	Pantschin arbeitete mit dem amerikanischen Forscher Alexander Tuzhikov zusammen, der am Bascom Palmer Eye Institute der Uni Miami als Research Associate mit Spezialgebiet »Computerwissenschaften, Bioinformatik« geführt wird.	OBJ
+0d0d84fb6107826dfd3ba424feff31d344627667	Die FDP-Anhänger drängen Lindner, in eine „Koalition der Mitte“ einzusteigen.	SUBJ
+aeca5f61dae0230a6c3b66c8d13973537503adbb	Holbreich fand heraus, dass nur fünf Prozent der Amish-Kinder mit Asthma diagnostiziert wurden, im Vergleich zu 6,8 Prozent der Schweizer Landwirtschaftskinder und 11,2 Prozent der Schweizer nicht landwirtschaftlichen Kinder.	OBJ
+1bebe793880c0da692f44a292c69bd0414f833f3	„Es erzeugt sofort einen Lungensturm mit Lungenentzündung“, sagte Ruby.	OBJ
+7dff08dcbddccbb5b42025ec527c116341799796	Das stimmt, ihr Erkrankungsrisiko ist höher.	SUBJ
+e093d3024af67ff455131df91b233199ab118080	So gut wie alle Deutschen zahlen Steuern, viele auch Sozialabgaben.	OBJ
+542b73b690920a4ecaaaafc45f003a2d599c5afa	Deutschland – Wer in diesen Tagen den Fehler begeht und Mainstreammedien liest oder im TV anschaut, der wird mit unzählbaren Falschmeldungen bombardiert.	SUBJ
+250f986d24a5e1aab0b52ebffe2dd57d2c931bec	In Barcelona, <U+200B><U+200B>Spanien, retteten sie über 2.000 Frauen und Kinder und verhafteten 13 ihrer pädophilen Führer.	OBJ
+8b26584e46c1312ef6e7d8b59e45ee890c104435	Wie könnte es da weitergehen und warum bin ich so optimistisch, was das anbelangt, werden Sie sehen, wenn Sie sich mit unserem Modell der Humanen Marktwirtschaft vertraut gemacht haben.	SUBJ
+5d285d4f7c50f5f120be52da673fd8f36e979840	Viele Ärzte kritisieren die vorhandenen Studien als unzureichend, die Nebenwirkungen als unerforscht.	OBJ
+d342e44ed1bc45d68f033745cde382f42f448f9c	Zurzeit verdoppeln sich die gemeldeten Infektionen in Deutschland etwa alle zweieinhalb Tage, wohlgemerkt die gemeldeten.	SUBJ
+5797e92aed4ac06b2792bcf64342a5cc9230bb8d	Die beiden Unternehmen sicherten ihre Unterstützung zu.	OBJ
+93ff3bcbde5f2b2f73f0b3640b69994d444ded15	Bei allen Bussen sowie den U-Bahn-Modellen DT5 öffnen bereits jetzt alle Türen automatisch, ab Mitte August werden auch alle U-Bahn-Modelle des Typs DT4 mit der Software umgerüstet sein.	OBJ
+f504a5660d7e4fbe4c8152d6f9cd84faed23e607	Und wenn nachträglich eine Provision für eine möglicherweise nicht vorhandene Erkrankung erzielt werden sollte, so wäre dies gar als Betrug nach §263 StGB zu bewerten.	OBJ
+27c4ff37b7e7db1c081237ecea54c79a7b7943dd	Wem nützen die falschen Corona-Toten?	SUBJ
+dbe8f737f99b89ee629c9037da01526b15af97c9	Nach wie vor wurden die Kontrollexperimente für den Nachweis eines “Virus” nicht erbracht.	SUBJ
+ecc43ee9565d218fb53c41c685099b9e5ca6e096	Besonders dramatisch: Fast 600 Fälle schwerster Nebenwirkungen entfallen auf Kleinkinder unter zwei Jahren.	SUBJ
+4b466f418df2cbc3853ab17f257953cc5a56618a	Es gibt Tote in der Statistik wegen dieses neuen Coronavirus, aber die sind natürlich im Vergleich zur Gesamtletalität der Bevölkerung jetzt verschwindend gering.	SUBJ
+7eb03b5adf32a9c22399db6ef6888b3178de36bc	Eine zweite Nachfrage der Autorin vor einigen Tagen blieb bis zum Freitag unbeantwortet.	OBJ
+b7ed5b3e8e2b8a3e64745d1d35e74ec199088cbd	Da müssen wir besser werden“, sagte Jochen Schuler, Referent für Medikamentenangelegenheiten der Österreichischen Ärztekammer.	OBJ
+86ccb76dc2446bfdbfc03047b112c6f9e08653a9	Der große britische Kriegspremier Winston Churchill hatte seine ganz eigene Meinung bezüglich Statistiken – er glaubte grundsätzlich nur solchen Zahlen, „die ich selber gefälscht habe“.	OBJ
+ed7ef4df03b0e7a83d980ab424b90a5c065cfdc8	Jeder, der politisch verfolgt ist, muss in Deutschland Schutz bekommen können.	SUBJ
+3311b733f7bd19308558cfc4a7f2aaf0fb8e407d	Rettungsleuten und jenen die sich impfen lassen sollen rät Sievert nun dazu, sich gut zu informieren, vor allem in Bezug auf Kontraindikationen.	OBJ
+9ac6c3c9a66c3a3159c8e841890b16bcbe0498ca	Medizinerinnen oder Pflegerinnen, die die Masken nur tragen, wenn sie in den OP gehen oder in die Intensivstation, und die Masken beim Herauskommen entsorgen, sind viel weniger Mikrofasern ausgesetzt als Menschen, die die Masken bei längeren Fahrten oder am Arbeitsplatz über viele Stunden aufhaben müssen.	OBJ
+09e3dd5d05093f4b1476e1b9a5b5630f02098fe8	Die Messenger-RNA, die bei der Impfung eingeführt wird, hat gar nichts mit unserer DNA im Zellkern zu tun.	OBJ
+a9f8acfe06387e94e98ada08a18296476e5751a8	Wenn die Politik daraus neue Schlussfolgerungen zieht, löst das Irritationen aus.	SUBJ
+1d18fc1d35f5293427d16cad350882a6ca7fa3c4	Allerdings auf sehr ungewöhnliche Art.	SUBJ
+cebd178361df7a04377d3849e3ba6818a78832eb	Auf den ersten Blick kaum auffällig, aber doch unmissverständlich steht für das Jahr 2021 dort, im Kasten links oben, der Zeitraum, für den das Ministerium den Hilfsbedarf bereits plant: „SCHLIESSUNG Jan-Jun 2021„.	SUBJ
+366d37a704d3ad431632d3d1ab4cbd665bf0008c	Mein dringender Appell lautet: Niemand darf linksextremistische Gewalt verklären.	SUBJ
+6328f4cc64827961287aad7c68b40c12104b3fce	Impfstoffhersteller können Milliarden verdienen.	SUBJ
+678726ae78b6ddeec831423c44bf551b8ca3d483	Nach ihm sollen sie „mindestens drei Jahre“ lang immer wieder geimpft werden, das sei unsere „Bringschuld“.	SUBJ
+af0d102c3f0c0f838b3bcfc51bdc9500215a315a	Dann haben wir eine Situation, bei der man sehr wohl einen Effekt auf die Letalität, auf die sowieso Versterbenden, also auf die Anzahl dieser sowieso Versterbenden, sehen wird.	SUBJ
+3e547c71ca365458b721f0b848429dca6abdbd31	Die Frage, ob Graphenoxid tatsächlich das “auslösende Moment” ist, kann ich natürlich nicht beantworten.	OBJ
+909eecd63d1fc13639c18b2f44cd8cb1a24d782a	Weil die Impfquote noch immer sehr zu wünschen übrig lässt, werden in diesem Land jetzt die Maßnahmen gegen das Coronavirus verschärft.	SUBJ
+100d5fb203223ae21b65c4288adf8e54d1e853b0	Sie erweist sich als „eine der folgenreichsten Behandlungen in der Medizingeschichte“.	OBJ
+66211502c324d4df1001650dcb80b9d11f9b65e9	Bis 6.3.2021 wurden insgesamt 114.870 Fälle von Nebenwirkungen gemeldet.	OBJ
+3f251e7d086c233d3dad832f3c24be4f298097f1	Dazu kommen Klebstoffe, Bindemittel, Antioxidantien, UV-Stabilisatoren in großen Mengen.	OBJ
+30b48550b030c1c01b755fb5ec95c650cd2e8442	Das Leipziger Universitätsklinikum hat seine Corona-Testambulanz wieder geöffnet.	OBJ
+af7bfea5485fcd41d83d5288a987f11e6d16fc94	Vergleicht man diese Zahl mit den Vorjahren (s. Grafik) stellen sich Fragen: Hat Corona die Grippe praktisch ausgerottet?	SUBJ
+7492cd9d27c81fad6369cfff49b0d4aec9849aac	Mit Artikel 5, Absatz 1 schuf unsere Verfassung die rechtliche Grundlage für die Etablierung und Fortbestand des öffentlich-rechtlichen Rundfunks.	OBJ
+51eedde8fc58d9587d03c2aad7302a9635166e82	Also man wusste bei über 30.000 Fällen seit Kalenderwoche 5 – bei über der Hälfte – keinen Impfstatus.	OBJ
+f05cae40e76962a2015b3042deeefa5a7195dc9a	Die Sache wird immer wichtiger: Wirtschaftlicher und gesellschaftlicher Druck führt nämlich zur immer früheren, oft bedingten, Zulassung von neuen Arzneimitteln.	SUBJ
+2f056018ac5c650e0d30ab1d5a0422fa8c835927	Zwischenzeitlich wurde der Patient nach Hause entlassen.	OBJ
+adf11215dcadf6787b7deca89f32c9172484112e	Insbesondere, weil immer mehr Kinder und Jugendliche geimpft werden?	OBJ
+4329f52a7cd2c199cba075052ee1ac755d5f7afc	Das ist reine Diktatur und Rechtsbruch mit Ansage.	SUBJ
+45f57f6f24ff03127356489ee4fac12943d6b661	Das Kapital verschiebt sich im Laufe der Jahre immer zu einer extrem reichen, aber kleinen Gruppe.	SUBJ
+d698958bb337e88984e156e5a3b25e05c456d5af	In der Sendung „Corona-Quartett“ / „Talk im Hanger 7“ kommen Befürworterinnen und Kritiker gleichermaßen zu Wort.	OBJ
+2d639d5b57bf7b3615c4b775b459f14058467914	Den Schutz der Privatsphäre bezweifelt Kingston.	OBJ
+463c8f62f8a88ae4926f3d586f88b902b4308eea	Und wenn es zu Shedding kommt, musst du Kontrollmaßnahmen ergreifen, damit du die Injizierten nicht ansteckst, wie es im Moment der Fall ist.	SUBJ
+396b794950d460c49de73c7b501f72b36e465c42	Denn Audi hat ja selber schon gesagt, man habe bei eigenen Nachforschungen herausgefunden, dass 850 000 Fahrzeuge - auch von Porsche und von VW, glaube ich - betroffen sind.	OBJ
+eb92e7de41e4183755b2490e3308e18958e4f15a	Zukünftig dürfen Ungeimpfte keinen Supermarkt mehr betreten.	OBJ
+c746547c3744bb26563cd8f5813ef31180cdd114	Die Corona-Diktatur arbeitet mit Panikmache.	SUBJ
+94a2d5fc868f75c6ff18ff94afb84e14d3be5b40	Demnach fördert der Freistaat Bayern Unternehmen bis 10 Mitarbeiter:innen nicht mehr.	OBJ
+17a907140bc54d99fffaf5d9974b98386fcf338e	Aber es liege auch daran, wie die Kliniken ihre Mortalitätsraten berichten und nach welchen Kriterien sie die Todesursachen beurteilen.	OBJ
+bbaf76d07a8858ca2e7732ee2bcd42bdd79ef138	Mehr als drei Viertel der Impfgeschädigten waren europaweit bis Ende Januar weiblich (Pfizer/BioNTech: 76,9 Prozent; Moderna: 76,6 Prozent).	OBJ
+b5a68aa75e50bdaf047ec7c617735ac179f2b9d9	Die Pfizer-Spritze führte seit dem 8. Dezember zu 49.472 unerwünschten Ereignissen.	OBJ
+f8797440828af779da8e7ae4270e35b1d9fb737c	Doch darf man wirklich nicht schwimmen gehen, wenn man vorher gegessen hat?	SUBJ
+8d2c618771ae868d3a53fde55b8425acbb3fd4b1	Bis zum 8. April 2020 stiegen die Zahlen auf etwa 2 300 YLL täglich an und blieben bis zum 17. April 2020 weitgehend konstant.	OBJ
+5746ad4c3a3b7aae3e1e93c4c72fecfeffced3b6	Das heißt, kritische Stimmen zur politischen Situation werden ab sofort beim Bayerischen Rundfunk demnach nicht mehr erhört, sofern sie ungeimpft sind.	SUBJ
+0e0b5ad79b5fb65e8d035b6bf82aa91fa12ba678	Denn sie fanden “Würmer” und andere beunruhigende Teile auf den Teststäbchen, die ihren Kindern drei Mal die Woche eingeführt werden sollen.	SUBJ
+6a164a66e01ae352f20b4f50dbefb6fd43d3164f	Lindner wird mit Mails und Anrufen seiner Anhänger geradezu bombardiert.	SUBJ
+353dc44a87d9818ee782e66f5db572450064008f	Lesen Sie unsere brandneue Ausgabe von COMPACT-Aktuell!	SUBJ
+d3372cf66ed53f89221233c40ca4d88a8a4f4754	Aufgrund der akuten Erkrankungen wurde der Termin für die zweite Impfdosis verschoben.	OBJ
+0e2568fab664513b6c449bc797ee6b1b79ae735b	Da weist das Gesundheitsministerium seit Anfang April nur den Prozentsatz der belegten Betten aus.	OBJ
+9d498b6ff9e5a9d2f18df0b59e9caf88c17872d4	Wenn Ihnen der Artikel gefallen hat, unterstützen Sie bitte das Projekt unzensuriert mit einer Spende.	OBJ
+b192529d13d45fa5cd9386f472ed156524ddfb6e	Hunderte Milliarden Euro werden versenkt, aber es werden keine Mittel in die Hand genommen geschweige denn wird die Notwendigkeit gesehen, die möglicherweise naheliegendste und unmittelbarste Auswirkungen nie dagewesener Zumutungen und Lebens- sowie Freiheitsbeschränkungen der Bürger zu überwachen?	SUBJ
+979c8494c2ed02d4854912c064a28150ab0bd09b	Ein völlig grotesker Anreiz mit Folgen.	SUBJ
+0e27a742d8ab2c59ff9f628cca5e55c303eb19a4	Ob das Virus dabei noch intakt ist oder ob es sich hier um Trümmer handelt, das lässt sich aus so einem Test nicht erschließen.	OBJ
+805bcd736ccd9112e75355af8bc4d0f952fcda77	Trotzdem gibt es seit Monaten massive Kräfte, die von Schweden ebenfalls harte Maßnahmen fordern.	OBJ
+74276bc8a8adcc0c572b14a3409493ffe660cee7	Danach wurden bis heute noch 27 weitere Fälle gemeldet, die der strengen Prüfung, die für die Aufnahme auf die Liste nötig ist, standhielten.	OBJ
+0f3a60bc9feee35ed3fb36185c699d833fffe67b	Österreich sei im Vergleich zur Migrationskrise 2015 inzwischen deutlich besser aufgestellt, sagte Innenminister Karl Nehammer (ÖVP) am Montag bei einer gemeinsamen Pressekonferenz mit seinem ungarischen Kollegen Sandor Pinter.	OBJ
+3353bab661f1254c128cd346d4c916743418944f	Wurde Hillary Clinton bei einem Folter-Ritual gefilmt?	SUBJ
+3ace4e658603814ca15576cd0a813794170346af	Mein Eindruck dazu als Laie, den ich gerne korrigiere, sollte mir ein kardinaler Fehler unterlaufen sein: Das ist hochgradig unseriös.	SUBJ
+b1751b278447e6efdfba79d30be20099120145e0	So hatte Politik und Industrie nicht gewettet: Das Geschäft muss weitergehen.	SUBJ
+637fd77037d71f509bd73abc81adb06602191b98	Eine sehr giftige chemische Verbindung, die das ROS/Glutathion-Gleichgewicht im Körper stört, was als erste Konsequenz ein postinflammatorisches Syndrom, Blutgerinnung, Thrombozytenreduktion und, falls das Gleichgewicht nicht wiederhergestellt wird, der Zusammenbruch des Immunsystems und eine beidseitige Cytosin-Sturm-Pneumonie aufgrund der gleichmäßigen Verbreitung von Graphenoxid-Nanopartikeln in der Lunge zur Folge hat.	OBJ
+c4e0b081b52e4a41fb6f9c49edd17379f40f78d5	Passend dazu liefert ein Algorithmus ein Punktesystem zur Risiko-Einstufung der Verfolgten und eine automatisierte Impf- bzw. Behandlungsanweisung für die Betroffenen auf eine Handy-App.	OBJ
+9f1bdc29e22327182f8b45a9f0b16d78791a3e14	Was folgt aus dieser Datenlage in Deutschland?	OBJ
+913ddb290ca2dc801a51be906ad23f289f91c02b	Einige tragen Rettungsdecken, die die Taucher mit in die Höhle gebracht haben.	OBJ
+48ab003f7002a56db94a160c22c1a5a5a086fe47	Das neue Untertanen-Modell, die höchstwahrscheinlich völlig unnütze „Alltagsmaske“, muss nun mit aller Macht durchgedrückt werden, schließlich zeigt sie, wer hier im Land mit krummen Rücken herumläuft, oder wer den Gehorsam verweigert.	SUBJ
+d5b83e1c0febc151ce15eae390c3e5bf73bf275d	Das legt, ebenso wie die oben zitierte Erklärung des RKI, den Verdacht nahe, dass die Erkrankten mit unbekanntem Impfstatus als „ungeimpft“ gewertet wurden – sonst hätte der Einfluss auf die Impfdurchbrüche umgekehrt sein müssen.	SUBJ
+f0c7bcd3c6190f693c1dca953dfaa28607c2d25f	Als weitere Maßnahme sollen ab sofort so viele Menschen wie möglich im Homeoffice arbeiten.	OBJ
+27342e93b3a0b3b95fe9ac15255f2c93433bc8d7	Dann gibt es noch ein Phospholipid.	OBJ
+7684913979db8c5083e8c7c1440c09ffec8bcf42	Lassen Sie sich davon nicht mitreissen.	SUBJ
+f61e87241421cab0aebdbe9bf69631204afec6e0	Im Gespräch mit unserer Zeitung sagte er: „Einige Krankenhäuser waren überlaufen, keinesfalls alle.	OBJ
+8ef3738223c920ca82819f70c77a60398e2ae5b4	Geimpfte und Ungeimpfte in Krankenhäusern lassen sich problemlos offiziell nachvollziehen.	OBJ
+3ed025860dedf22274071b8a36659694cbb6ac64	"Merz weiter: ""Fakt ist, dass das Krematorium bereits seit Dezember mit der deutlich gestiegenen Zahl an Sterbefällen konfrontiert ist, die sich dementsprechend in einer steigenden Zahl an Kremierungen niederschlägt."	OBJ
+f8468620792c4d68b557c8bc04824f4d821bce9e	Er ist Software-Spezialist und studierte auch Biologie.	OBJ
+f171624fb024634a01eb30fa544fbb1e7a95ff97	Damit verliert das Virus schnell seine Ansteckungsfähigkeit.	OBJ
+f15a49d65b080469d82a16163d19f35ae8fcfb9c	Seit 2009 ist er Vorstandsvorsitzender des Universitätsklinikums Schleswig-Holstein.	OBJ
+3892b295104ec7c1f7d9ee28b416aefef80d4629	»Sie testeten es, ich glaube an 35 Kindern, und dasselbe geschah«, sagte Kennedy.	OBJ
+9386b43f7d1b8c467bb1d44fa993a2bfaa921470	Die Autoren belegen hier, dass durch die Auswirkungen der Lockdown-Maßnahmen die durchschnittliche Lebenserwartung für Männer um 0,76 % sinkt; die für die Frauen um 0,41 %.	OBJ
+5c9bbb65f780da22312fa7d0bd3ff0293e92930c	Wenn er gesund war, woran ist er denn gestorben?	SUBJ
+10879e5ffde3ac41458b8b830b9a387f687fa61c	Das ist die zweithöchste von vier Stufen.	OBJ
+71fe343108d61f19623d928abaab30f7054b2210	Sie haben mehrere Bluttests, Schwangerschaftstests und Ultraschalluntersuchungen gemacht, aber alles kam normal zurück.	OBJ
+954ab2930642b0990c9330f358078fb485490863	Ich kann nicht mehr wortlos hinnehmen, was seit nunmehr anderthalb Jahren bei meinem Arbeitgeber, dem öffentlich-rechtlichen Rundfunk passiert.	SUBJ
+042a7213a2e75e372ece2576ec0e281d99a48a98	Korinna Hennig: Was ist denn anders?	OBJ
+69f5015090e08fe39c467a3a29308a078d7cc22c	Und da Österreich überwiegend aus kleinen Gemeinden besteht, wird das Land schnell zum Superspreader.	SUBJ
+c9771c74868e66cc7b59ffddf5990e29cb6a890f	Pikant: Die Ergebnisse der Studie sind vertraulich, die Veröffentlichung der Daten erfolgt gemeinsam.	SUBJ
+f04f98f04fac2816232dadf5d7da932f0c992db5	Nach wie vor finden sich fremden- und minderheitenfeindliche Einstellungen, die mit zum Teil aggressiver Rhetorik verbreitet werden.	OBJ
+7fdd57930d2b0e3019edb326badc5b61f570a260	„Streuen“, d.h. Übertragung von ausgeschiedenen, schädlichen Stoffen der Impfung auf andere) kommt oder wenn ein Risiko für Menschen im gebärfähigen Alter besteht.	OBJ
+8f643ab591aae8ad3d8844da946159d4c3d7e3f0	Würde man alle 4,5 Millionen Zwölf- bis 17-Jährigen durchimpfen, wäre etwa mit 18 bis 22 Sterbefällen bei Kindern und Jugendlichen nach der Impfung zu rechnen.	OBJ
+0ce929a7203afd49f64a7ce63faea95ee1fa44eb	Über diese und andere Themen reden wir auch heute wieder mit Christian Drosten, dem Leiter der Virologie an der Berliner Charité.	OBJ
+8d821b2b5fe41ff5b0a4820f073d91382da850de	Aber solche veröffentlichten Zahlen führen eben auch ein politisches Eigenleben.	SUBJ
+efd7f17afd6a6687e40769c967ebeac87f25c15e	Das Seminar ist top-seriös und wer die Möglichkeit hat, sollte das Angebot unbedingt nutzen.	SUBJ
+9c127c279c70ee8d552cfcfb6dae0a20b4e06dcc	Die Zahl der positiven Corona-Tests wird in kleinen Ortschaften statistisch hochgerechnet.	OBJ
+bb76105b436264bad72ee4038e346ed3c950c045	Derzeit sei vorgesehen, das Projekt zum 31. Dezember zu beenden.	OBJ
+3ae5245ce015b1fab2f9f748eec1dc06f82c27cd	Vor allem in Entwicklungsländern wie Indien arbeiten Kinder oft in Fabriken.	OBJ
+ac3097453a1ceb335b420ea57abbe43b79613eae	Diese und weitere Fragen beantwortet in diesem Interview einer der meistzitierten Wissenschaftler der Corona-Pandemie, Dr. Peter McCullough aus den USA.	OBJ
+e448dd28927815ff981f03dadfd75d7ee2a8b086	Denn der Test erfasse auch weitere Atemwegserkrankungen mit ähnlichen Symptomen.	OBJ
+de3cf54303bc4eed2d738186a008d75e4c2f2c16	Daraufhin entschied sich Sievert, den mutigen Schritt nach vorne zu machen und seine Fans über seinen Zustand aufzuklären.	SUBJ
+c33d1eed52ac7481ff4feab4f9bfc6dd431bb8b7	"Er kommentierte das nicht, sondern sagte: ""Lass mich erstmal den Moment genießen."""	OBJ
+8e5a824b7c03c644946fad2938cc5617a5d5a652	Der medizinische Experte warnte daraufhin, dass, wenn diese Version des Impfstoffs eine Notfallzulassung erhält, die Zahl der plötzlichen Todesfälle aufgrund von „Atemsturm“-Fällen von Lungenentzündung in die Höhe schnellen wird.	OBJ
+720173d08d8d8ac423e181dfcba83d028120b942	Frank weist nach, dass die rasant ansteigenden Zahlen der „zweiten Welle“, die den Dauerlockdown auslöste, auf die rasant gestiegene Anzahl von Tests zurückzuführen ist.	OBJ
+7ed8f2481730b50022e389613da8c04faf47842a	Dr. Kobi Haviv, Direktor des Herzog-Krankenhauses in Jerusalem, spricht davon, dass 85 % bis 90 % der schwer Erkrankten auf seiner Intensivstation doppelt geimpft sind.	OBJ
+47f9029f5e6957e2272fcb95d9ab19f1b7e75ca8	In den „Empfeh­lungen der BAuA und des ad-Hoc AK „Covid-19“ des ABAS zum Einsatz von Schutz­masken im Zusam­men­hang mit SARS-CoV-2“ werden FFP2-Masken nicht zur privaten Nutzung empfohlen.	OBJ
+47cbdb2276b38e0f7372d298eb35f81680d75488	Kurz nach der Impfung traten schwerwiegende Veränderungen bei den Senioren auf: Fieber, Ödeme, Hautausschlag, Muskelzittern am Oberkörper und Armen, Wesensveränderungen, Müdigkeit, Juckreize, Schlappheit, Schnappatmung und Herzrasen.	OBJ
+7b25e1609ec0bfa2450cacf4a03e1da68153889d	Wir haben uns entschieden, SuperBoost selbst auf den Prüfstand zu stellen, um zu sehen wie stark sich die Internetgeschwindigkeit verbessert.	OBJ
+4d93889e758dc139e25f8af01777ea55809b0379	Treibt sie die Kinder bei der Arbeit an?	OBJ
+9e8752e803c588039bfe94e697184ac5df212452	Und reichte sie wirklich bis Juni: Dann braucht es auch keine Öffnungen mehr – weil es dann fast niemandem mehr geben wird, der nochmal aufschließt.	SUBJ
+d2e06c4e13a00cee3b4e4ca25cb29e110ceaf09a	«Heute steht die ganze Nation hinter unseren katholischen Mitbürgern», sagte Macron in der Nähe des Tatorts.	OBJ
+034be911a167c1ec2afaaabb05323e7120863ff4	Bei den meisten dieser Kinder kam es zu einer schweren Erkrankung mit Infektion, die zu einer hohen Zahl von Krankenhausaufenthalten führte – zwei von 35 Kindern starben an der Infektion.	OBJ
+db3e6a8ef80908dbb177420a3d7fde0e54c671a2	„Es gibt eine hohe Korrelation zwischen der Anzahl der geimpften Personen pro Tag und der Anzahl der Todesfälle pro Tag, im Bereich von bis zu 10 Tagen, in allen Altersgruppen.	OBJ
+c7acd1bc0542f6b47002ecb5addfe00af2274a3e	Der Psychologe Dr. Ulrich Gutweniger steuerte die Bewertung des Maskentragens aus psychologischer Sicht bei.	OBJ
+08f4a95f6ba52d4c6c17c9bc98c6f0d954898301	Diesmal startet die angebliche neue Seuche nicht von China aus sondern von Indien!	SUBJ
+c65a9dae85663abcf4085f6c28dd8660121e2221	Die sind endemisch, also saisonal, die kommen vor allem dann vor, wenn auch Grippezeit ist.	OBJ
+e383459e051f161f83c3036dd0c67386c4f09731	Impfstoffe, die ohne das S-Protein gegen andere Teile des Virus, wie z.B. das Nukleokapsid, gerichtet sind, haben keinen Schutz gegen eine CoV-Infektion und eine erhöhte Lungenpathologie gezeigt.	OBJ
+eaaf806419a242618ddb6a8cf8ee5b9a3ee7a6ca	Auch die Zahl der bislang gemeldeten Todesfälle übersteigt bereits die seit 2000 bis zum Jahr 2020 erfassten Toten durch andere Impfungen um mehr als das Dreifache.	OBJ
+8999aebb324a68d548588c0b96dcb3e1d5ac71db	Doch die gesundheitlichen und wirtschaftlichen Folgen geraten völlig aus dem starren Blick nur auf “Corona”.	SUBJ
+4c009eb7e833f17d8cc31e8404d46f19d1202c4f	Kopfschmerzen, Nackensteifigkeit, Erbrechen, starke Depressionen, epileptische Anfälle, ein Querschnittsyndrom, inkomplette oder halbseitige Lähmungen, Sprachstörungen, ataktische Gangstörungen und vor allem auch eine beidseitige Entzündung des Sehnervs mit Sehstörungen können ebenfalls auftreten.	OBJ
+a5f4cfd8dc6d90cb6269b81e1728b80d266dfd65	Beratungen sollen ab Mittwoch nur noch per Telefon stattfinden.	OBJ
+815da881116236b3096f12b16d996e4bd8a6173d	Je größer der Bettenabbau, desto mehr.	OBJ
+e8cd58a415486fe58030a2cd5966d985f3365b7d	Die übrigen Menschen müssen dieses Vermögen der Superreichen über ihre Arbeitskraft verzinsen, was aber immer schwieriger wird, weil das zu verzinsende Kapital immer weiter anwächst.	SUBJ
+87e804a451536cf3c09d8fae027c856d270e3f34	Coronaviren im Allgemeinen gab es doch schon immer, dieses ist einfach ein spezielles mehr.	SUBJ
+2ff3e0489bb91b895900e533cfd9373962b53b17	Der gelernte Journalist ist jedoch kein Freund von Schubladen, sieht sich in manchen Themen eher als in der Wolle gefärbten Liberalen, dem vor allem die Unantastbarkeit der freien Meinungsäußerung und ein Zurückdrängen des Staates aus dem Alltag der Deutschen am Herzen liegt.	SUBJ
+fa9d8d5bda256a01d9236c86ba4e8748624325b0	Bundesweit seien das bis August 2021 schon 103.000 Fälle.	OBJ
+4229bd56d8d8fd332665ba9d6b64ef6943ff0caa	Das scheint immer noch den allerwenigsten Menschen bewusst zu sein.	SUBJ
+883241acac5b516200839672513b3fb47b0d5fd1	Pro Covid-Fall im Krankenhaus gibt es übrigens bis zu 9500 Euro Ausgleichszahlungen aus der Bundeskasse.	OBJ
+146abc0d0ac87d81dcb54f34328ac5ca8d984ac4	Das klingt mehr nach Alarm als nach Handlungsaufforderung.	SUBJ
+ec0abffcb5f691bead6594e4c1f27031ded9dc31	Das grundsätzliche Problem: Die Inhaltsstoffe der Masken sind von der Zulassung nicht betroffen.	OBJ
+d99efac8000fd6f2594efc4ad509470bf719d62f	In Deutschland wurden dem Paul-Ehrlich-Institut laut Sicherheitsbericht vom 19. August 2021 bis Ende Juli über 131.000 Verdachtsfälle gemeldet, von denen rund 14.000 als schwerwiegend eingestuft wurden.	OBJ
+b3995d8200b77f460e05ddc3f70d7277143ce09a	Denn es sind einfach zu viele Fälle auf einmal.	SUBJ
+9d5d1f39b9d09e30f8a0ade06a091dac6bcb2f7f	Nur so könne ein verschärfter Pflegenotstand ausgeschlossen werden.	OBJ
+0f7d6082fb3bbc3553b892038ee49aa637efa884	Mit Hilfe von Statistik erhöht Österreichs Gesundheitsministerium die Fallzahlen an Infizierten (positiv Getesteten).	OBJ
+06776086f9f96bfa15fc1953c4ffbce003d318af	Sie sei mit ihrer Schwester aus der Türkei mit einem Flugzeug eingereist.	OBJ
+3f2c1b301bf33215b7d8d26a099d496de9dd029c	Andererseits könnte sich die Zahl derer, die sich Schleppern anvertrauen, dadurch immer weiter erhöhen.	SUBJ
+d2f13c807ef471a8fd861c70338beb91f4301df8	Korrektur (26.12.2021): Den Aufschlag gibt es ausdrücklich nur für laborbestätigte Fälle.	OBJ
+9a1d7cb9f5d5b0d097bd96fdf04a7ac36baaf459	Ein Zuviel an Mineralstoffprodukten bringt die feinen Regelkreisläufe im Körper durcheinander.	OBJ
+ab89d25aa552b3bd04f4ebf4499450eb2c069fb3	"So sei es immerhin gelungen, die drei Millionen Euro Soforthilfe für Syrien aufzustellen: ""Das reicht vielen nicht, aber es ist auch nicht nichts."	OBJ
+8a0970ba34ebf0731c9763098fd05e6c17b50778	Für mein Dafürhalten bleibt da nur noch die „Impfung“ übrig.	SUBJ
+cdce93c535b8b9ce27980817ad5163e5fde702b0	Siehe hierzu auch die „Empfeh­lungen der BAuA und des ad-Hoc AK „Covid-19“ des ABAS zum Einsatz von Schutz­masken im Zusam­men­hang mit SARS-CoV-2“.	OBJ
+e67904e4a02038a94cc86d63abce3ee29fe1cf05	"Daher kann man im gesunden Zustand ""keine Antikörper"" finden, weil sie noch nicht gebildet sind."	OBJ
+1f9ae762015c8304bd825f4b2b018fc34b9b8edd	Geimpfte und Genesene können die Quarantäne aber abwenden, wenn sie bereits vor ihrer Einreise einen Genesenen- oder Impfnachweis an die deutschen Behörden übermitteln.	OBJ
+76d4e8c4351d8bd3ee257e64b8cbbbd3a27fd9b6	»Der Gesundheitsminister und sein Sprecher informieren die Medien nicht, sondern dirigieren sie«, so der Tagesspiegel.	OBJ
+4fa03fda3085f4e6476210173c6e72aa30133f57	Und mit welchen Langzeitschäden durch die Maskenverordnung sich unser Gesundheitswesen dann in ein paar Jahren auseinandersetzen darf.	SUBJ
+6ab2d587eb4e8a1ea13178970797e92a23096d27	Der Tennisstar fliegt am Abend (Ortszeit) aus Australien in Richtung Dubai ab.	OBJ
+0d600418df876757c58c8c62b3e00722470acdda	Adebahr: Ich denke, am vergangenen Freitag ist von dieser Seite aus ausführlich zur Frage der Rüstungsexporte Deutschlands Stellung genommen und auch gesagt worden, dass wir zu Einzelfällen keine Stellung nehmen, dass es ein restriktives Rüstungsexportregime in Deutschland gibt und dass selbstverständlich alle deutschen Rüstungsexporte das rechtliche und gesetzliche Verfahren durchlaufen.	OBJ
+74d13ee29ce57d55f3e1eeb880cdd3ea22becc3d	Das BSI war in den letzten Wochen bei allen Entwicklungsschritten laufend beteiligt und hat die App selbst und die zugehörige Infrastruktur ständig im Hinblick auf Sicherheit geprüft.	OBJ
+a6a5dd1cbe53ecf9ed3cc5f1efe7bb7bb974af41	Und tatsächlich sind massenhaft die – uns gut bekannten – Stäbchen zu sehen, die durch die kleinen Kinderhände hastig in die geläufigen Verpackungen befördert werden.	SUBJ
+aa8a20f9e06135b7c7c1b5b1cb74630c0f2e1335	2014 hatte die Affäre des SPD-Bundestagsabgeordneten Sebastian Edathy für Schlagzeilen gesorgt.	OBJ
+64d90452f73749faae01af2e5fd15b0b6e0c5e29	"Aber es gibt noch Schwachstellen."""	OBJ
+eabf00f790ada97cf4c0fbb033d2c619f4188595	Mit 48 Prozent zählt die Impfquote in Europa zu den niedrigsten aller europäischen Länder.	OBJ
+c074abb6c9108a8b072155d480d5b80a0fd2b650	Forciert wurde die Empfehlung der frühen invasiven Beatmung durch chinesische Fachberichte, denen viele Intensivmediziner offenbar mehr Glauben schenkten als ihren deutschen Kollegen.	SUBJ
+26742376756a241814a3e089349d1c08dd267012	Der lettische Regierungschef Krisjans Karins hatte seine Landsleute zudem dazu aufgefordert sich „nicht zu versammeln, nicht zu besuchen und die Kontakte zu beschränken“.	OBJ
+6c68576e3227cd0ae611abe6527e441c196a4e6d	Das Angiotensin-konvertierende Enzym 2 wird hauptsächlich von Zellen der Lunge produziert, wo es an der Zelloberfläche als Eintrittspforte für das Virus dienen kann.	OBJ
+5c2da5d7dc995638e388fa7c0a8b643bdd266a18	„In enger Abstimmung mit dem Ministerium für Arbeit, Soziales und Integration des Landes Sachsen-Anhalt“ wurden damit 120 Intensivbetten „als Katastrophenvorsorge technisch und räumlich ertüchtigt“, heißt es auf Nachfrage.	OBJ
+7f2b3c069add8f1db904077337748b6c79d659be	Unter anderem sollen die Patrouillen an Land und zu Wasser im Nordosten des Landes verstärkt werden, wie Regierungschef Kyriakos Mitsotakis am Sonntagabend nach einer Krisensitzung des nationalen Sicherheitsrats in Athen mitteilte.	OBJ
+c689bd94d876c250724f1e1c6bec84aabff923ea	Am Mittwoch der vergangenen Woche waren zunächst zwei Mitarbeiter an einer Covid-19-Infektion erkrankt.	OBJ
