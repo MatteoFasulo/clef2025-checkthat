@@ -1,0 +1,15 @@
+[project]
+name = "clef2025-checkthat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=3.3.2",
+    "ipykernel>=6.29.5",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "sentence-transformers>=3.4.1",
+    "tqdm>=4.67.1",
+]
