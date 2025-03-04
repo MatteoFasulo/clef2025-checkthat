@@ -172,3 +172,5 @@ cython_debug/
 
 # Models folder
 models/
+mdeberta*
+ModernBERT*
