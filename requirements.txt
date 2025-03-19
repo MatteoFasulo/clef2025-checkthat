@@ -89,7 +89,9 @@ kiwisolver==1.4.8
 markupsafe==3.0.2
     # via jinja2
 matplotlib==3.10.1
-    # via clef2025-checkthat (pyproject.toml)
+    # via
+    #   clef2025-checkthat (pyproject.toml)
+    #   seaborn
 matplotlib-inline==0.1.7
     # via
     #   ipykernel
@@ -116,6 +118,7 @@ numpy==2.2.3
     #   pandas
     #   scikit-learn
     #   scipy
+    #   seaborn
     #   transformers
 nvidia-cublas-cu12==12.4.5.8
     # via
@@ -163,6 +166,7 @@ pandas==2.2.3
     # via
     #   clef2025-checkthat (pyproject.toml)
     #   datasets
+    #   seaborn
 parso==0.8.4
     # via jedi
 pexpect==4.9.0
@@ -229,6 +233,8 @@ scipy==1.15.2
     # via
     #   scikit-learn
     #   sentence-transformers
+seaborn==0.13.2
+    # via clef2025-checkthat (pyproject.toml)
 sentence-transformers==3.4.1
     # via clef2025-checkthat (pyproject.toml)
 six==1.17.0
