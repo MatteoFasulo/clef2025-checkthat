@@ -235,6 +235,8 @@ scipy==1.15.2
     #   sentence-transformers
 seaborn==0.13.2
     # via clef2025-checkthat (pyproject.toml)
+sentencepiece>=0.2.0
+    # via transformers
 sentence-transformers==3.4.1
     # via clef2025-checkthat (pyproject.toml)
 six==1.17.0
