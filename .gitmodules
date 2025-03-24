@@ -1,0 +1,3 @@
+[submodule "SubjectivityDetection"]
+	path = SubjectivityDetection
+	url = https://huggingface.co/spaces/MatteoFasulo/SubjectivityDetection
