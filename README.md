@@ -1,94 +1,129 @@
-# 📌 **Fine-tuning of mDeBERTaV3 & ModernBERT for Subjectivity Detection**
+# 📌 Fine-tuning mDeBERTaV3 & ModernBERT for Subjectivity Detection (Final Version)
 
-[**CheckThat! Lab 2025 - Task 1**](https://gitlab.com/checkthat_lab/clef2025-checkthat-lab/-/tree/main/task1)  
+## CLEF 2025 CheckThat! Lab – Task 1
 
-This project tackles the problem of **subjectivity detection in natural language** 🌐—a fundamental task for applications like **fake news detection** ❌📰 and **fact-checking** ✅. The goal is to classify sentences as **subjective (SUBJ)** or **objective (OBJ)** across various languages: **Arabic, German, English, Italian, and Bulgarian**.
-
----
-
-## 🔍 **Approaches**  
-We employ **two primary approaches** for subjectivity detection:
-
-### 1. **BERT-like Models (mDeBERTaV3 & ModernBERT)**  
-- [mDeBERTaV3-base](https://huggingface.co/microsoft/mdeberta-v3-base) 📖
-- [ModernBERT-base](https://huggingface.co/answerdotai/ModernBERT-base) 🔍
-- Fine-tuned on **language-specific datasets** with integrated **sentiment information** 💬 for enhanced performance.
-
-### 2. **Large Language Models (LLMs)**  
-- [Llama3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) 🦙
-- Evaluated on its ability to capture subjectivity from general knowledge representations.
+Detecting **subjectivity**—distinguishing subjective vs. objective sentences—is crucial for tasks like **fake-news detection** and **fact-checking**. Our final system supports five languages: **Arabic, German, English, Italian, and Bulgarian**.
 
 ---
 
-## 📊 **Key Findings**  
-- **BERT-like models** exhibit superior performance in capturing nuanced information compared to LLMs.  
-- **Incorporating sentiment information** improves the **subjective F1 score** significantly for **English** and **Italian**; less so for other languages.  
-- **Decision threshold calibration** is essential for improving performance when handling **imbalanced label distributions**.  
+## 🔍 Approaches
+
+### 1. **BERT-Like Models**
+
+* **mDeBERTaV3‑base** ([Hugging Face link](https://huggingface.co/microsoft/mdeberta-v3-base)) for multilingual support.
+* **ModernBERT‑base** ([Hugging Face link](https://huggingface.co/answerdotai/ModernBERT-base)) specifically for English language given the results on NLU tasks comparable with DeBERTaV3.
+* Fine‑tuned per language, with **sentiment-aware augmentation** for enhanced detection.
+
+### 2. **Large Language Models (LLMs)**
+
+* **Llama 3.2‑1B** ([Hugging Face link](https://huggingface.co/meta-llama/Llama-3.2-1B))
+* Evaluated out-of-the-box to benchmark against BERT-like systems.
 
 ---
 
-## 📁 **Project Structure**  
-- **Data Preparation:** 📂 Data augmentation using sentiment scores, tokenization, and preprocessing.  
-- **Model Training:** 🔧 Fine-tuning mDeBERTaV3, ModernBERT, and Llama3.2-1B.  
-- **Evaluation:** 📈 Evaluation metrics include **macro-average F1 score** and **SUBJ F1 score** with focus on **threshold optimization**.
+## 📊 Final Results
+
+* **BERT-like models outperformed** LLM baselines across all languages.
+* **Sentiment integration** yielded notable improvements in SUBJ F1 for English and Italian.
+* **Calibrated decision thresholds** proved critical to managing class imbalance effectively.
 
 ---
 
-## 🏗️ **Architecture Overview**  
-The architecture of the proposed system is illustrated below:
+### 🏅 Challenge Results — Top 3 Scores per Category
 
-<p align="center">
-  <img src="img/model_pipeline_schema1.svg" width="300" />
-</p>
+| **Setting**                 | **Participant**           | **Macro F1** | **Position** |
+|----------------------------|---------------------------|-------------:|-------------:|
+| **Monolingual – Arabic**   | aelboua                   | 0.69         | 1st          |
+|                            | tomasbernal01             | 0.59         | 2nd          |
+|                            | **AI Wizards**           | **0.56**     | **5th**      |
+| **Monolingual – English**  | msmadi                    | 0.81         | 1st          |
+|                            | kishan_g                  | 0.80         | 2nd          |
+|                            | **AI Wizards**           | **0.66**     | **19th**     |
+| **Monolingual – German**   | smollab                   | 0.85         | 1st          |
+|                            | cepanca_UNAM              | 0.83         | 2nd          |
+|                            | **AI Wizards**           | **0.77**     | **5th**      |
+| **Monolingual – Italian**  | aelboua                   | 0.69         | 1st          |
+|                            | Sumitjais                 | 0.67         | 2nd          |
+|                            | **AI Wizards**           | **0.63**     | **4th**      |
+| **Zeroshot – Greek**       | **AI Wizards**           | **0.51**     | **1st**      |
+|                            | smollab                   | 0.49         | 2nd          |
+|                            | KnowThySelf               | 0.49         | 3rd          |
+| **Zeroshot – Polish**      | aelboua                   | 0.69         | 1st          |
+|                            | Sumitjais                 | 0.67         | 2nd          |
+|                            | **AI Wizards**           | **0.63**     | **4th**      |
+| **Zeroshot – Romanian**    | msmadi                    | 0.81         | 1st          |
+|                            | KnowThySelf               | 0.80         | 2nd          |
+|                            | **AI Wizards**           | **0.75**     | **7th**      |
+| **Zeroshot – Ukrainian**   | KnowThySelf               | 0.64         | 1st          |
+|                            | Ather‑Hashmi              | 0.64         | 2nd          |
+|                            | **AI Wizards**           | **0.64**     | **4th**      |
+| **Multilingual**           | Bharatdeep_Hazarika       | 0.75         | 1st          |
+|                            | kishan_g                  | 0.75         | 1st          |
+|                            | **AI Wizards**           | **0.24**     | **15th**     |
+
+Due to a submission error during the challenge phase, our official **multilingual run** was accidentally low (Macro F1 = 0.24, 15th place). However, after the fact, we corrected the submission issue offline and achieved a **corrected Macro F1 of 0.68**, which would have placed **us 9th overall**.
+
+### ⚠️ Threshold Overfitting in the English Model
+
+Upon reviewing the results, we suspect that our English model may have **overfit the decision threshold on the dev set**, which did not generalize well to the test data. This misalignment in threshold calibration likely caused the drop in performance—illustrating a common pitfall where **checkpoint and threshold selection on English dev data fails to translate effectively to unseen test sets**, especially in multilingual tasks.
 
 ---
 
-## 💻 **Requirements**  
-- Python 3.x 🐍  
-- PyTorch 🔥  
-- Hugging Face Transformers 🤗  
-- Dependencies specified in `requirements.txt` 📋
+## 📁 Repository Layout
+
+* `baseline/` – baseline model (paraphrase-multilingual-MiniLM-L12-v2) from Sentence Transformers.
+* `data/` – task datasets.
+* `img/` – images with model pipeline schema and figures.
+* `scorer/` – evaluation utilities (`evaluate.py` supports F1 and threshold tuning).
+* `requirements.txt` – full Python environment dependencies if using `pip`.
+* `pyproject.toml` – uv dependencies if using [`uv`](https://github.com/astral-sh/uv).
 
 ---
 
-## 📦 **Installation**  
-1. Clone the repository:  
+## 🏗️ System Architecture
+
+![Model Pipeline Schema](img/model_pipeline_schema1.svg)
+
+---
+
+## 💻 Usage Guide
+
+### Setup
+
 ```bash
- git clone https://github.com/MatteoFasulo/clef2025-checkthat.git
- cd clef2025-checkthat
-```
-
-2. Install dependencies:  
-```bash
+git clone https://github.com/MatteoFasulo/clef2025-checkthat.git
+cd clef2025-checkthat
 pip install -r requirements.txt
 ```
 
----
+we recommend using a [`uv`](https://github.com/astral-sh/uv) environment for better dependency management. After installing `uv`, run:
 
-## 🔬 **Evaluation**  
-To evaluate the model performance on the development set for **English**, use:
 ```bash
-python scorer/evaluate.py -g data/english/dev_en.tsv -p results/dev_english_predicted.tsv
+uv sync
 ```
 
-To evaluate the **sentiment-enhanced model**:
+### Run Evaluation (English dev set)
+
+The evaluation script requires the ground truth and predicted results in TSV format. The expected columns are `sentence_id`, and `label` (SUBJ or OBJ).
+
 ```bash
-python scorer/evaluate.py -g data/english/dev_en.tsv -p results/dev_english_sentiment_predicted_.tsv
+python scorer/evaluate.py \
+  -g data/english/dev_en.tsv \
+  -p results/dev_english_predicted.tsv
 ```
 
+### Evaluate Sentiment-Augmented Variant
+
+```bash
+python scorer/evaluate.py \
+  -g data/english/dev_en.tsv \
+  -p results/dev_english_sentiment_predicted_.tsv
+```
+
+evaluation can be performed on any language by changing the `-g` and `-p` paths accordingly and providing the appropriate ground truth and predictions.
+
 ---
 
-## 🔗 **External Resources**  
-- [GitHub Repository](https://github.com/MatteoFasulo/clef2025-checkthat) 📂  
-- [Dataset](https://gitlab.com/checkthat_lab/clef2025-checkthat-lab/-/tree/main/task1/data) 🗃️  
+## 🔐 License
 
----
-
-## ✅ **Conclusion**  
-This project highlights the **effectiveness of BERT-like models** for subjectivity detection and emphasizes the importance of **handling linguistic variability and class imbalance**. Future work will focus on enhancing **LLM performance** and addressing challenges identified in the **error analysis**.
-
----
-
-## 📜 **License**  
-Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+Distributed under **CC–BY 4.0**. See [LICENSE](LICENSE) for details.
