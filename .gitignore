@@ -170,7 +170,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Models folder
-models/
-mdeberta*
-ModernBERT*
+# Results folder
+/results
