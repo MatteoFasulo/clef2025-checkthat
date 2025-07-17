@@ -155,4 +155,18 @@ python scorer/evaluate.py \
 > [!Tip]
 > Evaluation can be performed on any language by changing the -g and -p paths accordingly and providing the appropriate ground truth and predictions.
 
+---
+
+## 🤗 Hugging Face Hub
+
+Our models are available on the Hugging Face Hub for easy access. You can also interactively explore the results using our dashboard on Hugging Face Spaces.
+
+[AI Wizards @ CLEF 2025 - CheckThat! Lab - Task 1 Subjectivity](https://huggingface.co/collections/MatteoFasulo/clef-2025-checkthat-lab-task-1-subjectivity-6878f0199d302acdfe2ceddb)
+
+---
+
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0).
+
 [1]: https://arxiv.org/pdf/2507.11764 "AI Wizards at CheckThat! 2025: Enhancing Transformer-Based ..."
