@@ -246,9 +246,3 @@ def save_predictions(test_data, predictions, filename: str, save_dir: str = "res
 
     print(f"Saved predictions into file:", predictions_filepath)
     return predictions_filepath
-
-def fmt(v):
-    # if it’s a NumPy array or scalar, extract the single element
-    if isinstance(v, np.ndarray) or hasattr(v, "item"):
-        v = v.item()
-    return f"{v:.4f}"

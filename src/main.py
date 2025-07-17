@@ -1,16 +1,10 @@
-import os
 import sys
-import time
 from typing import Literal
 import logging
-from tabulate import tabulate
-
-from tqdm import tqdm
 
 import numpy as np
 import torch
 
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from datasets import Dataset
 from transformers import DataCollatorWithPadding, TrainingArguments, DebertaV2Config, ModernBertConfig, AutoModelForSequenceClassification, AutoTokenizer
 
@@ -18,13 +12,9 @@ import constants as const
 from custom_trainer import CustomTrainer
 from custom_deberta import CustomModel
 from custom_modernbert import CustomModernBertModel
-from utils import Subjectivity, tokenize_text, evaluate_metrics, save_predictions, fmt
+from utils import Subjectivity, tokenize_text, evaluate_metrics, save_predictions
 
 logger = logging.getLogger(__name__)
-
-# Store the results and predictions
-results = {}
-predictions_dict = {}
 
 def run(
     detector: Subjectivity,
@@ -32,6 +22,7 @@ def run(
     model_card: str,
     pretrained_card: str,
     language: str = "english",
+    original_language: str = "english",
     use_sentiment: bool = False,
 ):
     # 1) prepare tokenizer
@@ -43,7 +34,7 @@ def run(
 
     # 2) (optional) extract sentiment features
     if use_sentiment:
-        for split in ["train", "dev", "test"]:
+        for split in ["dev", "test"]:
             # extract sentiment scores for each split
             df = detector.all_data[language][split]
 
@@ -97,13 +88,12 @@ def run(
 
     # 3) build datasets + tokenize
     splits = {}
-    for split in ["train", "dev", "test"]:
+    for split in ["dev", "test"]:
         df = detector.all_data[language][split]
         ds = Dataset.from_pandas(df)
         splits[split] = ds.map(tokenize_text, batched=True, fn_kwargs={"tokenizer": tokenizer})
 
-    # 4) weights, data‑collator, training args
-    class_weights = detector.get_class_weights(detector.all_data[language]["train"])
+    # 4) data‑collator, training args
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     output_dir = f"{model_family}-{language}" + ("-sentiment" if use_sentiment else "")
 
@@ -125,11 +115,9 @@ def run(
     trainer = CustomTrainer(
         model=model,
         args=training_args,
-        train_dataset=splits["train"],
         eval_dataset=splits["dev"],
         data_collator=data_collator,
         compute_metrics=evaluate_metrics,
-        class_weights=class_weights,
     )
 
     # 5) thresholding, predict & save, compute metrics
@@ -139,28 +127,12 @@ def run(
         save_predictions(
             splits[split],
             pred_info.predictions,
-            filename=f"{split}_{language}"
+            filename=f"{split}_{original_language}"
                      + ("_sentiment_predicted.tsv" if use_sentiment else "_predicted.tsv"),
             save_dir=const.RESULTS_PATH,
         )
-        if split == "test":
-            labels = pred_info.label_ids
-            preds = pred_info.predictions
-            acc = accuracy_score(labels, preds)
-            m_prec, m_rec, m_f1, m_s = precision_recall_fscore_support(labels, preds, average="macro", zero_division=0)
-            p_prec, p_rec, p_f1, p_s = precision_recall_fscore_support(labels, preds, labels=[1], zero_division=0)
-            results_key = f"{model_family}-{language}" + ("-sent" if use_sentiment else "") + "-thr"
-            results[results_key] = {
-                'macro_F1': m_f1,
-                'macro_P': m_prec,
-                'macro_R': m_rec,
-                'SUBJ_F1': p_f1[0],
-                'SUBJ_P': p_prec[0],
-                'SUBJ_R': p_rec[0],
-                'accuracy': acc
-            }
 
-    return results[f"{results_key}"]
+    return
 
 
 def main(args):
@@ -178,23 +150,17 @@ def main(args):
     torch.cuda.manual_seed_all(args.seed)
     torch.backends.cudnn.benchmark = False
 
-    # Initialize Subjectivity class
-    logger.info("Loading data from %s …", args.data_folder)
-    t0 = time.time()
-    detector = Subjectivity(data_folder=args.data_folder, seed=args.seed, device=args.device)
-    logger.info("Subjectivity initialized in %.1fs", time.time() - t0)
-
-    for split in ["train","dev","test"]:
-        df = detector.all_data[args.language][split]
+    for split in ["dev","test"]:
+        df = args.detector.all_data[args.language][split]
         counts = df["label"].value_counts(normalize=True).to_dict()
         logger.debug("%5s split: %d examples", split, len(df))
         logger.debug("    class balance: %s", ", ".join(f"{k}={v:.1%}" for k,v in counts.items()))
-        if args.verbose and split=="train":
+        if args.verbose:
             lengths = df["sentence"].str.len()
             desc = lengths.describe()[["min","mean","max"]].rename({"min":"MinLen","mean":"MeanLen","max":"MaxLen"})
             logger.debug("    lengths: %s", desc.to_dict())
 
-    logger.info("Running with: family=%s, sentiment=%s, lang=%s", args.model_family, args.use_sentiment, args.language)
+    logger.info(f"Running with: family={args.model_family}, sentiment={args.use_sentiment}, lang={args.language}, no arabic={args.no_arabic if args.no_arabic else 'False'}")
 
     model_family = args.model_family
     use_sentiment = args.use_sentiment
@@ -202,27 +168,37 @@ def main(args):
 
     if model_family == "deberta":
         model_card = "microsoft/mdeberta-v3-base"
-        pretrained_card = f"MatteoFasulo/mdeberta-v3-base-subjectivity" + (
-            f"-sentiment-{language}" if use_sentiment else f"-{language}"
-        )
-    else:  # modernbert
+
+        # base repo stem
+        stem = "MatteoFasulo/mdeberta-v3-base-subjectivity"
+
+        if use_sentiment:
+            # sentiment variants are named "...-sentiment-<lang>"
+            lang_part = f"sentiment-{language if language!='zero' else 'multilingual'}"
+        else:
+            # non‑sentiment: "...-<lang>"
+            lang_part = f"{language if language!='zero' else 'multilingual'}"
+
+        # optionally strip out Arabic from the multilingual variant
+        arabic_suffix = "-no-arabic" if args.no_arabic and language in ("zero","multilingual") else ""
+
+        pretrained_card = f"{stem}-{lang_part}{arabic_suffix}"
+
+    elif model_family == "modernbert":
         model_card = "answerdotai/ModernBERT-base"
         pretrained_card = f"MatteoFasulo/ModernBERT-base-subjectivity" + (
             f"-sentiment-{language}" if use_sentiment else f"-{language}"
         )
 
-    stats = run(
-        detector,
+    run(
+        args.detector,
         model_family=model_family,
         model_card=model_card,
         pretrained_card=pretrained_card,
         language=language,
+        original_language=args.original_language,
         use_sentiment=use_sentiment,
     )
-
-    table = [[k, fmt(v)] for k, v in stats.items()]
-    logger.info("\nFinal test metrics:\n%s", tabulate(table, headers=["Metric","Value"]))
-
     return
 
 
@@ -244,13 +220,38 @@ if __name__ == "__main__":
     parser.add_argument(
         "--language",
         type=str,
-        choices=["arabic", "english", "german", "italian"],
+        choices=["arabic","english","german","italian","multilingual","greek","polish","romanian","ukrainian"],
         default="english",
         help="Language of the dataset to use.",
     )
     parser.add_argument("--use_sentiment", action="store_true", help="Whether to use sentiment features in the model.")
+    parser.add_argument("--no_arabic", action="store_true", help="Whether to exclude Arabic language and load the multilingual model without it.")
     parser.add_argument("--verbose", action="store_true", help="Print label distributions.")
 
     args = parser.parse_args()
-    tqdm.pandas()
+
+    # Initialize the Subjectivity detector
+    detector = Subjectivity(
+        data_folder=args.data_folder, 
+        seed=args.seed, 
+        device=args.device, 
+    )
+
+    # Zero-shot languages logic
+    args.original_language = args.language
+    zero_shots = {"greek","polish","romanian","ukrainian"}
+    if args.language in zero_shots:
+        target = args.language
+        args.language = "zero"
+        detector = Subjectivity(
+            data_folder=args.data_folder, 
+            seed=args.seed, 
+            device=args.device
+        )
+        zero_dev = detector.all_data["multilingual"]["dev"]
+        zero_test = detector.all_data[target]["test"]
+        detector.all_data["zero"] = {"dev": zero_dev, "test": zero_test}
+
+    args.detector = detector
+
     main(args)

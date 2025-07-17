@@ -34,7 +34,7 @@ Our innovation: *augmenting transformer embeddings with sentiment signals*, resu
 
    * **Multilingual** BERT variants across all official CLEF languages
    * **ModernBERT** as a strong English alternative
-   * **Llama 3.2‑1B** as a zero-shot baseline
+   * **Llama 3.2‑1B** as a zero-shot baseline adding a classifier on top of the LLM embeddings
 
 3. **Threshold Calibration for Imbalance**
    A simple yet effective method to tune decision thresholds on each language’s dev data to enhance macro-F1 performance.
@@ -109,18 +109,40 @@ or using `uv`:
 uv sync
 ```
 
-Run English sentiment-augmented model:
+### English model with DeBERTa
 
 ```bash
-python src/main.py \
-  --model_family deberta \
-  --language english
+python src/main.py --model_family deberta --language english
 ```
 
 > [!Tip]
-> You can also run the model with sentiment augmentation by adding the `--use_sentiment` flag. Running with `--verbose` will provide additional logging information from Hugging Face Hub and the model.
+> You can also run the model with sentiment augmentation by adding the `--use_sentiment` flag. Running with `--verbose` will provide additional logging information from Hugging Face Hub and the model. The model used will be the [english mDeBERTaV3-base model](https://huggingface.co/MatteoFasulo/mdeberta-v3-base-subjectivity-english).
 
-Evaluate predictions:
+### Multilingual model with DeBERTa
+
+```bash
+python src/main.py --model_family deberta --language multilingual --use_sentiment
+```
+
+>**Note**: The model used will be the [multilingual mDeBERTaV3-base sentiment-augmented model](https://huggingface.co/MatteoFasulo/mdeberta-v3-base-subjectivity-sentiment-multilingual).
+
+### Multilingual model without Arabic
+
+```bash
+python src/main.py --model_family deberta --language multilingual --no_arabic --use_sentiment
+```
+
+>**Note**: The model used will be the [multilingual mDeBERTaV3-base sentiment-augmented model finetuned without Arabic](https://huggingface.co/MatteoFasulo/mdeberta-v3-base-subjectivity-sentiment-multilingual-no-arabic).
+
+### Greek zero-shot with DeBERTa
+
+```bash
+python src/main.py --model_family deberta --language greek --no_arabic --use_sentiment
+```
+
+>**Note**: The model used will be the same model as above, but the evaluation will be performed on the Greek test set using the pretrained multilingual model.
+
+### Evaluate predictions
 
 The evaluation script requires the ground truth and predicted results in TSV format. All the predictions exported by the `main.py` script are in the results/ folder and can be used directly with the scorer.
 
