@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Matteo"
+  given-names: "Fasulo"
+  orcid: "https://orcid.org/0000-0002-7019-3157"
+- family-names: "Luca"
+  given-names: "Babboni"
+  orcid: "https://orcid.org/0009-0001-5260-7467"
+- family-names: "Luca"
+  given-names: "Tedeschini"
+  orcid: "https://orcid.org/0009-0006-0375-829X"
+title: "AI Wizards at CheckThat! 2025: Enhancing Transformer-Based Embeddings with Sentiment for Subjectivity Detection in News Articles"
+version: 2.0.4
+doi: 10.48550/arXiv.2507.11764
+date-released: 2025-07-15
+url: "https://github.com/MatteoFasulo/clef2025-checkthat"

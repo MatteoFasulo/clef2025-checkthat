@@ -26,10 +26,6 @@ logger = logging.getLogger(__name__)
 results = {}
 predictions_dict = {}
 
-def extract_sentiment(text):
-    sentiments = const.SENT_PIPE(text)[0]
-    return {k: v for k, v in [(list(sentiment.values())[0], list(sentiment.values())[1]) for sentiment in sentiments]}
-
 def run(
     detector: Subjectivity,
     model_family: Literal["deberta", "modernbert"],
@@ -49,7 +45,25 @@ def run(
     if use_sentiment:
         for split in ["train", "dev", "test"]:
             # extract sentiment scores for each split
-            detector.all_data[language][split][['positive', 'neutral', 'negative']] = detector.all_data[language][split].progress_apply(lambda x: extract_sentiment(x['sentence']), axis=1, result_type='expand')
+            df = detector.all_data[language][split]
+
+            # batch the texts to avoid memory issues
+            batched_results = const.SENT_PIPE(df["sentence"].tolist(), batch_size=const.BATCH_SIZE)
+
+            # separate the results into positive, neutral, and negative scores
+            positives, neutrals, negatives = [], [], []
+            for result in batched_results:
+                # Sort by label to guarantee order, just in case
+                result_map = {entry["label"]: entry["score"] for entry in result}
+                positives.append(result_map.get("positive", 0.0))
+                neutrals.append(result_map.get("neutral", 0.0))
+                negatives.append(result_map.get("negative", 0.0))
+
+            # add the sentiment scores to the dataframe
+            df["positive"] = positives
+            df["neutral"] = neutrals
+            df["negative"] = negatives
+            detector.all_data[language][split] = df
 
         # pick the correct HF config
         ConfigClass = {"deberta": DebertaV2Config, "modernbert": ModernBertConfig}[model_family]
@@ -82,23 +96,15 @@ def run(
     logger.info("config.name_or_path = %s", model.config._name_or_path)
 
     # 3) build datasets + tokenize
-    train_df = detector.all_data[language]["train"]
-    dev_df = detector.all_data[language]["dev"]
-    test_df = detector.all_data[language]["test"]
-
-    train_ds = Dataset.from_pandas(train_df)
-    dev_ds = Dataset.from_pandas(dev_df)
-    test_ds = Dataset.from_pandas(test_df)
-
-    train_ds = train_ds.map(tokenize_text, batched=True, fn_kwargs={"tokenizer": tokenizer})
-    dev_ds = dev_ds.map(tokenize_text, batched=True, fn_kwargs={"tokenizer": tokenizer})
-    test_ds = test_ds.map(tokenize_text, batched=True, fn_kwargs={"tokenizer": tokenizer})
+    splits = {}
+    for split in ["train", "dev", "test"]:
+        df = detector.all_data[language][split]
+        ds = Dataset.from_pandas(df)
+        splits[split] = ds.map(tokenize_text, batched=True, fn_kwargs={"tokenizer": tokenizer})
 
     # 4) weights, data‑collator, training args
-    data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
-
     class_weights = detector.get_class_weights(detector.all_data[language]["train"])
-
+    data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
     output_dir = f"{model_family}-{language}" + ("-sentiment" if use_sentiment else "")
 
     training_args = TrainingArguments(
@@ -119,37 +125,40 @@ def run(
     trainer = CustomTrainer(
         model=model,
         args=training_args,
-        train_dataset=train_ds,
-        eval_dataset=dev_ds,
+        train_dataset=splits["train"],
+        eval_dataset=splits["dev"],
         data_collator=data_collator,
         compute_metrics=evaluate_metrics,
         class_weights=class_weights,
     )
 
     # 5) thresholding, predict & save, compute metrics
-    best_thr = trainer.compute_best_threshold(dataset=dev_ds)
-    pred_info = trainer.predict(dataset=test_ds, threshold=best_thr)
-    save_predictions(
-        test_ds,
-        pred_info.predictions,
-        filename=f"test_{language}" + ("_sentiment_predicted.tsv" if use_sentiment else "_predicted.tsv"),
-        save_dir=const.RESULTS_PATH,
-    )
-    labels = pred_info.label_ids
-    preds = pred_info.predictions
-    acc = accuracy_score(labels, preds)
-    m_prec, m_rec, m_f1, m_s = precision_recall_fscore_support(labels, preds, average="macro", zero_division=0)
-    p_prec, p_rec, p_f1, p_s = precision_recall_fscore_support(labels, preds, labels=[1], zero_division=0)
-    results_key = f"{model_family}-{language}" + ("-sent" if use_sentiment else "") + "-thr"
-    results[results_key] = {
-        'macro_F1': m_f1,
-        'macro_P': m_prec,
-        'macro_R': m_rec,
-        'SUBJ_F1': p_f1[0],
-        'SUBJ_P': p_prec[0],
-        'SUBJ_R': p_rec[0],
-        'accuracy': acc
-    }
+    best_thr = trainer.compute_best_threshold(dataset=splits["dev"])
+    for split in ["dev", "test"]:
+        pred_info = trainer.predict(dataset=splits[split], threshold=best_thr)
+        save_predictions(
+            splits[split],
+            pred_info.predictions,
+            filename=f"{split}_{language}"
+                     + ("_sentiment_predicted.tsv" if use_sentiment else "_predicted.tsv"),
+            save_dir=const.RESULTS_PATH,
+        )
+        if split == "test":
+            labels = pred_info.label_ids
+            preds = pred_info.predictions
+            acc = accuracy_score(labels, preds)
+            m_prec, m_rec, m_f1, m_s = precision_recall_fscore_support(labels, preds, average="macro", zero_division=0)
+            p_prec, p_rec, p_f1, p_s = precision_recall_fscore_support(labels, preds, labels=[1], zero_division=0)
+            results_key = f"{model_family}-{language}" + ("-sent" if use_sentiment else "") + "-thr"
+            results[results_key] = {
+                'macro_F1': m_f1,
+                'macro_P': m_prec,
+                'macro_R': m_rec,
+                'SUBJ_F1': p_f1[0],
+                'SUBJ_P': p_prec[0],
+                'SUBJ_R': p_rec[0],
+                'accuracy': acc
+            }
 
     return results[f"{results_key}"]
 
