@@ -165,6 +165,22 @@ Our models are available on the Hugging Face Hub for easy access. You can also i
 
 ---
 
+## Citing
+
+If you find our work helpful or inspiring, please feel free to cite it:
+
+```bibtex
+@misc{fasulo2025aiwizardscheckthat2025,
+      title={AI Wizards at CheckThat! 2025: Enhancing Transformer-Based Embeddings with Sentiment for Subjectivity Detection in News Articles}, 
+      author={Matteo Fasulo and Luca Babboni and Luca Tedeschini},
+      year={2025},
+      eprint={2507.11764},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.11764}, 
+}
+```
+
 ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0).
