@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="841mm"
+   height="1189mm"
+   viewBox="0 0 3178.5828 4493.8584"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="poster.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.25522104"
+     inkscape:cx="1322.3831"
+     inkscape:cy="1075.5383"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="603.39853"
+       y="944.27952"
+       width="1375.2785"
+       height="818.898"
+       id="rect11" />
+    <rect
+       x="278.19023"
+       y="1030.4793"
+       width="1829.7864"
+       height="693.51649"
+       id="rect9" />
+    <rect
+       x="289.94475"
+       y="775.79811"
+       width="877.67059"
+       height="376.14454"
+       id="rect7" />
+    <rect
+       x="752.28907"
+       y="920.77048"
+       width="807.14349"
+       height="513.28057"
+       id="rect3" />
+    <rect
+       x="1101.0064"
+       y="1116.6791"
+       width="1132.3518"
+       height="552.46228"
+       id="rect6" />
+    <rect
+       x="481.93518"
+       y="893.34326"
+       width="2064.8768"
+       height="615.15304"
+       id="rect5" />
+    <rect
+       x="364.39001"
+       y="1144.1063"
+       width="1751.423"
+       height="677.84379"
+       id="rect4" />
+    <rect
+       x="-2.7705661"
+       y="22.164529"
+       width="3180.3314"
+       height="531.22868"
+       id="rect2" />
+    <rect
+       x="130.21661"
+       y="80.346418"
+       width="2967.2763"
+       height="329.69737"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text2"
+       style="font-size:133.333px;line-height:1.1;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);shape-padding:1.38528;fill:#000000"
+       inkscape:label="Titolo"
+       transform="matrix(0.97776662,0,0,1,42.360768,15.781333)"
+       x="12498.451"
+       y="0"><tspan
+         x="0.061348658"
+         y="131.898"
+         id="tspan4"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011062622 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00023269653 0 0 0.00010681152 0 0 0 0 0 0.00015258789 -0.00023651123"
+           style="font-family:'times new roman';-inkscape-font-specification:'times new roman, ';text-align:center;text-anchor:middle;stroke-width:69.411"
+           id="tspan2">Enhancing Transformer-Based Embeddings with Sentiment </tspan></tspan><tspan
+         x="433.94696"
+         y="278.94498"
+         id="tspan6"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011444092 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00015258789 -0.00023269653 0.00015258789"
+           style="font-family:'times new roman';-inkscape-font-specification:'times new roman, ';text-align:center;text-anchor:middle;stroke-width:69.411"
+           id="tspan5">for Subjectivity Detection in News Articles</tspan></tspan></text>
+  </g>
+</svg>
